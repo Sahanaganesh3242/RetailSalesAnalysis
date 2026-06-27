@@ -66,29 +66,4 @@ CodeAlpha_RetailSalesAnalysis/
 │   ├── feature_importance.png
 │   └── predicted_vs_actual.png
 └── README.md
-```
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python generate_dataset.py   # creates data/retail_sales.csv
-python analysis.py           # runs EDA + model, saves charts to images/
-```
-
-## Tech Stack
-- Python, pandas, numpy
-- matplotlib, seaborn (visualization)
-- scikit-learn (Random Forest model)
-
-## Sample Visualizations
-
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
-![Revenue by Category](images/revenue_by_category.png)
-![Feature Importance](images/feature_importance.png)
-
-## Notes for Submission
-- Push this folder to a GitHub repo named **CodeAlpha_RetailSalesAnalysis**
-  (or rename per your program's naming convention, e.g. `Thiranex_RetailSalesAnalysis`)
-- Record a short video walking through the dataset, EDA findings, and model results
-- Submit the repo link as required by your internship task
+``
