@@ -1,0 +1,3001 @@
+order_id,order_date,category,region,payment_mode,unit_price,quantity,discount_pct,net_amount
+1754,2023-01-01,Electronics,North,Debit Card,193.25,2,15,328.52
+1782,2023-01-01,Electronics,East,Debit Card,226.61,2,0,453.22
+1242,2023-01-01,Clothing,West,UPI,44.01,1,0,44.01
+1115,2023-01-01,Groceries,West,Credit Card,15.05,4,0,60.2
+2707,2023-01-02,Furniture,East,UPI,284.83,4,5,1082.35
+1031,2023-01-02,Beauty,South,UPI,37.21,3,0,111.63
+2208,2023-01-02,Toys,West,Credit Card,26.5,3,15,67.58
+2218,2023-01-02,Toys,North,Debit Card,21.62,1,10,19.46
+3163,2023-01-02,Clothing,South,Debit Card,51.3,1,5,48.74
+1255,2023-01-02,Clothing,West,UPI,40.54,4,0,162.16
+3228,2023-01-02,Electronics,West,UPI,199.64,2,15,339.39
+2151,2023-01-03,Clothing,East,Debit Card,34.58,3,0,103.74
+1531,2023-01-03,Groceries,South,Debit Card,18.82,5,0,94.1
+3399,2023-01-03,Clothing,East,UPI,41.7,4,10,150.12
+1249,2023-01-03,Groceries,West,Debit Card,14.81,5,15,62.94
+3001,2023-01-04,Electronics,East,Credit Card,319.0,5,5,1515.25
+2153,2023-01-04,Beauty,West,Credit Card,35.62,3,0,106.86
+1909,2023-01-04,Electronics,West,Credit Card,207.03,5,10,931.64
+3693,2023-01-04,Electronics,East,Credit Card,185.08,2,0,370.16
+1652,2023-01-04,Toys,South,Credit Card,30.16,2,5,57.3
+2047,2023-01-06,Electronics,West,UPI,251.33,1,10,226.2
+3267,2023-01-06,Groceries,West,Debit Card,11.02,5,0,55.1
+2038,2023-01-07,Furniture,West,UPI,278.27,5,0,1391.35
+1192,2023-01-07,Beauty,North,UPI,21.53,2,0,43.06
+1639,2023-01-08,Electronics,North,Credit Card,206.36,1,15,175.41
+1698,2023-01-08,Clothing,East,Debit Card,45.72,5,5,217.17
+2677,2023-01-08,Groceries,North,Credit Card,12.52,2,10,22.54
+2674,2023-01-08,Groceries,East,UPI,11.87,1,0,11.87
+2365,2023-01-08,Electronics,East,Credit Card,189.22,1,0,189.22
+2605,2023-01-08,Furniture,West,Debit Card,290.91,3,20,698.18
+2267,2023-01-08,Clothing,North,Debit Card,29.78,1,15,25.31
+3391,2023-01-08,Groceries,South,Credit Card,19.34,3,20,46.42
+2698,2023-01-08,Groceries,South,Credit Card,12.55,5,0,62.75
+2053,2023-01-09,Clothing,North,UPI,41.85,5,0,209.25
+2288,2023-01-09,Electronics,South,Debit Card,216.92,2,0,433.84
+1963,2023-01-09,Clothing,North,UPI,45.31,2,0,90.62
+2950,2023-01-09,Furniture,North,Cash,293.5,2,10,528.3
+3625,2023-01-09,Electronics,South,Credit Card,187.94,4,10,676.58
+3312,2023-01-10,Beauty,East,Credit Card,30.01,2,0,60.02
+2859,2023-01-10,Toys,South,Cash,20.74,5,10,93.33
+1861,2023-01-11,Furniture,North,Credit Card,268.71,5,0,1343.55
+3892,2023-01-11,Groceries,South,UPI,14.88,5,0,74.4
+2408,2023-01-11,Electronics,North,UPI,319.22,5,5,1516.3
+1130,2023-01-11,Beauty,West,Debit Card,28.22,2,20,45.15
+2174,2023-01-11,Groceries,South,Cash,11.2,3,10,30.24
+1594,2023-01-11,Groceries,West,Credit Card,14.81,2,5,28.14
+2587,2023-01-12,Groceries,South,Debit Card,11.3,2,0,22.6
+2031,2023-01-12,Electronics,South,UPI,251.16,4,0,1004.64
+1271,2023-01-12,Clothing,West,Cash,39.4,5,0,197.0
+2371,2023-01-12,Clothing,West,Credit Card,44.53,4,10,160.31
+3934,2023-01-12,Groceries,East,Credit Card,13.75,1,5,13.06
+2927,2023-01-12,Groceries,South,UPI,10.89,4,5,41.38
+1219,2023-01-12,Clothing,North,Debit Card,42.78,3,20,102.67
+1734,2023-01-12,Beauty,West,Credit Card,30.33,1,0,30.33
+2205,2023-01-13,Electronics,North,Cash,213.28,5,15,906.44
+3596,2023-01-13,Electronics,North,Credit Card,247.34,4,10,890.42
+2459,2023-01-13,Electronics,South,Credit Card,243.13,1,20,194.5
+2711,2023-01-13,Toys,South,UPI,21.29,5,10,95.8
+2002,2023-01-13,Clothing,West,Credit Card,51.1,4,10,183.96
+1117,2023-01-13,Furniture,West,Credit Card,332.67,1,0,332.67
+1016,2023-01-15,Electronics,West,Credit Card,179.71,1,0,179.71
+2689,2023-01-15,Groceries,South,Credit Card,16.52,3,0,49.56
+2961,2023-01-15,Electronics,West,UPI,282.28,4,15,959.75
+3922,2023-01-15,Clothing,West,UPI,31.14,3,0,93.42
+3932,2023-01-16,Toys,West,UPI,22.41,1,10,20.17
+3697,2023-01-17,Electronics,South,Debit Card,180.26,4,0,721.04
+3816,2023-01-17,Furniture,East,Debit Card,319.17,5,15,1356.47
+3345,2023-01-17,Electronics,East,UPI,319.89,5,5,1519.48
+1166,2023-01-17,Beauty,East,Debit Card,22.56,3,10,60.91
+2812,2023-01-17,Groceries,East,Cash,10.85,5,10,48.82
+3194,2023-01-17,Clothing,South,Credit Card,39.29,4,10,141.44
+1996,2023-01-17,Beauty,West,Credit Card,24.88,4,0,99.52
+3525,2023-01-17,Furniture,South,Credit Card,277.23,5,10,1247.54
+3393,2023-01-18,Groceries,South,Credit Card,11.0,1,0,11.0
+1982,2023-01-18,Clothing,South,Cash,44.85,1,5,42.61
+2815,2023-01-18,Electronics,West,Debit Card,206.59,3,10,557.79
+3168,2023-01-19,Furniture,West,Cash,296.81,1,20,237.45
+2383,2023-01-19,Clothing,South,UPI,31.06,5,0,155.3
+1880,2023-01-19,Groceries,East,Credit Card,11.18,3,20,26.83
+1313,2023-01-19,Electronics,South,UPI,270.44,5,0,1352.2
+1841,2023-01-19,Beauty,North,UPI,24.31,5,10,109.4
+2771,2023-01-19,Electronics,North,Debit Card,295.15,1,20,236.12
+1321,2023-01-20,Groceries,East,Debit Card,16.28,5,5,77.33
+3184,2023-01-20,Electronics,West,UPI,194.2,2,0,388.4
+3343,2023-01-20,Groceries,North,Credit Card,16.38,5,0,81.9
+1183,2023-01-20,Beauty,North,Credit Card,30.27,2,10,54.49
+2015,2023-01-21,Beauty,West,Credit Card,24.32,3,10,65.66
+3132,2023-01-21,Clothing,North,Credit Card,51.62,3,10,139.37
+3493,2023-01-21,Clothing,North,UPI,35.98,3,15,91.75
+2616,2023-01-21,Groceries,South,Cash,11.12,4,0,44.48
+1198,2023-01-22,Groceries,East,UPI,19.41,5,5,92.2
+3130,2023-01-22,Clothing,East,Credit Card,32.76,2,20,52.42
+1785,2023-01-22,Electronics,West,UPI,276.03,3,5,786.69
+1218,2023-01-22,Groceries,East,Credit Card,11.98,3,10,32.35
+2688,2023-01-23,Groceries,East,UPI,14.66,5,0,73.3
+1123,2023-01-23,Groceries,North,Credit Card,18.6,2,5,35.34
+3993,2023-01-23,Toys,South,Cash,19.16,2,0,38.32
+2275,2023-01-23,Beauty,South,UPI,22.01,2,5,41.82
+3156,2023-01-23,Groceries,South,Debit Card,15.18,3,0,45.54
+3654,2023-01-24,Electronics,East,Credit Card,238.58,5,15,1013.97
+2112,2023-01-24,Toys,East,UPI,27.01,2,0,54.02
+2034,2023-01-24,Clothing,West,Credit Card,50.92,4,0,203.68
+1459,2023-01-25,Toys,North,Credit Card,32.22,4,0,128.88
+1849,2023-01-25,Electronics,South,Debit Card,238.74,5,10,1074.33
+2020,2023-01-25,Clothing,West,Debit Card,34.47,2,5,65.49
+1517,2023-01-25,Electronics,North,Credit Card,262.44,1,5,249.32
+1424,2023-01-25,Groceries,East,Credit Card,17.28,5,15,73.44
+2269,2023-01-25,Furniture,East,UPI,241.8,5,0,1209.0
+1258,2023-01-26,Clothing,South,Credit Card,36.66,2,20,58.66
+2424,2023-01-26,Groceries,West,Debit Card,17.53,5,10,78.89
+3705,2023-01-26,Electronics,South,UPI,319.68,4,10,1150.85
+3178,2023-01-26,Clothing,West,Credit Card,28.78,4,5,109.36
+3720,2023-01-26,Furniture,South,Credit Card,381.12,2,20,609.79
+2897,2023-01-26,Clothing,West,Credit Card,47.16,2,0,94.32
+3569,2023-01-27,Clothing,East,Debit Card,49.19,3,0,147.57
+2526,2023-01-27,Groceries,West,Debit Card,15.86,2,5,30.13
+1899,2023-01-27,Furniture,East,Credit Card,312.46,4,5,1187.35
+1157,2023-01-27,Beauty,South,UPI,25.51,5,10,114.8
+2476,2023-01-27,Electronics,South,Cash,181.28,5,5,861.08
+3410,2023-01-27,Beauty,East,Debit Card,28.4,5,0,142.0
+1751,2023-01-28,Groceries,North,Credit Card,14.24,3,0,42.72
+3276,2023-01-28,Electronics,North,Credit Card,258.99,1,5,246.04
+3354,2023-01-28,Groceries,West,Debit Card,13.04,3,10,35.21
+3342,2023-01-29,Groceries,South,Credit Card,12.21,4,0,48.84
+2669,2023-01-29,Beauty,North,UPI,37.16,2,5,70.6
+1508,2023-01-29,Clothing,East,Debit Card,51.53,2,5,97.91
+3277,2023-01-29,Furniture,South,Credit Card,222.7,3,0,668.1
+3842,2023-01-30,Clothing,North,Debit Card,38.43,5,5,182.54
+1635,2023-01-30,Beauty,West,Credit Card,24.11,3,10,65.1
+2437,2023-01-30,Electronics,West,Debit Card,269.6,3,0,808.8
+3847,2023-01-30,Groceries,North,UPI,17.08,4,10,61.49
+3058,2023-01-31,Beauty,West,Credit Card,27.14,1,15,23.07
+2579,2023-01-31,Beauty,North,Cash,22.37,2,0,44.74
+3738,2023-01-31,Beauty,South,Credit Card,31.78,3,15,81.04
+3172,2023-01-31,Beauty,East,Debit Card,32.37,3,0,97.11
+1444,2023-01-31,Furniture,North,UPI,295.01,1,10,265.51
+3828,2023-02-01,Groceries,East,Credit Card,17.72,2,20,28.35
+2911,2023-02-01,Clothing,North,Debit Card,51.66,4,0,206.64
+1968,2023-02-01,Furniture,East,Credit Card,258.91,3,0,776.73
+2770,2023-02-01,Clothing,North,Cash,28.58,5,15,121.46
+2943,2023-02-01,Toys,West,Debit Card,28.41,2,0,56.82
+3482,2023-02-01,Furniture,North,Credit Card,296.72,3,0,890.16
+2273,2023-02-02,Groceries,South,Debit Card,11.81,2,20,18.9
+3117,2023-02-03,Electronics,East,Credit Card,300.39,2,0,600.78
+1156,2023-02-03,Groceries,North,Debit Card,16.98,5,0,84.9
+2075,2023-02-03,Electronics,South,Debit Card,223.04,1,10,200.74
+2512,2023-02-03,Beauty,West,Debit Card,21.73,1,0,21.73
+1108,2023-02-03,Groceries,West,Debit Card,11.65,1,0,11.65
+1222,2023-02-04,Clothing,South,Credit Card,34.18,4,0,136.72
+1406,2023-02-04,Beauty,West,Cash,30.82,5,0,154.1
+2592,2023-02-04,Clothing,North,Debit Card,43.22,1,0,43.22
+1007,2023-02-04,Beauty,West,Credit Card,34.6,2,5,65.74
+3514,2023-02-05,Electronics,South,Credit Card,233.94,1,5,222.24
+2811,2023-02-05,Toys,West,Debit Card,24.41,4,0,97.64
+3018,2023-02-05,Electronics,West,Debit Card,214.3,1,0,214.3
+2880,2023-02-05,Beauty,East,Credit Card,32.46,5,0,162.3
+1879,2023-02-06,Beauty,South,UPI,24.16,4,0,96.64
+2385,2023-02-06,Toys,West,UPI,31.84,2,0,63.68
+3961,2023-02-06,Toys,East,UPI,20.96,1,10,18.86
+2740,2023-02-07,Clothing,East,UPI,30.49,5,0,152.45
+2700,2023-02-08,Groceries,North,Debit Card,16.26,4,0,65.04
+2660,2023-02-08,Toys,South,Cash,18.31,4,0,73.24
+1106,2023-02-08,Clothing,East,Credit Card,40.85,1,15,34.72
+2932,2023-02-08,Electronics,South,Credit Card,272.07,2,5,516.93
+1928,2023-02-08,Beauty,East,UPI,31.85,3,0,95.55
+2274,2023-02-08,Groceries,North,UPI,13.43,3,15,34.25
+2074,2023-02-08,Electronics,South,Cash,247.63,3,5,705.75
+3015,2023-02-09,Electronics,North,UPI,182.76,2,0,365.52
+1860,2023-02-09,Groceries,East,Credit Card,12.16,5,0,60.8
+1352,2023-02-09,Groceries,West,Credit Card,12.16,5,10,54.72
+3794,2023-02-10,Clothing,West,UPI,44.32,5,5,210.52
+2843,2023-02-10,Clothing,North,Debit Card,37.75,1,0,37.75
+2992,2023-02-11,Furniture,South,Debit Card,226.35,3,0,679.05
+1122,2023-02-11,Clothing,West,Debit Card,45.13,3,10,121.85
+1866,2023-02-11,Groceries,North,Credit Card,16.81,5,20,67.24
+3776,2023-02-12,Clothing,East,Credit Card,46.35,2,15,78.8
+1097,2023-02-12,Clothing,East,Debit Card,39.04,3,0,117.12
+1498,2023-02-12,Toys,West,UPI,26.74,2,5,50.81
+1693,2023-02-12,Electronics,East,Credit Card,258.15,5,20,1032.6
+1701,2023-02-12,Electronics,West,Debit Card,253.53,3,5,722.56
+3421,2023-02-13,Clothing,North,Debit Card,40.36,3,0,121.08
+2246,2023-02-13,Clothing,North,UPI,48.03,3,10,129.68
+3545,2023-02-13,Electronics,South,UPI,210.08,3,5,598.73
+1312,2023-02-13,Furniture,East,UPI,343.82,3,0,1031.46
+1808,2023-02-13,Beauty,North,Credit Card,24.22,3,20,58.13
+3931,2023-02-13,Clothing,North,Debit Card,48.17,4,0,192.68
+2551,2023-02-13,Groceries,East,Credit Card,15.11,2,5,28.71
+1539,2023-02-14,Electronics,West,UPI,254.78,4,5,968.16
+1586,2023-02-14,Beauty,West,Credit Card,34.27,1,20,27.42
+1212,2023-02-15,Electronics,West,Debit Card,206.55,1,5,196.22
+1040,2023-02-15,Beauty,East,UPI,38.16,5,5,181.26
+2220,2023-02-15,Groceries,North,Credit Card,13.76,5,20,55.04
+3425,2023-02-15,Toys,West,UPI,22.12,1,20,17.7
+3728,2023-02-15,Beauty,North,UPI,25.58,3,0,76.74
+3462,2023-02-15,Toys,South,Credit Card,24.7,4,20,79.04
+2595,2023-02-16,Furniture,East,UPI,324.75,2,0,649.5
+2701,2023-02-16,Beauty,East,Debit Card,24.38,5,0,121.9
+1327,2023-02-16,Electronics,South,Cash,287.08,1,20,229.66
+3838,2023-02-16,Clothing,South,UPI,35.27,4,15,119.92
+2646,2023-02-16,Beauty,North,Credit Card,31.09,5,0,155.45
+3680,2023-02-17,Beauty,West,Debit Card,30.95,1,10,27.86
+3068,2023-02-17,Furniture,East,UPI,264.69,2,20,423.5
+2291,2023-02-17,Groceries,North,Cash,15.38,4,20,49.22
+3748,2023-02-17,Furniture,South,Debit Card,387.64,3,0,1162.92
+3453,2023-02-17,Clothing,South,Credit Card,49.97,5,10,224.86
+1014,2023-02-17,Clothing,South,Credit Card,45.51,3,5,129.7
+2786,2023-02-17,Clothing,East,UPI,40.91,1,0,40.91
+2566,2023-02-18,Electronics,North,Debit Card,231.39,2,0,462.78
+2624,2023-02-19,Toys,West,Credit Card,31.99,1,5,30.39
+3119,2023-02-19,Groceries,East,Debit Card,13.45,2,5,25.56
+2507,2023-02-20,Toys,West,Debit Card,22.08,2,15,37.54
+2964,2023-02-20,Groceries,North,UPI,12.81,4,15,43.55
+2561,2023-02-20,Electronics,South,Credit Card,298.33,2,0,596.66
+3461,2023-02-21,Beauty,South,Cash,28.38,4,15,96.49
+3742,2023-02-21,Beauty,West,UPI,27.91,4,10,100.48
+3930,2023-02-21,Electronics,East,Debit Card,271.22,5,0,1356.1
+3891,2023-02-21,Electronics,North,Debit Card,307.22,5,0,1536.1
+3805,2023-02-21,Electronics,South,Debit Card,179.35,3,15,457.34
+1448,2023-02-22,Furniture,North,Debit Card,270.72,1,0,270.72
+2139,2023-02-22,Clothing,South,Cash,31.76,3,10,85.75
+1431,2023-02-22,Groceries,North,Credit Card,18.5,2,5,35.15
+1433,2023-02-22,Toys,South,Debit Card,19.3,3,10,52.11
+1519,2023-02-23,Clothing,West,UPI,49.95,4,15,169.83
+3772,2023-02-23,Toys,South,UPI,30.4,3,10,82.08
+1561,2023-02-23,Clothing,West,Credit Card,33.8,3,15,86.19
+3490,2023-02-23,Toys,North,Debit Card,28.91,3,0,86.73
+3646,2023-02-23,Groceries,West,Debit Card,16.64,1,10,14.98
+1322,2023-02-24,Furniture,West,UPI,331.76,2,10,597.17
+1161,2023-02-24,Furniture,South,Credit Card,297.08,2,0,594.16
+1453,2023-02-24,Groceries,West,UPI,15.64,3,10,42.23
+1144,2023-02-24,Beauty,West,Credit Card,37.15,2,5,70.58
+3686,2023-02-24,Electronics,West,Cash,298.81,5,0,1494.05
+1890,2023-02-24,Electronics,West,Credit Card,220.48,3,0,661.44
+2116,2023-02-25,Groceries,South,Credit Card,15.64,4,0,62.56
+1286,2023-02-25,Clothing,East,Credit Card,31.41,1,10,28.27
+2095,2023-02-25,Beauty,North,Cash,35.86,4,0,143.44
+3985,2023-02-25,Electronics,East,Debit Card,273.82,3,0,821.46
+1792,2023-02-25,Groceries,West,UPI,13.57,5,10,61.06
+3458,2023-02-25,Groceries,West,Credit Card,11.93,5,10,53.68
+2840,2023-02-26,Electronics,East,Credit Card,215.94,3,5,615.43
+3604,2023-02-26,Groceries,West,Cash,14.91,3,5,42.49
+1855,2023-02-26,Groceries,South,Debit Card,12.75,5,0,63.75
+3739,2023-02-26,Clothing,East,UPI,38.91,5,0,194.55
+3991,2023-02-26,Furniture,North,Credit Card,378.87,2,0,757.74
+1972,2023-02-27,Electronics,South,UPI,201.09,1,10,180.98
+1477,2023-02-27,Beauty,West,Credit Card,30.11,3,10,81.3
+2890,2023-02-28,Electronics,South,Credit Card,298.96,1,0,298.96
+2362,2023-02-28,Beauty,South,Debit Card,34.0,1,0,34.0
+2630,2023-02-28,Electronics,West,UPI,284.85,3,0,854.55
+2236,2023-02-28,Furniture,South,Credit Card,222.81,2,5,423.34
+2440,2023-03-01,Electronics,North,Cash,270.46,4,10,973.66
+3275,2023-03-01,Groceries,South,Credit Card,14.99,1,10,13.49
+1592,2023-03-01,Toys,West,Debit Card,27.61,4,0,110.44
+3953,2023-03-01,Electronics,East,Credit Card,226.04,5,0,1130.2
+3665,2023-03-02,Groceries,East,Credit Card,12.49,5,10,56.2
+2245,2023-03-02,Clothing,South,Debit Card,36.81,1,0,36.81
+2604,2023-03-02,Clothing,East,UPI,39.84,2,0,79.68
+3448,2023-03-03,Toys,East,UPI,26.87,5,0,134.35
+2522,2023-03-03,Groceries,East,Cash,18.26,2,0,36.52
+3624,2023-03-03,Electronics,South,Cash,275.01,5,0,1375.05
+3967,2023-03-03,Toys,South,Credit Card,18.47,5,5,87.73
+2255,2023-03-03,Clothing,South,Credit Card,46.89,3,0,140.67
+3885,2023-03-03,Groceries,South,UPI,18.58,3,0,55.74
+3214,2023-03-04,Furniture,East,Cash,318.22,4,5,1209.24
+3465,2023-03-04,Groceries,South,Credit Card,18.03,3,20,43.27
+1870,2023-03-04,Furniture,South,UPI,280.88,1,0,280.88
+1139,2023-03-04,Clothing,South,Credit Card,43.92,1,20,35.14
+3231,2023-03-05,Groceries,West,UPI,14.38,4,0,57.52
+2162,2023-03-05,Electronics,West,UPI,218.88,5,10,984.96
+3384,2023-03-06,Electronics,North,UPI,181.44,3,10,489.89
+1797,2023-03-06,Beauty,North,Credit Card,22.23,3,5,63.36
+2531,2023-03-06,Electronics,West,Credit Card,303.31,4,10,1091.92
+1497,2023-03-06,Clothing,South,Credit Card,46.87,4,0,187.48
+3201,2023-03-06,Toys,West,Cash,19.8,3,0,59.4
+3559,2023-03-07,Groceries,South,Debit Card,16.3,4,10,58.68
+3075,2023-03-07,Electronics,West,Cash,209.8,1,0,209.8
+3850,2023-03-07,Electronics,North,UPI,269.91,3,0,809.73
+2016,2023-03-07,Electronics,North,Credit Card,237.84,1,10,214.06
+2609,2023-03-07,Furniture,East,Credit Card,354.15,5,10,1593.68
+3397,2023-03-07,Toys,East,Credit Card,18.03,1,10,16.23
+3238,2023-03-07,Clothing,East,UPI,47.13,5,0,235.65
+2564,2023-03-07,Toys,West,UPI,24.15,2,0,48.3
+3952,2023-03-08,Toys,East,Credit Card,26.63,4,0,106.52
+3025,2023-03-08,Electronics,South,Cash,275.53,5,0,1377.65
+3009,2023-03-08,Toys,East,Credit Card,26.85,5,5,127.54
+2419,2023-03-09,Groceries,North,Credit Card,13.34,4,5,50.69
+3732,2023-03-09,Clothing,South,Credit Card,34.03,5,5,161.64
+3694,2023-03-09,Groceries,West,Credit Card,10.62,3,15,27.08
+1760,2023-03-10,Groceries,West,UPI,18.47,5,20,73.88
+3865,2023-03-10,Electronics,North,Debit Card,217.6,4,0,870.4
+2375,2023-03-10,Electronics,South,Credit Card,281.53,2,10,506.75
+1505,2023-03-10,Electronics,East,Debit Card,187.59,1,10,168.83
+1266,2023-03-11,Clothing,West,Debit Card,47.96,4,15,163.06
+1074,2023-03-11,Furniture,East,UPI,310.51,3,0,931.53
+2559,2023-03-11,Groceries,West,UPI,18.46,1,10,16.61
+2108,2023-03-12,Electronics,South,Credit Card,201.75,4,5,766.65
+2969,2023-03-12,Groceries,North,UPI,12.53,2,10,22.55
+3582,2023-03-13,Furniture,North,UPI,274.38,4,5,1042.64
+3499,2023-03-13,Beauty,North,Debit Card,30.88,1,0,30.88
+1602,2023-03-13,Clothing,West,Credit Card,31.16,4,0,124.64
+1984,2023-03-13,Groceries,North,Debit Card,12.71,2,5,24.15
+3696,2023-03-13,Beauty,South,UPI,31.47,4,20,100.7
+3106,2023-03-13,Clothing,West,Credit Card,40.91,4,0,163.64
+1216,2023-03-14,Electronics,West,Credit Card,315.28,2,10,567.5
+2195,2023-03-14,Groceries,North,UPI,14.62,4,0,58.48
+1397,2023-03-14,Clothing,South,Debit Card,33.43,3,5,95.28
+3361,2023-03-14,Beauty,East,UPI,32.98,1,0,32.98
+3147,2023-03-14,Groceries,North,Credit Card,19.13,5,10,86.08
+3908,2023-03-15,Beauty,North,Debit Card,22.17,2,0,44.34
+1763,2023-03-15,Beauty,North,UPI,26.63,4,0,106.52
+1816,2023-03-15,Furniture,West,Credit Card,279.63,5,5,1328.24
+1813,2023-03-15,Beauty,East,Credit Card,32.57,1,5,30.94
+1908,2023-03-15,Electronics,North,Credit Card,227.17,5,5,1079.06
+2351,2023-03-15,Electronics,South,Credit Card,212.13,2,20,339.41
+3148,2023-03-17,Groceries,South,Credit Card,17.3,2,15,29.41
+3211,2023-03-17,Toys,East,Credit Card,18.05,4,0,72.2
+2168,2023-03-17,Furniture,North,Credit Card,355.06,2,0,710.12
+2307,2023-03-17,Beauty,North,Debit Card,28.06,4,5,106.63
+3775,2023-03-18,Groceries,North,UPI,15.1,2,10,27.18
+2679,2023-03-18,Groceries,North,Debit Card,15.11,4,5,57.42
+3187,2023-03-18,Electronics,South,Debit Card,188.69,1,5,179.26
+2156,2023-03-18,Clothing,North,Debit Card,46.17,5,15,196.22
+3735,2023-03-18,Electronics,West,Debit Card,197.75,5,0,988.75
+2350,2023-03-18,Groceries,South,Debit Card,11.71,5,20,46.84
+1883,2023-03-19,Electronics,North,Credit Card,182.06,2,0,364.12
+2027,2023-03-19,Groceries,East,Credit Card,17.19,3,20,41.26
+1810,2023-03-20,Groceries,North,Credit Card,18.94,3,15,48.3
+1711,2023-03-20,Groceries,North,Debit Card,13.99,5,5,66.45
+2945,2023-03-20,Beauty,North,UPI,31.96,1,20,25.57
+2895,2023-03-20,Toys,East,UPI,26.35,2,5,50.07
+2009,2023-03-20,Groceries,North,Credit Card,14.77,3,20,35.45
+2764,2023-03-20,Clothing,South,Debit Card,43.12,3,0,129.36
+2058,2023-03-21,Beauty,North,Cash,31.73,5,20,126.92
+2914,2023-03-21,Toys,East,Credit Card,20.73,5,15,88.1
+2221,2023-03-21,Furniture,North,Credit Card,366.18,4,5,1391.48
+1887,2023-03-21,Beauty,East,Credit Card,30.85,1,20,24.68
+2570,2023-03-22,Clothing,North,Debit Card,33.57,5,0,167.85
+1024,2023-03-22,Clothing,South,Debit Card,29.24,5,0,146.2
+1806,2023-03-22,Groceries,South,UPI,14.2,1,0,14.2
+3798,2023-03-22,Beauty,East,UPI,22.35,2,0,44.7
+3036,2023-03-22,Electronics,North,Cash,309.09,3,0,927.27
+2510,2023-03-22,Furniture,West,Credit Card,236.15,5,20,944.6
+2781,2023-03-22,Electronics,East,UPI,240.57,4,5,914.17
+2323,2023-03-22,Clothing,North,Credit Card,43.09,1,0,43.09
+3247,2023-03-23,Groceries,East,UPI,10.81,3,10,29.19
+3100,2023-03-23,Electronics,West,Debit Card,291.29,4,10,1048.64
+2822,2023-03-23,Electronics,West,UPI,207.21,3,20,497.3
+2835,2023-03-24,Beauty,East,Debit Card,23.48,2,5,44.61
+2649,2023-03-24,Groceries,South,Debit Card,11.3,1,5,10.74
+3444,2023-03-24,Clothing,South,UPI,33.02,5,10,148.59
+3373,2023-03-24,Groceries,South,UPI,16.84,3,5,47.99
+1518,2023-03-24,Beauty,West,UPI,32.11,1,5,30.5
+1979,2023-03-24,Groceries,South,UPI,17.22,1,5,16.36
+3988,2023-03-25,Beauty,North,Credit Card,33.48,2,10,60.26
+1481,2023-03-25,Groceries,West,Credit Card,12.8,3,5,36.48
+1203,2023-03-25,Clothing,North,Debit Card,35.49,2,15,60.33
+2693,2023-03-25,Furniture,East,Debit Card,215.73,5,0,1078.65
+2766,2023-03-25,Electronics,West,Cash,245.84,1,10,221.26
+2999,2023-03-25,Groceries,North,UPI,11.86,4,5,45.07
+2024,2023-03-25,Electronics,West,UPI,191.8,3,15,489.09
+1217,2023-03-25,Clothing,East,Debit Card,43.86,4,5,166.67
+3390,2023-03-26,Furniture,East,Credit Card,265.2,1,0,265.2
+2063,2023-03-26,Groceries,North,Cash,18.51,5,0,92.55
+2621,2023-03-27,Beauty,West,Debit Card,27.34,5,0,136.7
+3468,2023-03-27,Beauty,West,Credit Card,23.29,2,20,37.26
+1593,2023-03-27,Beauty,South,Credit Card,36.56,2,15,62.15
+1055,2023-03-27,Electronics,South,Credit Card,189.12,4,0,756.48
+2974,2023-03-28,Electronics,North,Credit Card,225.96,2,10,406.73
+1145,2023-03-28,Beauty,West,UPI,32.86,1,5,31.22
+3640,2023-03-28,Beauty,East,Credit Card,24.91,5,0,124.55
+3632,2023-03-28,Toys,East,Credit Card,31.53,1,0,31.53
+1299,2023-03-28,Furniture,North,UPI,228.97,1,20,183.18
+2491,2023-03-28,Groceries,North,Credit Card,19.32,4,5,73.42
+3150,2023-03-29,Electronics,North,UPI,252.65,4,20,808.48
+2427,2023-03-29,Furniture,East,Credit Card,356.85,4,0,1427.4
+3392,2023-03-29,Groceries,South,Debit Card,12.18,4,10,43.85
+1676,2023-03-29,Toys,East,Credit Card,26.55,2,0,53.1
+2441,2023-03-30,Beauty,East,Debit Card,29.41,2,0,58.82
+3843,2023-03-30,Beauty,East,Credit Card,25.04,1,5,23.79
+3675,2023-03-30,Electronics,East,Cash,197.76,4,10,711.94
+1873,2023-03-31,Groceries,South,UPI,11.2,3,5,31.92
+2008,2023-03-31,Electronics,East,Debit Card,199.13,2,5,378.35
+1062,2023-03-31,Clothing,South,UPI,36.17,3,0,108.51
+1571,2023-04-01,Toys,South,Credit Card,24.49,5,0,122.45
+2209,2023-04-01,Groceries,East,Credit Card,17.81,5,5,84.6
+2332,2023-04-01,Groceries,West,Debit Card,17.54,5,5,83.31
+1529,2023-04-02,Groceries,East,Credit Card,14.5,1,0,14.5
+2366,2023-04-03,Beauty,West,Cash,30.42,1,20,24.34
+2348,2023-04-03,Beauty,East,Credit Card,24.85,4,15,84.49
+1382,2023-04-03,Groceries,East,Credit Card,16.0,5,5,76.0
+3846,2023-04-03,Clothing,North,UPI,40.95,5,20,163.8
+2662,2023-04-04,Furniture,East,Debit Card,353.49,4,0,1413.96
+2390,2023-04-04,Clothing,North,Credit Card,49.67,4,20,158.94
+2382,2023-04-05,Electronics,North,Credit Card,225.33,1,0,225.33
+1779,2023-04-05,Beauty,West,Credit Card,32.02,2,0,64.04
+2420,2023-04-05,Clothing,South,UPI,44.58,5,0,222.9
+3047,2023-04-05,Furniture,East,Credit Card,369.25,1,10,332.32
+3294,2023-04-05,Beauty,West,UPI,24.31,5,10,109.4
+2489,2023-04-05,Electronics,North,UPI,241.57,3,0,724.71
+1053,2023-04-06,Groceries,West,Credit Card,18.91,1,20,15.13
+1065,2023-04-06,Clothing,South,Debit Card,33.73,5,10,151.78
+3691,2023-04-06,Groceries,East,Debit Card,11.44,1,0,11.44
+1017,2023-04-06,Furniture,North,Credit Card,283.87,3,0,851.61
+1536,2023-04-07,Clothing,North,Debit Card,41.28,3,0,123.84
+2484,2023-04-07,Clothing,West,Debit Card,28.17,4,5,107.05
+2823,2023-04-07,Groceries,East,Credit Card,10.79,3,0,32.37
+3435,2023-04-08,Toys,West,Debit Card,30.78,3,20,73.87
+3904,2023-04-08,Toys,East,Cash,26.5,3,0,79.5
+1343,2023-04-08,Beauty,East,UPI,30.82,4,0,123.28
+1172,2023-04-08,Beauty,East,Credit Card,34.05,4,5,129.39
+1511,2023-04-08,Groceries,West,UPI,15.45,2,10,27.81
+1985,2023-04-09,Groceries,East,Credit Card,13.88,2,20,22.21
+2134,2023-04-09,Groceries,West,UPI,17.16,2,15,29.17
+3721,2023-04-10,Clothing,West,Cash,33.63,3,0,100.89
+1442,2023-04-11,Groceries,East,Debit Card,14.39,2,10,25.9
+1288,2023-04-11,Groceries,West,Credit Card,16.4,2,0,32.8
+2017,2023-04-11,Clothing,South,Debit Card,39.1,1,0,39.1
+3682,2023-04-11,Electronics,South,UPI,271.82,4,0,1087.28
+2317,2023-04-11,Groceries,West,UPI,12.98,3,5,36.99
+3136,2023-04-12,Electronics,East,Debit Card,218.1,2,0,436.2
+3751,2023-04-12,Groceries,South,Credit Card,18.65,4,20,59.68
+1493,2023-04-12,Toys,East,Debit Card,23.04,1,5,21.89
+3713,2023-04-12,Electronics,West,Debit Card,307.6,5,10,1384.2
+2729,2023-04-12,Furniture,West,Credit Card,324.08,3,20,777.79
+1211,2023-04-12,Beauty,East,Debit Card,22.89,1,0,22.89
+3949,2023-04-12,Toys,North,Debit Card,19.78,2,0,39.56
+2492,2023-04-13,Electronics,East,Credit Card,197.13,4,0,788.52
+2642,2023-04-13,Furniture,North,Cash,231.39,5,15,983.41
+3324,2023-04-13,Beauty,West,UPI,34.74,1,15,29.53
+2633,2023-04-13,Electronics,West,UPI,229.79,4,0,919.16
+1812,2023-04-13,Groceries,South,Debit Card,17.83,4,0,71.32
+2059,2023-04-13,Groceries,West,Credit Card,17.48,2,5,33.21
+1000,2023-04-13,Toys,East,UPI,26.48,2,0,52.96
+1093,2023-04-13,Electronics,West,Cash,266.21,2,0,532.42
+1457,2023-04-14,Beauty,North,Debit Card,32.72,3,20,78.53
+2287,2023-04-14,Electronics,West,Credit Card,175.98,3,0,527.94
+1044,2023-04-14,Furniture,East,UPI,309.51,2,15,526.17
+1791,2023-04-15,Furniture,West,Cash,251.89,2,0,503.78
+1621,2023-04-15,Clothing,West,Cash,35.49,3,0,106.47
+2775,2023-04-15,Beauty,East,UPI,25.78,1,5,24.49
+2147,2023-04-15,Electronics,South,Credit Card,244.82,2,0,489.64
+1392,2023-04-15,Groceries,East,Debit Card,10.59,2,0,21.18
+3523,2023-04-16,Furniture,South,Credit Card,259.27,2,20,414.83
+1215,2023-04-16,Electronics,North,Cash,193.63,3,0,580.89
+1095,2023-04-16,Beauty,North,UPI,29.27,1,5,27.81
+3144,2023-04-17,Clothing,East,Debit Card,35.0,3,10,94.5
+1233,2023-04-17,Furniture,North,Debit Card,350.72,4,5,1332.74
+3192,2023-04-17,Electronics,East,Debit Card,226.12,3,0,678.36
+2710,2023-04-17,Clothing,South,Debit Card,31.11,2,10,56.0
+3257,2023-04-17,Toys,South,Credit Card,18.17,2,0,36.34
+3293,2023-04-17,Electronics,West,UPI,289.52,3,0,868.56
+3937,2023-04-18,Beauty,East,UPI,36.73,5,5,174.47
+1905,2023-04-18,Beauty,West,Debit Card,21.05,3,10,56.84
+2744,2023-04-19,Beauty,South,UPI,29.26,5,0,146.3
+3965,2023-04-19,Groceries,South,Credit Card,15.48,3,20,37.15
+3789,2023-04-19,Groceries,East,Credit Card,12.15,5,5,57.71
+2634,2023-04-19,Electronics,South,UPI,188.38,3,0,565.14
+3212,2023-04-20,Clothing,West,Credit Card,34.91,3,10,94.26
+3116,2023-04-20,Clothing,West,Debit Card,45.62,4,15,155.11
+3722,2023-04-20,Furniture,North,Credit Card,324.65,1,20,259.72
+2199,2023-04-21,Electronics,North,Debit Card,265.76,3,0,797.28
+3337,2023-04-21,Furniture,North,UPI,257.79,1,5,244.9
+3714,2023-04-21,Toys,North,UPI,26.3,5,15,111.78
+3371,2023-04-21,Electronics,South,Debit Card,269.29,3,5,767.48
+1522,2023-04-21,Furniture,East,Credit Card,274.07,5,0,1370.35
+1411,2023-04-21,Toys,West,Debit Card,32.41,4,0,129.64
+1930,2023-04-21,Groceries,North,Debit Card,15.35,4,20,49.12
+3803,2023-04-22,Groceries,East,UPI,12.36,5,10,55.62
+1774,2023-04-22,Clothing,East,UPI,51.68,5,10,232.56
+2704,2023-04-22,Electronics,North,UPI,271.68,5,10,1222.56
+2402,2023-04-22,Furniture,South,Debit Card,259.58,5,5,1233.0
+3711,2023-04-22,Electronics,South,Debit Card,259.69,3,10,701.16
+1750,2023-04-22,Electronics,North,Credit Card,214.2,5,0,1071.0
+3832,2023-04-24,Electronics,North,Debit Card,222.56,2,10,400.61
+1933,2023-04-24,Clothing,South,Cash,36.12,1,20,28.9
+3059,2023-04-24,Toys,West,Credit Card,17.58,4,0,70.32
+2054,2023-04-25,Groceries,North,Credit Card,14.34,2,10,25.81
+3382,2023-04-25,Electronics,North,UPI,242.42,3,0,727.26
+2687,2023-04-26,Groceries,West,Cash,13.54,4,0,54.16
+1052,2023-04-27,Electronics,East,UPI,236.34,2,20,378.14
+1723,2023-04-27,Groceries,West,Credit Card,11.55,2,5,21.94
+1399,2023-04-28,Furniture,North,Debit Card,302.1,4,5,1147.98
+3472,2023-04-29,Clothing,West,UPI,38.43,3,20,92.23
+3583,2023-04-29,Groceries,East,Debit Card,10.74,5,5,51.02
+1151,2023-04-29,Clothing,North,Credit Card,46.57,1,5,44.24
+3089,2023-04-29,Electronics,East,Credit Card,224.63,5,10,1010.84
+2534,2023-04-30,Furniture,North,Credit Card,387.16,4,0,1548.64
+1916,2023-04-30,Groceries,North,UPI,15.61,5,0,78.05
+3470,2023-05-01,Electronics,West,UPI,298.56,4,5,1134.53
+3997,2023-05-01,Beauty,East,UPI,34.35,5,10,154.57
+2367,2023-05-02,Clothing,East,UPI,37.48,5,0,187.4
+1555,2023-05-02,Clothing,West,Credit Card,33.22,1,0,33.22
+2801,2023-05-02,Groceries,East,Credit Card,16.79,2,5,31.9
+2654,2023-05-02,Beauty,South,Cash,37.38,4,0,149.52
+1528,2023-05-03,Furniture,South,Debit Card,306.3,3,20,735.12
+3081,2023-05-03,Clothing,West,Debit Card,47.09,2,0,94.18
+2741,2023-05-03,Electronics,North,UPI,323.5,3,5,921.98
+2290,2023-05-04,Beauty,West,Credit Card,31.21,2,0,62.42
+1187,2023-05-04,Clothing,West,UPI,29.17,2,0,58.34
+2498,2023-05-05,Toys,North,UPI,26.07,3,5,74.3
+2279,2023-05-05,Electronics,South,Credit Card,268.22,5,0,1341.1
+1945,2023-05-05,Toys,North,Credit Card,29.15,2,10,52.47
+1686,2023-05-05,Electronics,North,Credit Card,188.48,2,0,376.96
+1405,2023-05-05,Groceries,South,Credit Card,18.02,5,20,72.08
+2846,2023-05-05,Toys,North,UPI,20.82,5,0,104.1
+1974,2023-05-06,Beauty,South,UPI,31.72,2,15,53.92
+1237,2023-05-06,Beauty,South,Cash,31.44,3,5,89.6
+1422,2023-05-06,Groceries,West,UPI,13.01,1,10,11.71
+3062,2023-05-07,Electronics,West,Credit Card,299.59,1,5,284.61
+2325,2023-05-07,Clothing,North,Debit Card,39.41,2,10,70.94
+3043,2023-05-07,Groceries,North,Credit Card,12.38,1,10,11.14
+1283,2023-05-08,Groceries,North,Cash,18.38,5,0,91.9
+2395,2023-05-08,Clothing,East,UPI,39.29,3,0,117.87
+2659,2023-05-08,Beauty,West,Credit Card,22.95,1,10,20.66
+3177,2023-05-08,Groceries,South,Cash,15.59,3,5,44.43
+1153,2023-05-08,Electronics,South,Credit Card,215.3,2,10,387.54
+3129,2023-05-09,Clothing,East,Debit Card,45.22,3,10,122.09
+1809,2023-05-10,Toys,North,Debit Card,26.8,5,0,134.0
+2136,2023-05-10,Electronics,West,Debit Card,315.36,3,10,851.47
+1159,2023-05-10,Electronics,East,Credit Card,188.55,3,0,565.65
+3281,2023-05-10,Beauty,West,Credit Card,30.62,5,10,137.79
+2460,2023-05-10,Electronics,West,Debit Card,218.13,3,5,621.67
+3183,2023-05-11,Electronics,West,UPI,235.2,4,0,940.8
+3029,2023-05-11,Clothing,South,Credit Card,42.74,5,5,203.02
+3418,2023-05-11,Clothing,North,Debit Card,49.25,3,20,118.2
+1356,2023-05-11,Groceries,North,UPI,12.39,5,20,49.56
+2283,2023-05-11,Electronics,West,UPI,247.36,5,5,1174.96
+2406,2023-05-11,Clothing,West,Credit Card,33.47,3,10,90.37
+3026,2023-05-11,Groceries,South,Cash,17.51,1,0,17.51
+1319,2023-05-12,Clothing,West,UPI,49.27,3,0,147.81
+2917,2023-05-12,Groceries,West,Credit Card,15.66,4,5,59.51
+3553,2023-05-12,Toys,East,Credit Card,23.21,3,5,66.15
+1790,2023-05-12,Groceries,South,Credit Card,17.2,1,10,15.48
+2672,2023-05-12,Groceries,South,Credit Card,15.03,3,5,42.84
+2580,2023-05-12,Groceries,West,Credit Card,16.94,5,20,67.76
+2549,2023-05-12,Clothing,West,Credit Card,51.92,5,5,246.62
+2868,2023-05-12,Groceries,North,Credit Card,15.62,5,0,78.1
+3707,2023-05-13,Beauty,South,UPI,26.45,5,10,119.02
+3820,2023-05-13,Beauty,South,UPI,35.3,2,10,63.54
+2472,2023-05-13,Groceries,South,Credit Card,12.33,3,0,36.99
+3759,2023-05-13,Furniture,South,UPI,306.08,4,10,1101.89
+3474,2023-05-13,Toys,South,UPI,22.23,3,5,63.36
+3198,2023-05-13,Groceries,East,Credit Card,14.73,1,0,14.73
+3956,2023-05-14,Toys,South,UPI,30.18,1,20,24.14
+1726,2023-05-14,Groceries,East,Debit Card,14.23,4,5,54.07
+3207,2023-05-14,Groceries,South,UPI,10.72,2,5,20.37
+2235,2023-05-14,Furniture,North,Credit Card,334.31,5,5,1587.97
+3180,2023-05-14,Groceries,West,Debit Card,12.92,1,15,10.98
+2726,2023-05-14,Toys,East,UPI,19.4,1,0,19.4
+2411,2023-05-15,Beauty,North,UPI,28.95,1,20,23.16
+3424,2023-05-15,Electronics,West,UPI,225.32,3,5,642.16
+2809,2023-05-15,Beauty,South,Cash,33.82,5,0,169.1
+1845,2023-05-15,Clothing,South,UPI,28.88,4,0,115.52
+3914,2023-05-16,Beauty,South,Credit Card,27.85,1,10,25.06
+2765,2023-05-16,Clothing,West,Cash,51.44,4,0,205.76
+2049,2023-05-17,Electronics,East,Cash,282.68,4,10,1017.65
+1471,2023-05-17,Toys,West,Debit Card,31.39,2,15,53.36
+2292,2023-05-17,Toys,West,UPI,25.96,2,0,51.92
+1737,2023-05-17,Groceries,West,Debit Card,10.7,1,0,10.7
+3927,2023-05-17,Toys,East,UPI,18.3,1,0,18.3
+3821,2023-05-18,Groceries,West,Credit Card,12.91,4,0,51.64
+2131,2023-05-18,Toys,South,UPI,30.26,2,5,57.49
+1449,2023-05-18,Electronics,East,Debit Card,254.64,4,0,1018.56
+1410,2023-05-19,Groceries,East,Credit Card,15.75,5,5,74.81
+1991,2023-05-19,Furniture,South,UPI,324.35,4,0,1297.4
+2321,2023-05-19,Groceries,North,UPI,15.98,1,10,14.38
+2062,2023-05-20,Groceries,East,Cash,18.71,3,5,53.32
+1614,2023-05-20,Furniture,South,Cash,244.05,3,0,732.15
+1179,2023-05-20,Beauty,North,UPI,22.61,3,20,54.26
+2061,2023-05-21,Groceries,South,Debit Card,13.71,1,15,11.65
+2105,2023-05-21,Groceries,South,Credit Card,14.61,5,0,73.05
+1253,2023-05-21,Clothing,South,Credit Card,42.82,5,0,214.1
+1141,2023-05-21,Clothing,East,Credit Card,49.55,5,10,222.98
+3232,2023-05-21,Groceries,West,UPI,16.4,2,0,32.8
+1970,2023-05-21,Beauty,East,UPI,26.07,5,0,130.35
+2157,2023-05-22,Furniture,West,Credit Card,262.27,5,10,1180.21
+1338,2023-05-22,Furniture,South,Cash,236.09,2,0,472.18
+2851,2023-05-22,Clothing,East,Debit Card,50.99,5,10,229.46
+3242,2023-05-23,Toys,North,UPI,17.55,4,15,59.67
+2428,2023-05-23,Beauty,East,UPI,28.44,2,10,51.19
+1364,2023-05-23,Clothing,East,UPI,37.8,4,20,120.96
+3322,2023-05-23,Electronics,South,Debit Card,319.71,5,0,1598.55
+2903,2023-05-23,Groceries,North,Debit Card,18.51,1,0,18.51
+3578,2023-05-24,Beauty,East,UPI,34.33,5,0,171.65
+2625,2023-05-24,Electronics,West,Credit Card,301.3,5,10,1355.85
+1229,2023-05-25,Clothing,North,Debit Card,48.59,5,0,242.95
+1089,2023-05-25,Clothing,North,Credit Card,50.9,5,0,254.5
+3175,2023-05-26,Groceries,North,Debit Card,15.39,1,20,12.31
+2759,2023-05-26,Groceries,North,UPI,17.93,4,0,71.72
+3190,2023-05-26,Clothing,West,Credit Card,44.04,2,5,83.68
+2200,2023-05-26,Groceries,North,UPI,18.48,4,0,73.92
+2176,2023-05-27,Groceries,South,Debit Card,18.49,2,0,36.98
+1619,2023-05-27,Electronics,West,UPI,317.07,3,5,903.65
+1420,2023-05-27,Clothing,East,Debit Card,40.25,5,20,161.0
+2285,2023-05-27,Beauty,East,Cash,33.21,3,15,84.69
+1162,2023-05-28,Electronics,West,Credit Card,249.45,5,0,1247.25
+3605,2023-05-28,Furniture,South,UPI,369.08,5,5,1753.13
+2902,2023-05-28,Groceries,West,Credit Card,14.57,2,15,24.77
+1689,2023-05-28,Beauty,East,Credit Card,34.61,3,20,83.06
+1160,2023-05-29,Toys,East,Debit Card,28.29,3,20,67.9
+1273,2023-05-29,Electronics,South,Credit Card,288.29,1,10,259.46
+3925,2023-05-29,Electronics,West,Debit Card,254.17,1,15,216.04
+2887,2023-05-29,Toys,West,Debit Card,24.47,2,0,48.94
+2374,2023-05-29,Groceries,North,Debit Card,11.37,5,10,51.16
+1618,2023-05-29,Beauty,East,Credit Card,32.47,3,10,87.67
+3404,2023-05-30,Groceries,East,Cash,15.35,5,5,72.91
+2935,2023-05-30,Clothing,North,UPI,46.21,3,5,131.7
+3140,2023-05-31,Beauty,East,Debit Card,28.52,4,5,108.38
+2516,2023-05-31,Electronics,North,Credit Card,225.7,5,0,1128.5
+2527,2023-06-01,Groceries,West,Debit Card,14.16,5,15,60.18
+2910,2023-06-01,Furniture,East,Debit Card,213.19,5,15,906.06
+1389,2023-06-02,Groceries,East,UPI,17.97,1,10,16.17
+3218,2023-06-02,Clothing,South,UPI,33.63,4,5,127.79
+3199,2023-06-03,Beauty,North,UPI,25.24,3,0,75.72
+1823,2023-06-03,Clothing,North,Debit Card,39.74,2,20,63.58
+2883,2023-06-03,Electronics,West,Credit Card,241.05,3,5,686.99
+2261,2023-06-03,Groceries,West,Debit Card,16.18,5,10,72.81
+1822,2023-06-04,Groceries,North,UPI,11.28,2,5,21.43
+3097,2023-06-04,Groceries,South,Credit Card,17.72,1,0,17.72
+1722,2023-06-04,Clothing,South,Credit Card,47.55,1,5,45.17
+2414,2023-06-04,Groceries,East,Credit Card,12.48,2,0,24.96
+1473,2023-06-04,Electronics,East,UPI,175.07,4,0,700.28
+2703,2023-06-04,Clothing,East,UPI,42.35,4,15,143.99
+1835,2023-06-04,Beauty,North,UPI,36.26,3,0,108.78
+3519,2023-06-05,Groceries,North,Credit Card,17.39,2,5,33.04
+3283,2023-06-05,Clothing,East,Credit Card,43.16,3,5,123.01
+3141,2023-06-05,Beauty,South,Cash,29.25,2,0,58.5
+2591,2023-06-05,Electronics,North,Cash,186.74,4,0,746.96
+1011,2023-06-06,Toys,North,Credit Card,23.85,1,0,23.85
+3981,2023-06-06,Beauty,West,UPI,31.58,4,0,126.32
+2800,2023-06-06,Toys,North,Debit Card,28.11,1,0,28.11
+1437,2023-06-06,Beauty,North,Debit Card,25.87,3,15,65.97
+2918,2023-06-06,Clothing,South,UPI,31.28,1,5,29.72
+3498,2023-06-07,Clothing,North,UPI,32.08,3,10,86.62
+1278,2023-06-07,Beauty,South,UPI,23.54,4,15,80.04
+2032,2023-06-07,Toys,South,Debit Card,18.85,3,0,56.55
+3286,2023-06-07,Groceries,South,UPI,13.3,1,0,13.3
+3226,2023-06-07,Groceries,East,UPI,16.3,1,10,14.67
+3683,2023-06-08,Beauty,South,Debit Card,36.83,3,5,104.97
+3143,2023-06-08,Electronics,West,Debit Card,295.36,4,0,1181.44
+3690,2023-06-08,Groceries,West,Debit Card,19.18,2,0,38.36
+2671,2023-06-08,Clothing,South,UPI,46.31,1,15,39.36
+1256,2023-06-08,Furniture,West,UPI,243.34,4,5,924.69
+2597,2023-06-08,Clothing,South,Debit Card,36.17,1,5,34.36
+1461,2023-06-08,Furniture,South,UPI,377.51,4,10,1359.04
+3737,2023-06-09,Clothing,East,Cash,39.99,4,10,143.96
+2802,2023-06-09,Electronics,South,Debit Card,273.68,4,0,1094.72
+3260,2023-06-09,Groceries,East,Credit Card,15.13,4,5,57.49
+3819,2023-06-09,Beauty,East,Debit Card,21.88,2,15,37.2
+3243,2023-06-09,Groceries,South,UPI,10.67,4,0,42.68
+1059,2023-06-09,Beauty,West,UPI,31.32,1,5,29.75
+1042,2023-06-10,Clothing,West,Debit Card,37.47,2,20,59.95
+3340,2023-06-10,Groceries,North,UPI,18.49,2,0,36.98
+1236,2023-06-10,Groceries,South,UPI,14.08,2,20,22.53
+1465,2023-06-10,Electronics,East,UPI,303.07,4,10,1091.05
+3110,2023-06-10,Beauty,South,Credit Card,34.25,5,5,162.69
+1567,2023-06-10,Groceries,North,Debit Card,12.88,5,15,54.74
+2706,2023-06-10,Furniture,East,UPI,340.52,5,0,1702.6
+2004,2023-06-10,Electronics,South,UPI,297.25,4,5,1129.55
+2339,2023-06-11,Toys,North,UPI,29.82,3,0,89.46
+2937,2023-06-11,Furniture,West,UPI,273.26,3,0,819.78
+1380,2023-06-11,Groceries,North,Debit Card,16.21,1,0,16.21
+2955,2023-06-11,Groceries,North,Credit Card,16.37,2,10,29.47
+3191,2023-06-11,Groceries,East,UPI,16.6,5,15,70.55
+3726,2023-06-12,Beauty,West,Credit Card,37.49,2,5,71.23
+1423,2023-06-12,Beauty,West,Cash,22.62,3,10,61.07
+1419,2023-06-12,Clothing,North,Credit Card,28.08,1,15,23.87
+1669,2023-06-13,Groceries,West,UPI,11.01,4,5,41.84
+2727,2023-06-13,Beauty,South,UPI,25.09,2,5,47.67
+2457,2023-06-14,Beauty,West,Credit Card,34.57,4,0,138.28
+2289,2023-06-14,Electronics,South,Cash,238.88,5,0,1194.4
+2090,2023-06-14,Clothing,South,Debit Card,30.07,1,5,28.57
+3938,2023-06-14,Groceries,West,Debit Card,10.65,2,0,21.3
+3310,2023-06-14,Groceries,South,Debit Card,15.91,1,15,13.52
+3128,2023-06-14,Groceries,North,Debit Card,12.99,3,10,35.07
+3989,2023-06-15,Toys,East,Credit Card,23.61,1,20,18.89
+1773,2023-06-15,Electronics,East,Cash,224.32,3,15,572.02
+2068,2023-06-15,Groceries,North,Cash,10.93,4,0,43.72
+3836,2023-06-15,Electronics,West,UPI,233.08,1,10,209.77
+2842,2023-06-15,Groceries,West,Credit Card,11.6,1,0,11.6
+1922,2023-06-15,Electronics,North,Debit Card,218.9,2,0,437.8
+1993,2023-06-15,Beauty,West,Credit Card,23.87,1,0,23.87
+3529,2023-06-15,Clothing,East,Credit Card,45.98,2,10,82.76
+1902,2023-06-16,Beauty,North,UPI,23.89,4,0,95.56
+3645,2023-06-16,Electronics,West,Credit Card,223.87,4,0,895.48
+2119,2023-06-16,Groceries,East,UPI,12.69,5,5,60.28
+2746,2023-06-16,Groceries,East,Debit Card,14.32,1,0,14.32
+1872,2023-06-16,Furniture,North,Debit Card,220.33,3,5,627.94
+2520,2023-06-16,Furniture,South,Debit Card,377.5,5,15,1604.38
+3752,2023-06-16,Groceries,South,Debit Card,16.13,3,10,43.55
+1260,2023-06-16,Furniture,South,UPI,236.95,2,0,473.9
+2118,2023-06-17,Clothing,North,Credit Card,45.01,4,0,180.04
+2578,2023-06-17,Clothing,West,Credit Card,48.63,4,10,175.07
+3311,2023-06-17,Beauty,South,Debit Card,35.66,5,0,178.3
+3185,2023-06-17,Beauty,North,Debit Card,24.69,2,15,41.97
+1488,2023-06-18,Toys,East,UPI,30.94,5,10,139.23
+3495,2023-06-18,Electronics,South,Debit Card,224.83,3,15,573.32
+1713,2023-06-18,Electronics,North,UPI,262.26,3,0,786.78
+2422,2023-06-19,Electronics,West,Credit Card,318.39,2,0,636.78
+1578,2023-06-19,Furniture,North,Debit Card,380.86,5,10,1713.87
+3526,2023-06-19,Beauty,South,UPI,29.82,1,5,28.33
+2403,2023-06-19,Toys,North,Debit Card,24.32,4,15,82.69
+1735,2023-06-20,Furniture,North,Cash,235.66,5,0,1178.3
+1962,2023-06-20,Electronics,North,Credit Card,268.62,4,0,1074.48
+3099,2023-06-20,Clothing,East,UPI,37.3,2,10,67.14
+1450,2023-06-20,Beauty,South,Debit Card,33.2,4,5,126.16
+2278,2023-06-20,Toys,East,UPI,20.35,5,10,91.58
+3266,2023-06-21,Toys,West,Cash,30.69,1,0,30.69
+1398,2023-06-21,Beauty,East,Credit Card,37.01,2,0,74.02
+2473,2023-06-21,Furniture,West,Credit Card,346.7,3,0,1040.1
+2417,2023-06-21,Electronics,West,Debit Card,209.74,4,0,838.96
+1971,2023-06-21,Electronics,West,UPI,211.56,5,15,899.13
+3567,2023-06-22,Groceries,East,UPI,11.88,3,10,32.08
+1445,2023-06-22,Electronics,North,Credit Card,272.75,2,10,490.95
+2042,2023-06-22,Toys,West,Credit Card,25.85,3,0,77.55
+1298,2023-06-22,Electronics,West,Cash,241.49,5,0,1207.45
+2296,2023-06-23,Clothing,North,UPI,41.43,5,0,207.15
+2774,2023-06-23,Groceries,East,Credit Card,13.81,4,20,44.19
+3574,2023-06-23,Electronics,West,UPI,299.4,1,0,299.4
+2963,2023-06-24,Beauty,North,Debit Card,22.34,3,5,63.67
+1440,2023-06-24,Electronics,North,UPI,202.42,4,0,809.68
+1240,2023-06-24,Furniture,East,Cash,277.37,2,0,554.74
+1544,2023-06-24,Toys,North,Debit Card,23.68,1,10,21.31
+1452,2023-06-24,Toys,South,Credit Card,24.03,5,0,120.15
+2872,2023-06-25,Furniture,West,Cash,261.47,5,5,1241.98
+1361,2023-06-25,Groceries,North,UPI,14.74,3,10,39.8
+2536,2023-06-25,Furniture,North,Debit Card,367.83,4,5,1397.75
+1953,2023-06-25,Furniture,North,UPI,250.16,4,5,950.61
+1959,2023-06-25,Furniture,East,UPI,250.73,2,0,501.46
+2968,2023-06-25,Groceries,West,Debit Card,18.12,4,20,57.98
+2542,2023-06-25,Electronics,West,Debit Card,177.83,3,0,533.49
+3456,2023-06-26,Clothing,West,UPI,38.26,4,15,130.08
+3250,2023-06-26,Beauty,South,UPI,37.69,3,0,113.07
+2929,2023-06-27,Clothing,West,Credit Card,48.37,1,0,48.37
+3877,2023-06-27,Beauty,East,UPI,22.17,4,20,70.94
+1340,2023-06-27,Furniture,East,Credit Card,363.11,1,5,344.95
+2610,2023-06-27,Toys,West,Debit Card,22.32,4,5,84.82
+2401,2023-06-28,Beauty,North,Credit Card,38.27,4,0,153.08
+1727,2023-06-28,Groceries,North,Credit Card,17.88,5,10,80.46
+3290,2023-06-28,Clothing,North,UPI,32.46,4,0,129.84
+2294,2023-06-28,Groceries,North,Debit Card,10.92,5,0,54.6
+1138,2023-06-28,Clothing,North,Debit Card,38.05,1,0,38.05
+3717,2023-06-28,Furniture,North,Debit Card,271.14,4,15,921.88
+3975,2023-06-29,Beauty,East,Credit Card,26.26,5,0,131.3
+3550,2023-06-29,Clothing,North,Credit Card,47.96,4,0,191.84
+2686,2023-06-29,Clothing,South,Credit Card,35.26,4,0,141.04
+2957,2023-06-29,Groceries,East,Credit Card,17.9,3,0,53.7
+3098,2023-06-29,Beauty,East,Credit Card,24.75,3,20,59.4
+2819,2023-06-29,Furniture,South,Credit Card,238.87,5,15,1015.2
+3774,2023-06-29,Clothing,North,Credit Card,49.4,5,0,247.0
+1667,2023-06-29,Groceries,North,UPI,14.86,4,0,59.44
+1041,2023-06-30,Groceries,West,UPI,13.15,5,0,65.75
+2224,2023-06-30,Electronics,North,Credit Card,182.47,3,0,547.41
+2430,2023-06-30,Furniture,West,Debit Card,307.57,2,5,584.38
+2018,2023-07-01,Electronics,East,UPI,222.88,5,0,1114.4
+1325,2023-07-02,Furniture,North,Credit Card,249.71,3,15,636.76
+1765,2023-07-02,Electronics,South,Cash,239.23,4,0,956.92
+2681,2023-07-02,Groceries,West,UPI,14.57,4,10,52.45
+1386,2023-07-02,Beauty,North,UPI,21.81,3,0,65.43
+1306,2023-07-02,Electronics,West,Debit Card,240.91,1,0,240.91
+1415,2023-07-03,Clothing,South,Credit Card,51.27,3,5,146.12
+1429,2023-07-03,Clothing,West,UPI,37.63,3,0,112.89
+2240,2023-07-03,Furniture,North,Debit Card,244.82,3,0,734.46
+3262,2023-07-03,Clothing,South,UPI,31.49,3,10,85.02
+3362,2023-07-03,Clothing,East,Credit Card,39.91,3,20,95.78
+2754,2023-07-03,Clothing,North,Debit Card,35.85,1,10,32.26
+3688,2023-07-03,Furniture,West,UPI,278.5,5,0,1392.5
+1026,2023-07-03,Clothing,East,UPI,39.29,2,10,70.72
+3916,2023-07-04,Groceries,South,Debit Card,15.25,4,0,61.0
+3606,2023-07-04,Electronics,East,UPI,236.09,4,0,944.36
+3159,2023-07-04,Furniture,North,UPI,247.19,4,0,988.76
+1226,2023-07-05,Beauty,West,Debit Card,29.38,5,10,132.21
+3642,2023-07-05,Groceries,North,UPI,11.92,4,0,47.68
+3592,2023-07-05,Groceries,North,UPI,18.95,2,0,37.9
+3230,2023-07-05,Groceries,North,Credit Card,17.82,3,10,48.11
+2750,2023-07-05,Toys,West,UPI,22.33,2,0,44.66
+2469,2023-07-05,Beauty,North,Debit Card,32.3,4,0,129.2
+3576,2023-07-05,Groceries,South,UPI,12.58,1,0,12.58
+2150,2023-07-05,Clothing,South,Debit Card,44.33,4,10,159.59
+1675,2023-07-06,Groceries,South,UPI,16.49,5,5,78.33
+2207,2023-07-06,Clothing,West,Credit Card,44.7,2,10,80.46
+2949,2023-07-06,Groceries,South,Debit Card,11.22,2,0,22.44
+2594,2023-07-07,Electronics,East,Debit Card,242.64,4,20,776.45
+2985,2023-07-07,Groceries,West,UPI,16.73,2,10,30.11
+2297,2023-07-07,Beauty,East,UPI,26.09,3,0,78.27
+1323,2023-07-07,Toys,North,UPI,19.73,5,10,88.78
+3650,2023-07-07,Electronics,North,Credit Card,322.27,2,0,644.54
+3902,2023-07-08,Clothing,West,Cash,32.29,2,15,54.89
+1793,2023-07-08,Groceries,East,UPI,16.54,2,5,31.43
+2670,2023-07-08,Clothing,East,UPI,32.32,3,5,92.11
+1826,2023-07-08,Furniture,North,Credit Card,282.34,2,5,536.45
+3355,2023-07-08,Groceries,South,Credit Card,16.46,3,10,44.44
+3320,2023-07-09,Groceries,North,Debit Card,18.49,3,5,52.7
+1004,2023-07-09,Electronics,South,Credit Card,252.14,1,0,252.14
+2757,2023-07-09,Electronics,North,UPI,181.47,4,10,653.29
+1077,2023-07-10,Groceries,North,UPI,12.51,2,0,25.02
+2043,2023-07-10,Clothing,East,UPI,43.92,1,15,37.33
+2836,2023-07-10,Electronics,East,Credit Card,305.45,3,20,733.08
+1638,2023-07-10,Furniture,South,UPI,357.73,3,0,1073.19
+3179,2023-07-10,Electronics,West,Cash,229.25,2,10,412.65
+2181,2023-07-11,Toys,East,Debit Card,21.97,3,0,65.91
+2738,2023-07-12,Clothing,West,Credit Card,41.29,4,0,165.16
+1478,2023-07-12,Electronics,South,UPI,208.73,4,5,793.17
+2728,2023-07-12,Furniture,East,UPI,294.66,1,0,294.66
+1697,2023-07-12,Clothing,North,Credit Card,37.66,5,15,160.05
+2436,2023-07-12,Clothing,South,Debit Card,28.03,5,10,126.14
+2789,2023-07-12,Electronics,West,UPI,279.06,2,0,558.12
+2533,2023-07-12,Electronics,North,Credit Card,276.42,2,5,525.2
+3695,2023-07-13,Clothing,South,Debit Card,43.59,5,0,217.95
+2611,2023-07-13,Furniture,West,UPI,387.69,5,0,1938.45
+1143,2023-07-13,Groceries,North,Debit Card,15.54,4,0,62.16
+1494,2023-07-13,Furniture,West,Credit Card,354.63,2,10,638.33
+3871,2023-07-13,Electronics,West,UPI,303.05,1,10,272.74
+3473,2023-07-14,Electronics,West,UPI,274.83,4,0,1099.32
+3807,2023-07-14,Beauty,West,Cash,22.27,5,15,94.65
+1063,2023-07-15,Furniture,South,UPI,367.94,4,5,1398.17
+3108,2023-07-15,Toys,North,Credit Card,21.11,5,0,105.55
+1400,2023-07-15,Electronics,North,Credit Card,198.17,5,5,941.31
+2970,2023-07-15,Toys,West,Debit Card,23.1,5,20,92.4
+2508,2023-07-15,Toys,South,Cash,23.88,2,0,47.76
+3083,2023-07-16,Clothing,West,Credit Card,36.06,4,20,115.39
+1506,2023-07-16,Electronics,South,Debit Card,316.67,5,10,1425.02
+1865,2023-07-16,Beauty,South,UPI,37.94,2,0,75.88
+3079,2023-07-17,Groceries,North,Credit Card,15.46,4,5,58.75
+2793,2023-07-17,Beauty,East,Credit Card,30.28,2,10,54.5
+3679,2023-07-17,Clothing,West,Credit Card,34.43,3,0,103.29
+1480,2023-07-18,Beauty,East,UPI,28.22,4,15,95.95
+3860,2023-07-18,Electronics,North,UPI,263.36,1,0,263.36
+3612,2023-07-18,Electronics,East,Debit Card,235.43,1,5,223.66
+3447,2023-07-18,Clothing,South,UPI,50.9,2,20,81.44
+1874,2023-07-18,Clothing,North,UPI,43.87,3,5,125.03
+2254,2023-07-19,Toys,North,Debit Card,31.92,2,10,57.46
+3929,2023-07-19,Clothing,South,Credit Card,45.57,5,0,227.85
+1425,2023-07-20,Toys,West,UPI,19.07,1,10,17.16
+2141,2023-07-20,Clothing,East,Debit Card,38.77,5,5,184.16
+1163,2023-07-20,Toys,North,Credit Card,22.77,1,5,21.63
+2637,2023-07-20,Clothing,West,Debit Card,35.33,1,10,31.8
+2663,2023-07-21,Toys,North,UPI,32.17,2,5,61.12
+3386,2023-07-21,Beauty,East,Credit Card,28.11,2,5,53.41
+1491,2023-07-21,Electronics,South,UPI,262.57,3,10,708.94
+3741,2023-07-21,Beauty,North,Credit Card,37.88,4,5,143.94
+1653,2023-07-21,Groceries,West,UPI,15.53,2,0,31.06
+1509,2023-07-21,Electronics,South,Debit Card,321.84,1,10,289.66
+3050,2023-07-21,Groceries,North,UPI,12.39,2,10,22.3
+2013,2023-07-21,Toys,East,Credit Card,20.03,5,5,95.14
+2863,2023-07-21,Clothing,South,Debit Card,33.41,3,5,95.22
+1633,2023-07-22,Toys,North,Credit Card,18.63,5,0,93.15
+1337,2023-07-22,Beauty,East,UPI,28.08,2,5,53.35
+2107,2023-07-22,Groceries,West,UPI,12.21,1,15,10.38
+2258,2023-07-22,Groceries,West,UPI,17.6,4,15,59.84
+2204,2023-07-22,Electronics,North,Cash,311.84,1,20,249.47
+1699,2023-07-23,Groceries,West,UPI,18.36,3,10,49.57
+2565,2023-07-23,Electronics,South,Debit Card,273.09,3,15,696.38
+1858,2023-07-23,Electronics,West,UPI,295.31,5,5,1402.72
+3368,2023-07-23,Electronics,South,Credit Card,256.36,1,5,243.54
+2458,2023-07-23,Toys,East,Debit Card,20.72,2,0,41.44
+3085,2023-07-23,Electronics,East,UPI,315.55,3,20,757.32
+2629,2023-07-23,Clothing,South,Cash,32.74,1,20,26.19
+2003,2023-07-24,Electronics,South,UPI,321.84,5,5,1528.74
+2948,2023-07-24,Electronics,North,Cash,234.52,2,0,469.04
+2657,2023-07-24,Beauty,West,Debit Card,32.46,3,0,97.38
+2212,2023-07-24,Clothing,East,Credit Card,32.6,2,5,61.94
+2036,2023-07-25,Groceries,West,UPI,18.5,5,5,87.88
+1542,2023-07-25,Electronics,East,Debit Card,210.13,4,5,798.49
+1688,2023-07-25,Toys,North,Cash,29.38,1,15,24.97
+3010,2023-07-25,Furniture,West,UPI,388.81,3,15,991.47
+2530,2023-07-25,Clothing,West,Debit Card,34.65,3,0,103.95
+1554,2023-07-25,Clothing,East,UPI,36.99,4,10,133.16
+3951,2023-07-26,Beauty,East,UPI,30.65,4,0,122.6
+2281,2023-07-26,Toys,West,Debit Card,30.74,3,20,73.78
+1950,2023-07-26,Electronics,North,Debit Card,299.9,2,0,599.8
+1574,2023-07-26,Groceries,South,Debit Card,16.12,5,5,76.57
+3530,2023-07-27,Clothing,North,Debit Card,29.9,1,0,29.9
+2328,2023-07-27,Furniture,West,Cash,253.93,4,0,1015.72
+2773,2023-07-27,Electronics,East,UPI,300.72,4,5,1142.74
+2129,2023-07-27,Electronics,West,UPI,198.54,5,5,943.06
+1784,2023-07-28,Groceries,North,Debit Card,14.24,5,5,67.64
+2170,2023-07-28,Groceries,North,Credit Card,18.23,5,10,82.04
+1947,2023-07-28,Groceries,North,Credit Card,15.72,3,10,42.44
+3704,2023-07-28,Electronics,West,Credit Card,316.8,2,0,633.6
+2071,2023-07-29,Clothing,North,Credit Card,42.18,3,0,126.54
+2184,2023-07-29,Furniture,East,UPI,211.65,5,20,846.6
+3402,2023-07-29,Electronics,East,UPI,240.67,4,0,962.68
+3609,2023-07-30,Clothing,North,Credit Card,33.69,3,10,90.96
+1587,2023-07-31,Clothing,North,UPI,51.36,5,0,256.8
+3487,2023-07-31,Furniture,North,UPI,316.0,5,0,1580.0
+1107,2023-07-31,Groceries,South,UPI,14.99,4,5,56.96
+2076,2023-07-31,Clothing,West,UPI,49.2,3,0,147.6
+2973,2023-08-01,Toys,West,Credit Card,31.33,3,5,89.29
+2884,2023-08-01,Groceries,North,UPI,10.88,1,15,9.25
+3521,2023-08-01,Groceries,South,Credit Card,14.47,1,10,13.02
+3502,2023-08-02,Groceries,North,UPI,15.94,4,20,51.01
+3440,2023-08-02,Toys,West,UPI,24.89,5,15,105.78
+1412,2023-08-02,Groceries,South,Debit Card,17.08,4,15,58.07
+1530,2023-08-02,Groceries,North,Debit Card,10.75,4,0,43.0
+1746,2023-08-02,Beauty,West,Credit Card,28.36,3,10,76.57
+1952,2023-08-03,Toys,East,Cash,21.49,2,0,42.98
+3446,2023-08-03,Groceries,South,UPI,13.27,2,10,23.89
+2137,2023-08-03,Toys,South,Cash,31.99,2,15,54.38
+2101,2023-08-04,Toys,East,UPI,28.96,5,0,144.8
+1184,2023-08-04,Beauty,East,Credit Card,25.03,1,5,23.78
+3557,2023-08-04,Groceries,West,Credit Card,13.53,3,0,40.59
+2908,2023-08-05,Groceries,West,Debit Card,18.87,4,20,60.38
+2627,2023-08-05,Toys,East,UPI,29.39,5,20,117.56
+3943,2023-08-05,Beauty,East,UPI,30.68,1,5,29.15
+2979,2023-08-05,Furniture,West,Cash,352.07,3,0,1056.21
+2560,2023-08-06,Clothing,East,UPI,48.73,5,0,243.65
+3239,2023-08-06,Clothing,North,Debit Card,32.89,5,0,164.45
+1056,2023-08-06,Toys,North,Debit Card,20.1,5,0,100.5
+2256,2023-08-06,Groceries,East,Cash,18.88,5,10,84.96
+3051,2023-08-07,Groceries,East,Cash,12.35,3,5,35.2
+3597,2023-08-07,Clothing,North,Debit Card,32.95,1,15,28.01
+1862,2023-08-07,Toys,North,Credit Card,20.55,5,20,82.2
+2557,2023-08-07,Electronics,West,UPI,206.2,1,5,195.89
+2084,2023-08-08,Beauty,East,Credit Card,37.62,1,15,31.98
+1559,2023-08-08,Clothing,South,Cash,46.21,3,5,131.7
+1243,2023-08-08,Electronics,West,Credit Card,321.58,1,20,257.26
+1334,2023-08-08,Clothing,East,Cash,33.99,2,15,57.78
+3120,2023-08-09,Electronics,North,UPI,183.46,4,10,660.46
+2930,2023-08-09,Beauty,South,Credit Card,23.0,2,0,46.0
+2073,2023-08-09,Groceries,South,UPI,12.77,4,0,51.08
+3219,2023-08-09,Beauty,West,Credit Card,33.22,5,0,166.1
+1755,2023-08-09,Toys,East,UPI,21.94,1,5,20.84
+3072,2023-08-09,Clothing,South,UPI,39.01,1,5,37.06
+2178,2023-08-09,Electronics,East,Credit Card,233.21,2,0,466.42
+1464,2023-08-11,Electronics,South,UPI,247.2,5,0,1236.0
+3300,2023-08-11,Clothing,West,Cash,31.01,4,0,124.04
+1112,2023-08-11,Beauty,West,Cash,36.58,1,5,34.75
+3107,2023-08-11,Toys,West,Debit Card,28.7,2,20,45.92
+2618,2023-08-12,Clothing,East,Credit Card,34.59,3,5,98.58
+2070,2023-08-12,Clothing,West,Debit Card,29.4,1,0,29.4
+1927,2023-08-12,Furniture,East,Debit Card,377.82,5,0,1889.1
+3285,2023-08-13,Groceries,South,Debit Card,11.49,1,5,10.92
+3730,2023-08-13,Toys,North,Debit Card,31.73,2,0,63.46
+2755,2023-08-13,Groceries,West,Debit Card,18.25,5,10,82.12
+1987,2023-08-14,Furniture,South,Credit Card,278.77,2,20,446.03
+1180,2023-08-14,Electronics,West,Credit Card,235.24,5,10,1058.58
+2244,2023-08-15,Furniture,East,UPI,389.8,4,20,1247.36
+3508,2023-08-15,Electronics,North,Credit Card,278.39,1,0,278.39
+1443,2023-08-15,Clothing,West,UPI,32.46,5,15,137.96
+2021,2023-08-15,Beauty,West,UPI,30.51,5,0,152.55
+1199,2023-08-15,Groceries,West,Credit Card,10.7,3,0,32.1
+1348,2023-08-15,Electronics,West,Debit Card,234.61,3,10,633.45
+2399,2023-08-15,Electronics,East,Debit Card,200.6,3,0,601.8
+3377,2023-08-15,Beauty,North,Debit Card,38.2,4,0,152.8
+2353,2023-08-16,Furniture,North,UPI,232.58,3,0,697.74
+2640,2023-08-16,Groceries,North,UPI,16.61,3,20,39.86
+2702,2023-08-16,Furniture,West,Credit Card,377.27,5,20,1509.08
+3744,2023-08-17,Toys,North,Debit Card,22.49,3,15,57.35
+2033,2023-08-17,Electronics,South,UPI,315.62,3,10,852.17
+2571,2023-08-18,Electronics,South,UPI,288.09,2,0,576.18
+3996,2023-08-18,Electronics,West,UPI,281.29,3,0,843.87
+2582,2023-08-18,Groceries,North,Cash,18.42,1,0,18.42
+3568,2023-08-19,Beauty,North,Debit Card,36.39,3,0,109.17
+1316,2023-08-19,Groceries,South,Debit Card,17.55,4,5,66.69
+1430,2023-08-19,Groceries,North,Debit Card,12.47,5,10,56.12
+3585,2023-08-20,Toys,North,Debit Card,29.3,1,0,29.3
+3409,2023-08-20,Beauty,East,Cash,36.96,5,10,166.32
+2471,2023-08-20,Clothing,East,Cash,44.48,4,5,169.02
+3857,2023-08-20,Groceries,West,UPI,16.53,5,0,82.65
+1297,2023-08-20,Groceries,East,Debit Card,13.98,1,10,12.58
+1385,2023-08-21,Clothing,North,Credit Card,47.64,5,0,238.2
+2454,2023-08-21,Toys,West,UPI,27.22,4,5,103.44
+2243,2023-08-21,Clothing,North,UPI,32.68,2,5,62.09
+2878,2023-08-21,Beauty,West,Credit Card,37.21,5,0,186.05
+2614,2023-08-21,Groceries,North,UPI,10.93,3,5,31.15
+1032,2023-08-21,Clothing,West,UPI,48.55,1,10,43.69
+2055,2023-08-21,Groceries,West,UPI,12.64,1,10,11.38
+2060,2023-08-21,Beauty,North,UPI,22.17,4,0,88.68
+3017,2023-08-22,Toys,South,UPI,22.68,3,15,57.83
+2338,2023-08-22,Groceries,East,Credit Card,15.8,1,0,15.8
+3153,2023-08-22,Toys,West,UPI,22.39,4,0,89.56
+3427,2023-08-22,Toys,South,UPI,24.27,2,0,48.54
+1317,2023-08-22,Toys,South,UPI,17.67,1,20,14.14
+2022,2023-08-23,Beauty,East,UPI,31.85,3,0,95.55
+2051,2023-08-23,Groceries,South,Debit Card,14.49,3,0,43.47
+2896,2023-08-23,Clothing,East,Cash,30.1,1,0,30.1
+3915,2023-08-23,Groceries,North,Credit Card,12.97,2,15,22.05
+3826,2023-08-24,Groceries,South,UPI,18.71,4,10,67.36
+2821,2023-08-24,Electronics,East,Credit Card,271.45,2,5,515.76
+2528,2023-08-24,Groceries,West,Debit Card,12.02,3,10,32.45
+1634,2023-08-25,Groceries,North,Credit Card,15.85,1,10,14.26
+1682,2023-08-25,Groceries,West,UPI,11.52,2,0,23.04
+1658,2023-08-25,Groceries,East,UPI,18.58,1,10,16.72
+1595,2023-08-26,Clothing,West,Credit Card,39.71,1,5,37.72
+1281,2023-08-26,Electronics,East,Cash,298.78,5,0,1493.9
+1086,2023-08-27,Electronics,North,UPI,233.95,3,15,596.57
+1663,2023-08-27,Electronics,West,Debit Card,259.93,2,0,519.86
+3586,2023-08-27,Furniture,East,UPI,305.05,2,0,610.1
+2585,2023-08-27,Clothing,South,UPI,41.72,1,5,39.63
+2966,2023-08-27,Clothing,North,Credit Card,31.84,4,0,127.36
+2483,2023-08-27,Clothing,East,Credit Card,47.62,5,5,226.2
+1545,2023-08-27,Electronics,North,Debit Card,314.97,2,5,598.44
+2797,2023-08-28,Furniture,North,Credit Card,369.97,5,10,1664.87
+3637,2023-08-28,Electronics,South,UPI,304.25,5,15,1293.06
+3542,2023-08-28,Toys,East,Credit Card,22.4,5,0,112.0
+3921,2023-08-29,Groceries,West,UPI,11.75,1,20,9.4
+2936,2023-08-29,Furniture,South,UPI,279.31,1,20,223.45
+3536,2023-08-29,Electronics,North,UPI,206.41,2,0,412.82
+1292,2023-08-30,Groceries,North,UPI,19.14,4,0,76.56
+1213,2023-08-30,Clothing,South,Debit Card,49.18,1,15,41.8
+1197,2023-08-30,Beauty,West,UPI,22.21,2,5,42.2
+1085,2023-08-30,Groceries,North,Credit Card,13.89,1,5,13.2
+3787,2023-08-30,Clothing,South,UPI,45.65,5,15,194.01
+3078,2023-08-30,Beauty,North,Credit Card,34.72,3,0,104.16
+3898,2023-08-31,Groceries,South,Credit Card,14.43,4,20,46.18
+1181,2023-08-31,Groceries,South,Credit Card,13.96,1,0,13.96
+2829,2023-08-31,Furniture,South,Debit Card,370.46,2,20,592.74
+2387,2023-08-31,Clothing,East,UPI,42.8,3,0,128.4
+1712,2023-09-01,Clothing,West,UPI,50.57,1,20,40.46
+2794,2023-09-01,Furniture,North,UPI,215.51,5,10,969.8
+1176,2023-09-02,Groceries,West,UPI,19.36,2,0,38.72
+3659,2023-09-02,Beauty,East,Credit Card,26.06,4,0,104.24
+3237,2023-09-02,Groceries,North,UPI,17.29,5,0,86.45
+2477,2023-09-02,Electronics,West,Credit Card,258.97,5,15,1100.62
+2165,2023-09-03,Electronics,West,UPI,227.31,3,0,681.93
+3791,2023-09-03,Clothing,East,Debit Card,28.07,5,10,126.32
+1878,2023-09-03,Groceries,East,UPI,13.3,5,0,66.5
+2160,2023-09-03,Clothing,East,Cash,48.9,4,0,195.6
+3000,2023-09-03,Clothing,West,Cash,45.37,1,10,40.83
+3756,2023-09-03,Toys,East,UPI,27.01,2,10,48.62
+1474,2023-09-04,Beauty,East,Debit Card,30.23,1,10,27.21
+1604,2023-09-04,Groceries,North,UPI,12.78,2,0,25.56
+3251,2023-09-04,Groceries,East,Credit Card,11.59,5,10,52.16
+2250,2023-09-05,Beauty,East,UPI,37.8,5,0,189.0
+3995,2023-09-06,Electronics,West,Debit Card,197.3,5,0,986.5
+3715,2023-09-07,Groceries,West,UPI,11.72,2,0,23.44
+3643,2023-09-07,Beauty,West,Cash,26.88,1,0,26.88
+3979,2023-09-07,Groceries,South,Cash,17.48,1,0,17.48
+3235,2023-09-07,Groceries,South,UPI,18.45,4,0,73.8
+1557,2023-09-07,Groceries,West,UPI,17.73,2,10,31.91
+1854,2023-09-08,Clothing,North,Credit Card,38.06,1,5,36.16
+1447,2023-09-09,Electronics,North,Credit Card,191.73,2,5,364.29
+3378,2023-09-09,Clothing,West,Credit Card,38.36,3,5,109.33
+3301,2023-09-09,Groceries,South,Cash,15.85,5,0,79.25
+1003,2023-09-10,Groceries,North,Debit Card,14.1,4,20,45.12
+2196,2023-09-10,Groceries,West,Credit Card,17.77,2,0,35.54
+3977,2023-09-10,Clothing,South,Cash,34.7,3,5,98.9
+2057,2023-09-10,Clothing,West,Credit Card,44.13,3,15,112.53
+2358,2023-09-10,Beauty,South,Debit Card,36.76,5,10,165.42
+2446,2023-09-10,Groceries,West,Credit Card,11.9,5,5,56.52
+1969,2023-09-10,Electronics,South,Debit Card,237.84,4,5,903.79
+2877,2023-09-10,Clothing,North,Debit Card,36.67,1,20,29.34
+3252,2023-09-11,Toys,South,Credit Card,20.48,4,20,65.54
+2989,2023-09-11,Toys,East,Credit Card,20.15,5,15,85.64
+3561,2023-09-11,Beauty,East,Credit Card,36.51,5,0,182.55
+3008,2023-09-11,Electronics,West,Debit Card,306.53,3,0,919.59
+2838,2023-09-11,Furniture,West,UPI,215.59,2,0,431.18
+3302,2023-09-12,Groceries,South,Debit Card,18.51,5,0,92.55
+3727,2023-09-12,Toys,East,UPI,18.0,1,0,18.0
+3174,2023-09-13,Groceries,North,Credit Card,12.84,3,5,36.59
+1310,2023-09-13,Groceries,East,Credit Card,15.36,5,0,76.8
+2541,2023-09-13,Clothing,North,Credit Card,30.36,4,20,97.15
+3549,2023-09-14,Groceries,South,UPI,16.72,4,10,60.19
+3670,2023-09-14,Groceries,North,UPI,16.1,5,20,64.4
+2177,2023-09-14,Groceries,North,Cash,15.18,4,5,57.68
+3983,2023-09-14,Groceries,North,Cash,13.16,4,20,42.11
+3990,2023-09-14,Clothing,West,UPI,47.52,4,0,190.08
+2217,2023-09-14,Electronics,South,UPI,272.98,3,0,818.94
+2357,2023-09-15,Groceries,South,Debit Card,16.63,5,0,83.15
+2769,2023-09-15,Electronics,West,Credit Card,206.26,1,20,165.01
+1021,2023-09-16,Electronics,West,Debit Card,247.72,1,0,247.72
+2435,2023-09-16,Furniture,West,Cash,343.26,3,20,823.82
+1116,2023-09-16,Electronics,South,Debit Card,257.29,2,20,411.66
+2850,2023-09-16,Groceries,West,UPI,16.7,1,10,15.03
+2547,2023-09-16,Clothing,West,UPI,29.07,3,5,82.85
+1182,2023-09-16,Toys,North,Credit Card,32.04,1,5,30.44
+3544,2023-09-16,Electronics,North,UPI,261.07,2,20,417.71
+1268,2023-09-16,Electronics,South,Cash,274.28,1,20,219.42
+1581,2023-09-17,Groceries,West,UPI,14.6,1,15,12.41
+3049,2023-09-17,Groceries,South,Credit Card,11.23,3,15,28.64
+3165,2023-09-17,Electronics,South,Cash,200.76,3,20,481.82
+2392,2023-09-17,Beauty,East,Credit Card,31.94,2,15,54.3
+1715,2023-09-17,Groceries,South,Debit Card,11.39,5,0,56.95
+2485,2023-09-17,Electronics,West,Debit Card,201.2,4,0,804.8
+1468,2023-09-17,Toys,North,Cash,31.66,3,0,94.98
+1964,2023-09-17,Groceries,North,Credit Card,18.58,3,10,50.17
+1935,2023-09-18,Electronics,East,Credit Card,176.79,3,15,450.81
+2958,2023-09-19,Electronics,East,Credit Card,221.02,5,20,884.08
+3133,2023-09-19,Beauty,South,UPI,38.2,1,0,38.2
+2876,2023-09-19,Clothing,North,Debit Card,36.24,4,0,144.96
+3618,2023-09-19,Electronics,East,Debit Card,315.7,4,20,1010.24
+2905,2023-09-20,Groceries,East,UPI,15.27,5,0,76.35
+3449,2023-09-20,Clothing,West,Credit Card,41.75,1,5,39.66
+1049,2023-09-21,Toys,West,Cash,24.36,5,0,121.8
+3507,2023-09-21,Electronics,East,UPI,237.23,2,0,474.46
+1977,2023-09-21,Beauty,East,Cash,36.33,1,10,32.7
+3316,2023-09-22,Clothing,South,Debit Card,34.07,3,10,91.99
+3506,2023-09-22,Groceries,East,Credit Card,18.77,1,15,15.95
+1886,2023-09-23,Groceries,North,UPI,13.52,5,20,54.08
+3375,2023-09-23,Toys,South,Credit Card,29.59,4,15,100.61
+3213,2023-09-23,Beauty,South,Debit Card,32.55,1,0,32.55
+3537,2023-09-23,Groceries,North,UPI,14.15,1,20,11.32
+3960,2023-09-23,Groceries,West,Credit Card,10.68,3,0,32.04
+1280,2023-09-23,Toys,North,Debit Card,22.21,1,10,19.99
+3579,2023-09-23,Electronics,West,Credit Card,251.29,2,15,427.19
+3950,2023-09-23,Clothing,North,Debit Card,51.34,5,15,218.2
+2132,2023-09-23,Clothing,North,Credit Card,44.52,1,0,44.52
+3736,2023-09-24,Clothing,South,Debit Card,51.21,3,10,138.27
+1762,2023-09-24,Clothing,North,Credit Card,33.03,5,10,148.64
+3335,2023-09-25,Beauty,South,Credit Card,32.74,2,0,65.48
+1388,2023-09-25,Furniture,North,UPI,381.91,2,10,687.44
+2159,2023-09-25,Beauty,South,Debit Card,33.19,3,5,94.59
+1168,2023-09-25,Clothing,South,Credit Card,44.08,2,5,83.75
+1719,2023-09-25,Toys,South,Credit Card,20.43,5,0,102.15
+3270,2023-09-25,Groceries,West,UPI,19.41,5,0,97.05
+1546,2023-09-26,Clothing,North,UPI,46.55,5,10,209.48
+1707,2023-09-26,Toys,South,Credit Card,32.0,4,0,128.0
+3969,2023-09-26,Furniture,West,Debit Card,230.64,1,0,230.64
+3188,2023-09-26,Groceries,South,Debit Card,19.13,3,20,45.91
+1355,2023-09-26,Clothing,West,UPI,38.26,3,10,103.3
+3388,2023-09-26,Electronics,South,Cash,230.52,3,15,587.83
+3648,2023-09-26,Furniture,East,Credit Card,239.42,5,0,1197.1
+1368,2023-09-27,Beauty,East,Credit Card,33.74,3,15,86.04
+2148,2023-09-27,Clothing,North,UPI,39.59,3,5,112.83
+2788,2023-09-27,Clothing,West,Debit Card,36.78,2,10,66.2
+3699,2023-09-27,Beauty,North,UPI,37.22,1,10,33.5
+3414,2023-09-28,Electronics,West,Credit Card,187.08,2,0,374.16
+1201,2023-09-28,Toys,North,Credit Card,30.1,4,10,108.36
+1626,2023-09-28,Groceries,North,UPI,14.2,2,15,24.14
+1009,2023-09-28,Electronics,East,Debit Card,319.18,5,0,1595.9
+2201,2023-09-28,Beauty,South,UPI,32.45,2,0,64.9
+2311,2023-09-28,Toys,East,Debit Card,23.82,5,10,107.19
+3466,2023-09-29,Groceries,East,Credit Card,12.2,3,20,29.28
+3755,2023-09-29,Furniture,East,Cash,369.14,4,10,1328.9
+2635,2023-09-30,Electronics,West,Debit Card,177.24,5,5,841.89
+1066,2023-09-30,Groceries,West,UPI,13.38,3,0,40.14
+2532,2023-09-30,Clothing,East,Debit Card,42.17,5,0,210.85
+2019,2023-09-30,Groceries,West,Credit Card,12.26,5,5,58.24
+2899,2023-09-30,Clothing,South,UPI,34.78,5,0,173.9
+1800,2023-09-30,Clothing,East,Credit Card,46.8,3,10,126.36
+1608,2023-09-30,Clothing,West,Cash,28.96,3,0,86.88
+1824,2023-09-30,Clothing,West,UPI,36.2,3,10,97.74
+3924,2023-10-01,Groceries,South,UPI,18.79,4,10,67.64
+1105,2023-10-01,Groceries,East,Debit Card,11.44,5,0,57.2
+1758,2023-10-01,Clothing,West,Debit Card,42.52,4,10,153.07
+3512,2023-10-01,Toys,West,Credit Card,26.77,1,0,26.77
+1476,2023-10-01,Beauty,North,Debit Card,27.45,4,15,93.33
+2959,2023-10-02,Furniture,South,UPI,360.01,5,0,1800.05
+1369,2023-10-02,Toys,West,Cash,26.82,1,0,26.82
+3531,2023-10-02,Groceries,South,Credit Card,16.56,5,10,74.52
+1588,2023-10-03,Clothing,North,Cash,47.61,2,20,76.18
+2336,2023-10-03,Clothing,West,UPI,29.36,4,15,99.82
+1832,2023-10-03,Furniture,East,Debit Card,336.16,4,5,1277.41
+1232,2023-10-03,Groceries,West,UPI,12.0,4,0,48.0
+1300,2023-10-04,Clothing,East,Credit Card,36.39,3,10,98.25
+3369,2023-10-05,Toys,South,Debit Card,21.35,3,15,54.44
+3501,2023-10-05,Furniture,North,Cash,289.52,3,0,868.56
+2980,2023-10-06,Furniture,North,UPI,387.64,3,5,1104.77
+2921,2023-10-06,Electronics,South,Cash,229.22,5,10,1031.49
+1485,2023-10-06,Beauty,East,Credit Card,34.78,1,5,33.04
+2169,2023-10-06,Electronics,West,Credit Card,186.78,3,15,476.29
+2972,2023-10-06,Beauty,East,Debit Card,31.05,2,0,62.1
+3998,2023-10-08,Clothing,North,UPI,47.72,5,0,238.6
+1931,2023-10-08,Toys,West,Credit Card,22.93,2,0,45.86
+1038,2023-10-10,Groceries,North,Debit Card,15.69,1,0,15.69
+3631,2023-10-10,Groceries,West,Credit Card,17.6,2,0,35.2
+1664,2023-10-10,Groceries,West,Cash,13.87,4,5,52.71
+1514,2023-10-10,Furniture,North,UPI,315.04,3,0,945.12
+3564,2023-10-11,Beauty,East,UPI,37.95,3,15,96.77
+1648,2023-10-11,Groceries,South,Debit Card,12.58,3,0,37.74
+2558,2023-10-12,Electronics,North,Credit Card,269.9,5,5,1282.03
+2149,2023-10-12,Beauty,East,UPI,29.7,2,0,59.4
+3455,2023-10-12,Groceries,North,Debit Card,10.67,2,0,21.34
+2488,2023-10-12,Groceries,North,Credit Card,14.35,2,0,28.7
+1061,2023-10-12,Electronics,East,Debit Card,180.84,2,10,325.51
+1973,2023-10-13,Electronics,South,Debit Card,219.98,3,5,626.94
+2251,2023-10-13,Clothing,West,Credit Card,29.74,5,15,126.4
+2720,2023-10-13,Beauty,South,UPI,21.06,3,0,63.18
+1606,2023-10-14,Clothing,South,Debit Card,42.13,4,0,168.52
+3374,2023-10-14,Clothing,South,Credit Card,46.29,2,20,74.06
+1811,2023-10-14,Toys,East,UPI,25.93,4,10,93.35
+1270,2023-10-14,Toys,East,Debit Card,18.95,1,15,16.11
+3061,2023-10-15,Toys,West,Debit Card,29.12,1,0,29.12
+2475,2023-10-15,Clothing,South,UPI,42.0,3,5,119.7
+3652,2023-10-16,Beauty,East,UPI,35.21,1,5,33.45
+1190,2023-10-16,Beauty,East,UPI,25.42,3,15,64.82
+2048,2023-10-16,Groceries,West,UPI,14.39,1,0,14.39
+3954,2023-10-16,Groceries,North,Credit Card,14.21,1,0,14.21
+2515,2023-10-17,Clothing,North,Debit Card,40.41,2,10,72.74
+3298,2023-10-17,Beauty,South,Credit Card,27.39,2,10,49.3
+2632,2023-10-17,Electronics,East,UPI,255.01,2,5,484.52
+3222,2023-10-18,Groceries,East,Credit Card,13.44,5,0,67.2
+1121,2023-10-18,Electronics,North,Credit Card,270.06,4,0,1080.24
+1248,2023-10-18,Clothing,South,Debit Card,32.04,2,10,57.67
+1694,2023-10-18,Beauty,North,Credit Card,30.88,2,10,55.58
+1716,2023-10-19,Groceries,East,UPI,15.83,1,0,15.83
+3042,2023-10-19,Electronics,West,Credit Card,276.1,1,0,276.1
+1815,2023-10-19,Groceries,North,Credit Card,16.65,2,0,33.3
+3082,2023-10-19,Groceries,East,Credit Card,14.04,3,15,35.8
+2166,2023-10-19,Groceries,North,Debit Card,16.85,1,0,16.85
+3587,2023-10-19,Clothing,East,Credit Card,51.75,3,0,155.25
+2708,2023-10-20,Groceries,East,Debit Card,17.7,5,0,88.5
+1235,2023-10-20,Beauty,North,UPI,25.04,5,20,100.16
+2496,2023-10-20,Beauty,South,UPI,36.33,2,0,72.66
+1178,2023-10-20,Electronics,North,Cash,181.77,1,0,181.77
+2082,2023-10-20,Beauty,East,Credit Card,24.99,1,20,19.99
+2767,2023-10-20,Clothing,North,Credit Card,33.4,4,10,120.24
+3442,2023-10-20,Electronics,East,UPI,207.57,4,15,705.74
+3006,2023-10-21,Groceries,South,UPI,17.76,4,5,67.49
+2555,2023-10-21,Furniture,North,Debit Card,309.95,5,5,1472.26
+2695,2023-10-22,Clothing,South,Debit Card,39.76,4,5,151.09
+3673,2023-10-22,Groceries,West,UPI,15.43,4,15,52.46
+2613,2023-10-22,Groceries,South,Credit Card,14.1,4,0,56.4
+1512,2023-10-22,Electronics,East,Cash,219.59,4,5,834.44
+1194,2023-10-22,Electronics,North,UPI,322.18,1,0,322.18
+2977,2023-10-23,Groceries,East,UPI,13.33,5,10,59.99
+1585,2023-10-23,Clothing,North,UPI,49.14,3,0,147.42
+1523,2023-10-23,Clothing,South,UPI,42.56,3,5,121.3
+2782,2023-10-23,Clothing,North,Credit Card,36.47,1,5,34.65
+2833,2023-10-23,Beauty,East,Credit Card,36.66,5,15,155.8
+1583,2023-10-23,Toys,South,Cash,27.09,2,5,51.47
+3328,2023-10-24,Groceries,South,Debit Card,13.75,4,20,44.0
+2088,2023-10-24,Beauty,West,Credit Card,24.97,1,0,24.97
+3644,2023-10-25,Groceries,West,Credit Card,15.57,4,10,56.05
+1796,2023-10-25,Clothing,East,Credit Card,49.7,3,0,149.1
+1681,2023-10-25,Clothing,North,UPI,43.65,5,10,196.42
+1992,2023-10-26,Clothing,North,Cash,36.2,2,0,72.4
+1951,2023-10-26,Beauty,North,Cash,26.26,1,0,26.26
+3743,2023-10-26,Beauty,South,UPI,25.88,3,0,77.64
+1702,2023-10-26,Clothing,North,Credit Card,29.37,3,5,83.7
+2140,2023-10-26,Beauty,North,Debit Card,33.95,2,0,67.9
+2861,2023-10-26,Clothing,South,Credit Card,42.91,5,20,171.64
+2064,2023-10-26,Electronics,East,UPI,284.93,3,20,683.83
+2798,2023-10-27,Clothing,East,Credit Card,39.56,1,10,35.6
+1925,2023-10-28,Furniture,North,Credit Card,230.23,3,0,690.69
+3253,2023-10-28,Electronics,East,Credit Card,257.45,2,20,411.92
+2875,2023-10-28,Electronics,East,Debit Card,244.41,2,10,439.94
+2862,2023-10-28,Beauty,West,Credit Card,26.85,4,0,107.4
+3518,2023-10-28,Electronics,South,UPI,208.86,5,0,1044.3
+3889,2023-10-29,Furniture,East,UPI,248.58,2,5,472.3
+3452,2023-10-29,Groceries,North,UPI,12.21,5,10,54.95
+3622,2023-10-29,Clothing,South,Credit Card,36.62,3,5,104.37
+1630,2023-10-29,Groceries,West,Credit Card,15.42,1,0,15.42
+3848,2023-10-29,Groceries,North,Cash,11.31,3,20,27.14
+1997,2023-10-29,Toys,South,Credit Card,31.61,5,0,158.05
+3209,2023-10-29,Electronics,North,Debit Card,225.88,5,0,1129.4
+1330,2023-10-29,Clothing,North,UPI,32.47,1,5,30.85
+1939,2023-10-29,Groceries,North,Debit Card,15.74,2,10,28.33
+3475,2023-10-30,Electronics,North,UPI,287.39,1,15,244.28
+2416,2023-10-30,Clothing,North,Credit Card,50.27,4,10,180.97
+2158,2023-10-30,Electronics,South,Credit Card,311.25,4,0,1245.0
+1103,2023-10-30,Clothing,South,Credit Card,46.24,2,10,83.23
+2298,2023-10-30,Clothing,South,UPI,33.97,5,0,169.85
+1326,2023-10-30,Beauty,West,Credit Card,24.12,4,5,91.66
+1416,2023-10-31,Electronics,West,UPI,263.31,2,5,500.29
+3204,2023-10-31,Beauty,South,Debit Card,24.78,1,10,22.3
+1708,2023-11-01,Furniture,South,Debit Card,378.25,5,0,2647.75
+3809,2023-11-01,Toys,North,Cash,27.81,1,10,35.04
+2860,2023-11-01,Groceries,West,Credit Card,17.54,1,0,24.56
+1339,2023-11-01,Groceries,North,Cash,19.21,5,0,134.47
+3394,2023-11-02,Clothing,North,Credit Card,28.97,1,10,36.5
+2210,2023-11-02,Beauty,East,Credit Card,30.94,4,20,138.61
+3881,2023-11-02,Clothing,West,Credit Card,41.4,5,15,246.33
+2310,2023-11-03,Beauty,South,Credit Card,21.25,2,10,53.55
+2919,2023-11-03,Clothing,South,Debit Card,44.73,1,15,53.23
+1895,2023-11-03,Electronics,North,Debit Card,323.54,4,0,1811.82
+2359,2023-11-03,Electronics,South,Cash,178.33,3,20,599.19
+1349,2023-11-03,Electronics,West,Debit Card,218.07,4,10,1099.07
+2623,2023-11-03,Clothing,West,UPI,47.03,5,5,312.75
+3947,2023-11-04,Electronics,East,Debit Card,202.4,5,0,1416.8
+3162,2023-11-04,Groceries,East,Credit Card,10.75,5,0,75.25
+3182,2023-11-04,Clothing,South,Credit Card,39.62,5,0,277.34
+3127,2023-11-04,Furniture,North,Credit Card,268.57,5,10,1691.99
+2398,2023-11-04,Furniture,North,UPI,314.53,2,0,880.68
+3111,2023-11-04,Groceries,East,UPI,16.52,3,5,65.91
+3053,2023-11-05,Electronics,South,UPI,227.68,5,5,1514.07
+1852,2023-11-05,Electronics,West,Cash,305.28,2,15,726.57
+3160,2023-11-05,Furniture,North,UPI,225.37,4,0,1262.07
+3895,2023-11-05,Electronics,North,Cash,211.33,4,0,1183.45
+1741,2023-11-05,Furniture,South,UPI,250.44,1,10,315.55
+3845,2023-11-06,Beauty,South,Credit Card,21.81,1,15,25.95
+2718,2023-11-06,Electronics,East,Credit Card,222.49,4,0,1245.94
+2748,2023-11-06,Groceries,North,Credit Card,14.99,4,10,75.55
+2434,2023-11-07,Beauty,North,UPI,30.68,3,15,109.53
+1903,2023-11-07,Electronics,West,Credit Card,287.09,4,20,1286.16
+1395,2023-11-07,Groceries,South,Cash,17.77,1,10,22.39
+2573,2023-11-08,Groceries,East,Debit Card,19.36,1,10,24.39
+1775,2023-11-08,Groceries,East,UPI,12.02,3,20,40.39
+2086,2023-11-09,Electronics,East,UPI,245.75,5,0,1720.25
+1136,2023-11-09,Electronics,North,Credit Card,237.18,2,20,531.28
+1332,2023-11-09,Electronics,North,Credit Card,266.53,4,0,1492.57
+3363,2023-11-09,Beauty,West,Credit Card,23.28,4,0,130.37
+1324,2023-11-10,Furniture,East,UPI,303.65,5,0,2125.55
+3980,2023-11-11,Clothing,East,UPI,31.56,2,20,70.69
+1516,2023-11-11,Furniture,West,Credit Card,349.01,4,10,1759.01
+2824,2023-11-11,Groceries,North,Credit Card,18.64,4,15,88.73
+2915,2023-11-12,Furniture,West,Debit Card,387.84,4,0,2171.9
+1277,2023-11-12,Beauty,South,Debit Card,28.15,2,10,70.94
+1680,2023-11-12,Electronics,West,Credit Card,290.29,5,5,1930.43
+1188,2023-11-12,Electronics,West,Credit Card,302.68,5,5,2012.82
+3853,2023-11-13,Electronics,East,Credit Card,175.26,3,0,736.09
+3437,2023-11-13,Clothing,West,Credit Card,34.64,5,0,242.48
+2426,2023-11-13,Clothing,North,Debit Card,49.07,4,10,247.31
+2665,2023-11-13,Clothing,South,Credit Card,51.43,2,20,115.2
+2372,2023-11-13,Beauty,South,Credit Card,25.49,1,0,35.69
+3088,2023-11-13,Toys,East,UPI,21.59,5,5,143.57
+2503,2023-11-15,Groceries,North,UPI,13.87,4,20,62.14
+2370,2023-11-15,Groceries,East,Credit Card,12.07,5,15,71.82
+3063,2023-11-15,Toys,North,UPI,31.77,4,0,177.91
+1120,2023-11-16,Groceries,West,UPI,17.95,5,0,125.65
+1263,2023-11-16,Electronics,North,UPI,241.41,5,10,1520.88
+2265,2023-11-16,Electronics,East,Cash,248.22,3,10,938.27
+3433,2023-11-17,Clothing,South,Credit Card,35.26,1,0,49.36
+2102,2023-11-17,Electronics,South,UPI,263.53,2,0,737.88
+3443,2023-11-17,Beauty,West,Debit Card,23.47,2,0,65.72
+1615,2023-11-17,Groceries,South,Debit Card,17.26,3,10,65.24
+2180,2023-11-17,Electronics,East,UPI,258.51,1,0,361.91
+1802,2023-11-17,Beauty,East,UPI,23.5,3,15,83.9
+2376,2023-11-18,Groceries,South,UPI,13.74,5,5,91.37
+2229,2023-11-18,Groceries,South,Credit Card,18.2,3,0,76.44
+2050,2023-11-19,Clothing,East,UPI,36.92,3,10,139.56
+1738,2023-11-19,Beauty,South,UPI,26.68,5,0,186.76
+3420,2023-11-19,Beauty,West,Debit Card,35.14,5,0,245.98
+3750,2023-11-19,Furniture,West,Credit Card,369.56,2,5,983.03
+1376,2023-11-20,Beauty,South,UPI,31.29,5,10,197.13
+2907,2023-11-20,Clothing,South,Credit Card,43.06,5,5,286.35
+1911,2023-11-20,Clothing,West,UPI,36.61,4,5,194.77
+2538,2023-11-21,Groceries,North,Credit Card,14.12,3,0,59.3
+1787,2023-11-21,Clothing,West,Credit Card,29.31,1,5,38.98
+1402,2023-11-21,Groceries,West,Credit Card,19.39,1,0,27.15
+2007,2023-11-21,Clothing,North,UPI,47.25,2,15,112.45
+1375,2023-11-21,Clothing,North,Debit Card,30.76,5,5,204.55
+2548,2023-11-21,Electronics,South,Credit Card,276.62,5,15,1645.89
+1881,2023-11-21,Electronics,West,Debit Card,201.87,5,5,1342.44
+2996,2023-11-21,Toys,East,Debit Card,30.97,5,5,205.95
+2260,2023-11-22,Groceries,North,Credit Card,17.97,3,0,75.47
+2089,2023-11-22,Groceries,East,Debit Card,15.96,2,20,35.75
+1446,2023-11-22,Groceries,North,UPI,14.71,1,15,17.5
+1920,2023-11-22,Furniture,East,UPI,264.32,4,0,1480.19
+3560,2023-11-22,Groceries,West,Cash,14.09,4,5,74.96
+1114,2023-11-22,Beauty,West,Debit Card,30.14,1,5,40.09
+3486,2023-11-23,Beauty,East,Debit Card,23.13,5,10,145.72
+1646,2023-11-23,Clothing,North,Debit Card,46.0,2,5,122.36
+2083,2023-11-23,Electronics,South,UPI,180.39,3,15,643.99
+3903,2023-11-24,Clothing,East,Debit Card,31.26,5,20,175.06
+3911,2023-11-24,Clothing,South,UPI,44.57,5,10,280.79
+1705,2023-11-24,Groceries,South,UPI,11.17,5,20,62.55
+2121,2023-11-24,Electronics,North,UPI,246.12,4,0,1378.27
+3534,2023-11-24,Groceries,West,Credit Card,14.17,5,5,94.23
+3436,2023-11-24,Beauty,North,UPI,27.24,5,15,162.08
+2216,2023-11-24,Beauty,West,UPI,34.0,1,0,47.6
+3749,2023-11-24,Electronics,North,Credit Card,262.1,2,5,697.19
+1892,2023-11-25,Electronics,East,Debit Card,278.25,3,10,1051.78
+3249,2023-11-25,Beauty,North,UPI,33.39,1,0,46.75
+3376,2023-11-25,Toys,East,Debit Card,27.65,2,20,61.94
+2438,2023-11-26,Beauty,East,Credit Card,28.62,2,0,80.14
+3639,2023-11-26,Groceries,North,Credit Card,17.72,3,0,74.42
+3090,2023-11-26,Groceries,South,Credit Card,15.72,5,5,104.54
+1081,2023-11-26,Beauty,West,Debit Card,22.92,5,0,160.44
+3021,2023-11-26,Groceries,East,Debit Card,18.04,4,0,101.02
+2284,2023-11-27,Electronics,West,Credit Card,300.68,2,10,757.71
+3700,2023-11-27,Groceries,East,Debit Card,18.34,2,0,51.35
+1570,2023-11-27,Toys,North,Credit Card,18.92,4,20,84.76
+1948,2023-11-27,Clothing,West,Debit Card,49.96,1,0,69.94
+1001,2023-11-27,Groceries,North,UPI,16.87,5,20,94.47
+1467,2023-11-28,Clothing,North,Cash,32.23,2,20,72.2
+2628,2023-11-28,Clothing,West,Credit Card,46.71,3,0,196.18
+1186,2023-11-28,Electronics,East,UPI,257.63,3,0,1082.05
+1990,2023-11-29,Groceries,North,Credit Card,19.39,3,5,77.37
+2482,2023-11-29,Clothing,South,Credit Card,50.19,3,0,210.8
+1119,2023-11-30,Beauty,East,Cash,24.26,3,20,81.51
+1828,2023-11-30,Clothing,South,Credit Card,37.13,3,20,124.76
+1372,2023-11-30,Furniture,West,Credit Card,367.9,2,10,927.11
+1732,2023-11-30,Beauty,North,Cash,35.0,2,0,98.0
+2381,2023-11-30,Groceries,North,Debit Card,15.19,2,5,40.41
+1710,2023-11-30,Electronics,West,Cash,242.76,4,5,1291.48
+1553,2023-12-01,Clothing,North,Debit Card,35.71,3,0,149.98
+1552,2023-12-01,Electronics,North,Cash,242.57,5,15,1443.29
+2661,2023-12-01,Groceries,West,Credit Card,15.1,2,5,40.17
+2227,2023-12-02,Groceries,South,Credit Card,16.61,1,20,18.6
+3358,2023-12-02,Electronics,South,UPI,260.17,4,10,1311.26
+2684,2023-12-02,Groceries,East,UPI,17.4,1,5,23.14
+2854,2023-12-02,Groceries,North,Credit Card,14.4,1,0,20.16
+2803,2023-12-02,Toys,South,UPI,22.32,1,0,31.25
+1252,2023-12-02,Groceries,West,Cash,16.39,3,0,68.84
+2556,2023-12-03,Beauty,North,UPI,24.77,2,20,55.48
+2982,2023-12-03,Electronics,West,Debit Card,207.5,5,5,1379.88
+2066,2023-12-03,Beauty,West,Debit Card,36.28,4,15,172.69
+1010,2023-12-04,Groceries,West,Debit Card,13.03,4,0,72.97
+1210,2023-12-04,Groceries,East,UPI,16.41,1,15,19.53
+1821,2023-12-04,Groceries,West,Debit Card,18.43,1,0,25.8
+1833,2023-12-05,Clothing,North,Debit Card,39.93,4,0,223.61
+1575,2023-12-05,Groceries,North,UPI,17.1,2,10,43.09
+2044,2023-12-05,Beauty,East,Credit Card,29.32,2,0,82.1
+3880,2023-12-06,Clothing,South,Debit Card,38.4,2,10,96.77
+3084,2023-12-06,Groceries,South,UPI,18.06,3,0,75.85
+3814,2023-12-06,Groceries,North,Debit Card,14.35,2,10,36.16
+1496,2023-12-06,Beauty,East,Credit Card,34.76,5,20,194.66
+3385,2023-12-08,Groceries,South,Debit Card,16.38,3,0,68.8
+3757,2023-12-08,Groceries,South,UPI,15.42,4,5,82.03
+2264,2023-12-08,Electronics,West,Debit Card,197.22,2,0,552.22
+3158,2023-12-08,Clothing,North,Credit Card,32.08,5,20,179.65
+2783,2023-12-08,Clothing,West,Credit Card,47.17,4,10,237.74
+3703,2023-12-09,Electronics,West,Debit Card,317.77,5,15,1890.73
+3353,2023-12-09,Groceries,East,UPI,12.17,5,15,72.41
+1251,2023-12-09,Toys,South,UPI,25.32,5,0,177.24
+1209,2023-12-10,Groceries,West,Debit Card,10.6,2,10,26.71
+3208,2023-12-10,Clothing,North,Debit Card,45.62,1,0,63.87
+1896,2023-12-10,Toys,East,Debit Card,22.7,4,0,127.12
+3040,2023-12-11,Clothing,West,Credit Card,32.22,5,0,225.54
+2144,2023-12-11,Beauty,South,Credit Card,24.61,5,0,172.27
+2779,2023-12-12,Furniture,North,UPI,289.99,5,5,1928.43
+1006,2023-12-12,Electronics,West,Credit Card,277.49,4,5,1476.25
+3121,2023-12-12,Toys,North,Credit Card,31.06,1,10,39.14
+1749,2023-12-13,Clothing,North,UPI,37.9,5,10,238.77
+1082,2023-12-14,Groceries,West,Debit Card,15.75,4,0,88.2
+2410,2023-12-14,Groceries,North,Debit Card,12.85,1,10,16.19
+2397,2023-12-14,Groceries,West,UPI,14.54,3,0,61.07
+3580,2023-12-14,Clothing,North,Credit Card,42.54,1,0,59.56
+2827,2023-12-14,Clothing,West,Credit Card,29.94,3,20,100.6
+1020,2023-12-14,Clothing,South,Credit Card,33.47,1,15,39.83
+3041,2023-12-15,Electronics,West,UPI,309.73,1,10,390.26
+3575,2023-12-15,Beauty,West,Debit Card,31.19,2,5,82.97
+1189,2023-12-15,Beauty,East,Credit Card,33.2,3,15,118.52
+2046,2023-12-15,Groceries,South,Cash,17.48,4,10,88.1
+1111,2023-12-16,Electronics,East,UPI,182.75,5,20,1023.4
+1050,2023-12-16,Groceries,East,Credit Card,11.69,2,5,31.1
+3982,2023-12-16,Beauty,South,Debit Card,37.76,1,5,50.22
+3092,2023-12-16,Groceries,North,UPI,16.62,4,10,83.76
+3873,2023-12-16,Groceries,North,Credit Card,14.1,3,10,53.3
+1305,2023-12-17,Groceries,West,UPI,11.65,1,20,13.05
+2892,2023-12-17,Furniture,West,Debit Card,240.58,4,15,1145.16
+2997,2023-12-17,Groceries,West,Credit Card,17.27,1,10,21.76
+2763,2023-12-17,Electronics,South,Debit Card,324.58,4,15,1545.0
+2192,2023-12-17,Clothing,West,UPI,43.03,5,0,301.21
+1747,2023-12-18,Clothing,East,Credit Card,33.85,5,5,225.1
+3861,2023-12-18,Clothing,North,Credit Card,38.26,1,20,42.85
+3882,2023-12-18,Toys,South,UPI,24.0,1,5,31.92
+1848,2023-12-18,Toys,South,Credit Card,25.07,4,0,140.39
+2452,2023-12-19,Groceries,West,UPI,10.61,4,5,56.45
+1864,2023-12-19,Electronics,West,Debit Card,270.18,4,15,1286.06
+2612,2023-12-19,Electronics,South,Debit Card,279.87,2,0,783.64
+3057,2023-12-19,Clothing,West,UPI,37.81,2,10,95.28
+2712,2023-12-20,Beauty,South,Credit Card,37.1,3,0,155.82
+1409,2023-12-20,Clothing,East,Credit Card,40.18,4,0,225.01
+2179,2023-12-21,Groceries,West,Debit Card,16.11,5,5,107.13
+2714,2023-12-21,Beauty,North,Debit Card,26.58,4,10,133.96
+3189,2023-12-21,Electronics,North,Debit Card,229.27,4,0,1283.91
+1558,2023-12-21,Furniture,West,UPI,279.59,4,0,1565.7
+1913,2023-12-21,Groceries,South,Credit Card,14.18,4,0,79.41
+1220,2023-12-22,Furniture,North,UPI,328.57,3,0,1379.99
+3630,2023-12-22,Groceries,South,Cash,15.11,2,0,42.31
+1132,2023-12-22,Beauty,North,Cash,33.73,2,10,85.0
+2762,2023-12-22,Groceries,East,UPI,10.68,2,0,29.9
+2324,2023-12-22,Toys,North,Cash,18.06,1,0,25.28
+2598,2023-12-22,Groceries,East,Credit Card,18.35,2,0,51.38
+2550,2023-12-23,Furniture,North,Cash,361.37,5,10,2276.63
+2778,2023-12-23,Groceries,West,Debit Card,15.35,2,10,38.68
+2606,2023-12-23,Furniture,South,Credit Card,375.86,4,5,1999.58
+1185,2023-12-23,Electronics,North,Debit Card,215.94,5,15,1284.84
+1956,2023-12-23,Electronics,West,Credit Card,210.53,2,0,589.48
+3287,2023-12-24,Clothing,East,UPI,35.54,2,0,99.51
+1590,2023-12-24,Beauty,West,Credit Card,23.65,3,20,79.46
+3264,2023-12-24,Furniture,West,UPI,286.19,4,10,1442.4
+3341,2023-12-24,Groceries,North,Debit Card,15.22,5,5,101.21
+1154,2023-12-25,Clothing,South,UPI,51.63,2,20,115.65
+1177,2023-12-25,Groceries,North,Credit Card,11.49,2,0,32.17
+3812,2023-12-25,Beauty,East,UPI,31.1,3,10,117.56
+1625,2023-12-26,Groceries,East,Credit Card,11.53,3,0,48.43
+3225,2023-12-26,Groceries,East,Credit Card,12.28,4,5,65.33
+2514,2023-12-26,Groceries,South,Credit Card,18.87,3,0,79.25
+3002,2023-12-26,Beauty,West,Credit Card,37.89,1,5,50.39
+2808,2023-12-26,Groceries,South,Debit Card,15.45,4,0,86.52
+3887,2023-12-26,Clothing,West,UPI,42.65,5,20,238.84
+3535,2023-12-27,Toys,North,Credit Card,25.7,4,20,115.14
+3840,2023-12-27,Groceries,East,Credit Card,17.34,4,10,87.39
+1275,2023-12-27,Electronics,East,Credit Card,251.46,3,0,1056.13
+3955,2023-12-27,Furniture,East,Debit Card,337.61,4,15,1607.02
+1781,2023-12-27,Electronics,West,Debit Card,195.89,4,5,1042.13
+2888,2023-12-27,Toys,North,UPI,19.46,3,20,65.39
+3656,2023-12-28,Electronics,North,Debit Card,179.71,1,0,251.59
+1314,2023-12-28,Groceries,West,Credit Card,17.04,1,0,23.86
+3987,2023-12-28,Clothing,South,Credit Card,48.18,1,10,60.71
+3023,2023-12-29,Beauty,North,Credit Card,35.32,4,0,197.79
+1193,2023-12-29,Clothing,East,Credit Card,47.63,5,5,316.74
+3314,2023-12-29,Clothing,West,Debit Card,36.3,3,5,144.84
+1543,2023-12-29,Groceries,East,UPI,18.34,3,10,69.33
+2313,2023-12-30,Electronics,South,Cash,219.66,2,15,522.79
+1612,2023-12-30,Groceries,East,UPI,13.01,1,5,17.3
+1631,2023-12-30,Furniture,West,Debit Card,229.05,3,5,913.91
+1073,2023-12-31,Clothing,West,Credit Card,49.78,5,10,313.61
+2191,2023-12-31,Groceries,East,UPI,17.47,3,0,73.37
+3879,2023-12-31,Furniture,North,Debit Card,274.87,4,0,1539.27
+3196,2023-12-31,Groceries,South,Credit Card,15.55,5,5,103.41
+1817,2024-01-01,Clothing,North,Credit Card,48.37,1,0,48.37
+3306,2024-01-01,Electronics,West,Debit Card,234.8,1,5,223.06
+3439,2024-01-01,Furniture,South,UPI,213.17,2,0,426.34
+3411,2024-01-01,Electronics,East,Cash,291.01,5,20,1164.04
+2584,2024-01-02,Electronics,East,Debit Card,250.49,4,5,951.86
+3076,2024-01-02,Beauty,East,Debit Card,29.3,4,10,105.48
+3457,2024-01-02,Groceries,East,Cash,18.08,3,5,51.53
+3419,2024-01-02,Beauty,East,Credit Card,22.13,4,0,88.52
+2360,2024-01-02,Clothing,East,UPI,32.72,3,20,78.53
+1234,2024-01-02,Beauty,West,Debit Card,21.62,2,0,43.24
+3516,2024-01-02,Clothing,West,Debit Card,29.83,2,5,56.68
+2040,2024-01-02,Clothing,West,Credit Card,36.5,3,0,109.5
+1302,2024-01-03,Beauty,East,UPI,25.1,1,0,25.1
+2889,2024-01-04,Groceries,North,UPI,10.67,2,0,21.34
+1921,2024-01-04,Toys,North,UPI,21.48,2,5,40.81
+2751,2024-01-04,Clothing,North,UPI,35.29,2,5,67.05
+2928,2024-01-04,Groceries,East,UPI,17.81,1,5,16.92
+3725,2024-01-05,Furniture,West,Debit Card,232.28,2,10,418.1
+3800,2024-01-05,Groceries,North,UPI,17.62,4,5,66.96
+1304,2024-01-05,Clothing,West,Credit Card,51.52,5,5,244.72
+3258,2024-01-06,Beauty,South,UPI,33.91,1,15,28.82
+3476,2024-01-06,Beauty,North,Credit Card,28.51,4,15,96.93
+3331,2024-01-06,Electronics,South,UPI,181.03,2,0,362.06
+2120,2024-01-06,Electronics,East,UPI,180.27,2,10,324.49
+3770,2024-01-06,Electronics,East,Debit Card,261.09,1,10,234.98
+1563,2024-01-06,Toys,South,Cash,23.97,1,0,23.97
+3463,2024-01-06,Groceries,North,Debit Card,14.5,1,20,11.6
+3011,2024-01-08,Electronics,West,Credit Card,272.55,2,10,490.59
+2502,2024-01-08,Groceries,North,UPI,16.62,4,5,63.16
+2946,2024-01-08,Toys,West,UPI,32.48,3,20,77.95
+2379,2024-01-08,Electronics,East,Debit Card,310.23,4,0,1240.92
+2933,2024-01-09,Toys,West,Debit Card,17.85,5,10,80.32
+2576,2024-01-09,Electronics,West,Credit Card,190.67,4,0,762.68
+3060,2024-01-10,Beauty,East,Credit Card,26.89,4,0,107.56
+1239,2024-01-10,Electronics,North,Credit Card,275.89,5,20,1103.56
+3539,2024-01-10,Electronics,West,Debit Card,233.35,4,20,746.72
+1846,2024-01-10,Electronics,South,Debit Card,286.1,3,0,858.3
+1370,2024-01-10,Groceries,East,UPI,11.51,5,5,54.67
+2185,2024-01-10,Groceries,West,Credit Card,14.87,1,0,14.87
+1624,2024-01-10,Beauty,North,Cash,24.41,2,20,39.06
+1428,2024-01-10,Toys,West,UPI,18.25,2,10,32.85
+3773,2024-01-10,Electronics,South,Debit Card,249.75,1,15,212.29
+2361,2024-01-11,Furniture,East,UPI,279.29,3,10,754.08
+3471,2024-01-11,Furniture,West,Credit Card,377.67,2,5,717.57
+2501,2024-01-11,Groceries,East,UPI,13.86,3,20,33.26
+2603,2024-01-11,Electronics,West,Credit Card,290.87,5,0,1454.35
+1502,2024-01-11,Toys,North,UPI,21.26,3,15,54.21
+2987,2024-01-11,Electronics,West,UPI,283.28,5,20,1133.12
+3863,2024-01-12,Toys,South,Credit Card,27.7,4,0,110.8
+3909,2024-01-12,Clothing,North,Credit Card,39.15,3,20,93.96
+1521,2024-01-12,Furniture,South,UPI,226.45,1,15,192.48
+3459,2024-01-12,Groceries,North,Debit Card,18.46,3,5,52.61
+1318,2024-01-12,Furniture,West,Credit Card,265.01,3,20,636.02
+1207,2024-01-13,Groceries,South,Debit Card,10.51,1,10,9.46
+2583,2024-01-13,Electronics,West,Credit Card,176.17,3,0,528.51
+1133,2024-01-13,Electronics,East,UPI,315.16,3,5,898.21
+2230,2024-01-14,Furniture,West,Credit Card,286.06,5,0,1430.3
+3541,2024-01-14,Beauty,East,Credit Card,24.41,4,15,82.99
+3138,2024-01-14,Groceries,West,Debit Card,11.8,4,15,40.12
+3662,2024-01-15,Clothing,West,UPI,49.21,4,0,196.84
+2922,2024-01-15,Clothing,East,Credit Card,45.02,1,5,42.77
+2947,2024-01-15,Clothing,East,UPI,50.83,3,0,152.49
+2796,2024-01-15,Groceries,North,Credit Card,19.03,2,5,36.16
+3503,2024-01-15,Electronics,West,UPI,251.73,3,10,679.67
+3565,2024-01-16,Clothing,West,Debit Card,43.17,1,15,36.69
+3533,2024-01-16,Toys,East,UPI,31.19,4,10,112.28
+3094,2024-01-16,Beauty,South,UPI,27.89,5,10,125.5
+3202,2024-01-16,Groceries,South,Credit Card,15.01,3,10,40.53
+2331,2024-01-16,Clothing,North,UPI,45.56,5,0,227.8
+3758,2024-01-16,Toys,East,Debit Card,18.87,1,0,18.87
+3677,2024-01-16,Electronics,East,Debit Card,178.67,1,0,178.67
+3492,2024-01-17,Groceries,East,Credit Card,15.64,1,5,14.86
+3284,2024-01-17,Clothing,East,Debit Card,46.14,3,10,124.58
+1651,2024-01-17,Electronics,North,Credit Card,316.48,5,5,1503.28
+1345,2024-01-18,Toys,West,Debit Card,20.57,5,10,92.56
+3936,2024-01-19,Clothing,South,Cash,51.75,3,5,147.49
+1068,2024-01-19,Groceries,South,UPI,14.54,3,10,39.26
+2098,2024-01-19,Electronics,East,Debit Card,303.16,3,0,909.48
+2554,2024-01-19,Clothing,West,UPI,37.53,4,0,150.12
+1674,2024-01-19,Toys,North,UPI,21.84,5,10,98.28
+1426,2024-01-19,Furniture,East,Credit Card,272.79,3,10,736.53
+2506,2024-01-20,Clothing,East,UPI,42.8,3,10,115.56
+3532,2024-01-20,Groceries,East,Credit Card,15.54,3,0,46.62
+1257,2024-01-20,Clothing,North,UPI,50.83,5,15,216.03
+1025,2024-01-20,Clothing,South,Debit Card,38.75,4,0,155.0
+3599,2024-01-21,Groceries,North,Credit Card,16.04,3,0,48.12
+2586,2024-01-21,Electronics,South,Credit Card,252.5,2,20,404.0
+3552,2024-01-21,Clothing,North,UPI,31.89,3,0,95.67
+1137,2024-01-21,Groceries,East,UPI,14.57,3,0,43.71
+1678,2024-01-21,Groceries,West,Credit Card,11.63,2,10,20.93
+1685,2024-01-21,Furniture,South,Debit Card,355.08,5,5,1686.63
+3661,2024-01-21,Groceries,South,Credit Card,14.49,4,5,55.06
+3269,2024-01-22,Clothing,East,Debit Card,41.38,5,10,186.21
+1729,2024-01-22,Electronics,West,Credit Card,264.7,4,0,1058.8
+1836,2024-01-22,Electronics,East,UPI,192.87,3,0,578.61
+1889,2024-01-22,Toys,East,Credit Card,19.82,5,5,94.14
+2962,2024-01-23,Toys,North,Debit Card,25.12,2,0,50.24
+2242,2024-01-23,Groceries,South,UPI,13.56,3,15,34.58
+1894,2024-01-23,Beauty,North,Credit Card,36.21,5,0,181.05
+3913,2024-01-23,Groceries,North,UPI,18.88,4,0,75.52
+1566,2024-01-23,Groceries,East,Credit Card,11.3,5,10,50.85
+3321,2024-01-23,Clothing,North,Cash,38.72,3,0,116.16
+2810,2024-01-24,Electronics,North,Credit Card,258.52,1,10,232.67
+3054,2024-01-24,Groceries,North,Debit Card,18.66,2,5,35.45
+1934,2024-01-24,Clothing,North,UPI,44.79,4,0,179.16
+3723,2024-01-24,Groceries,South,Credit Card,18.5,5,0,92.5
+3590,2024-01-24,Furniture,South,Cash,261.71,5,5,1243.12
+2938,2024-01-25,Beauty,South,Credit Card,38.46,3,0,115.38
+2194,2024-01-25,Clothing,North,UPI,29.68,2,10,53.42
+1601,2024-01-25,Groceries,North,Debit Card,18.33,4,20,58.66
+3747,2024-01-25,Clothing,East,UPI,35.22,4,0,140.88
+1284,2024-01-25,Electronics,East,UPI,272.53,3,0,817.59
+1507,2024-01-26,Groceries,South,UPI,17.57,5,0,87.85
+1961,2024-01-26,Clothing,West,Credit Card,46.29,2,5,87.95
+3346,2024-01-26,Toys,East,Credit Card,20.23,1,0,20.23
+3555,2024-01-26,Groceries,West,Cash,14.89,2,10,26.8
+3268,2024-01-27,Groceries,North,Credit Card,17.19,5,0,85.95
+3176,2024-01-27,Clothing,West,UPI,32.25,2,0,64.5
+3626,2024-01-27,Clothing,South,Credit Card,51.66,4,0,206.64
+3333,2024-01-27,Electronics,North,Debit Card,179.63,3,0,538.89
+1282,2024-01-27,Groceries,West,Credit Card,19.17,4,10,69.01
+2951,2024-01-28,Clothing,West,UPI,32.16,5,10,144.72
+3417,2024-01-28,Clothing,North,UPI,38.69,2,20,61.9
+1598,2024-01-28,Beauty,South,Credit Card,29.81,1,5,28.32
+1072,2024-01-28,Toys,South,Credit Card,25.2,3,5,71.82
+2124,2024-01-29,Beauty,North,Debit Card,34.46,3,5,98.21
+3920,2024-01-30,Beauty,North,Cash,35.21,1,0,35.21
+3760,2024-01-30,Electronics,South,Debit Card,310.44,2,5,589.84
+3548,2024-01-30,Groceries,South,UPI,16.77,1,20,13.42
+1358,2024-01-30,Beauty,West,Debit Card,27.44,2,15,46.65
+2871,2024-01-31,Furniture,South,Credit Card,360.28,5,0,1801.4
+3483,2024-01-31,Groceries,South,Debit Card,18.77,4,0,75.08
+3480,2024-01-31,Electronics,West,Credit Card,217.23,4,5,825.47
+1131,2024-01-31,Beauty,West,Debit Card,32.01,4,5,121.64
+2617,2024-02-01,Electronics,North,Cash,178.1,3,5,507.58
+2619,2024-02-01,Clothing,South,Debit Card,41.25,4,10,148.5
+2301,2024-02-01,Electronics,North,Debit Card,214.54,1,5,203.81
+2352,2024-02-02,Clothing,East,UPI,42.51,3,5,121.15
+2010,2024-02-02,Groceries,South,UPI,14.94,5,15,63.5
+1070,2024-02-02,Groceries,North,UPI,15.41,3,0,46.23
+3381,2024-02-02,Electronics,West,UPI,212.1,1,15,180.28
+3666,2024-02-02,Groceries,North,Debit Card,19.18,4,20,61.38
+3115,2024-02-03,Clothing,North,Credit Card,36.97,3,0,110.91
+3790,2024-02-03,Toys,South,Debit Card,31.08,3,0,93.24
+3065,2024-02-03,Groceries,West,Debit Card,10.64,1,5,10.11
+1279,2024-02-03,Groceries,South,Credit Card,12.51,4,5,47.54
+3139,2024-02-03,Electronics,South,Credit Card,293.98,4,0,1175.92
+3635,2024-02-04,Beauty,East,Debit Card,34.18,5,10,153.81
+3304,2024-02-04,Clothing,South,Credit Card,39.72,5,20,158.88
+1092,2024-02-05,Electronics,East,Debit Card,292.7,2,15,497.59
+2451,2024-02-05,Clothing,West,Debit Card,43.56,5,10,196.02
+1439,2024-02-05,Furniture,South,Debit Card,377.43,1,10,339.69
+1654,2024-02-05,Furniture,East,Debit Card,341.11,5,15,1449.72
+1169,2024-02-05,Electronics,North,Debit Card,221.93,5,10,998.68
+3234,2024-02-05,Groceries,East,UPI,14.2,4,0,56.8
+3350,2024-02-05,Electronics,North,Cash,233.69,2,0,467.38
+3434,2024-02-05,Toys,West,Debit Card,20.22,2,15,34.37
+3205,2024-02-05,Furniture,North,Cash,351.1,2,0,702.2
+1171,2024-02-06,Groceries,East,Credit Card,15.87,3,5,45.23
+3430,2024-02-06,Electronics,South,Credit Card,244.38,2,20,391.01
+2173,2024-02-06,Beauty,West,Debit Card,32.95,4,5,125.21
+2305,2024-02-06,Groceries,West,Debit Card,15.78,2,20,25.25
+1028,2024-02-07,Furniture,East,Credit Card,326.13,4,20,1043.62
+2415,2024-02-08,Electronics,West,UPI,276.57,1,10,248.91
+2111,2024-02-08,Electronics,South,Credit Card,271.95,4,0,1087.8
+1475,2024-02-08,Toys,East,Credit Card,24.17,2,0,48.34
+2465,2024-02-09,Toys,North,Credit Card,25.57,5,15,108.67
+1995,2024-02-09,Toys,East,Debit Card,29.08,4,0,116.32
+3055,2024-02-09,Electronics,West,UPI,185.24,3,0,555.72
+3357,2024-02-10,Electronics,North,Credit Card,212.26,2,10,382.07
+3959,2024-02-10,Groceries,East,Credit Card,16.27,5,15,69.15
+2791,2024-02-11,Groceries,North,UPI,14.84,3,0,44.52
+2513,2024-02-11,Clothing,East,Debit Card,50.66,4,10,182.38
+3718,2024-02-11,Clothing,West,UPI,38.58,1,10,34.72
+1276,2024-02-11,Beauty,South,Debit Card,37.55,3,5,107.02
+3279,2024-02-11,Electronics,North,UPI,199.61,1,0,199.61
+1045,2024-02-12,Beauty,South,Credit Card,32.3,4,10,116.28
+3206,2024-02-12,Clothing,West,Debit Card,34.01,2,0,68.02
+3104,2024-02-12,Groceries,West,UPI,15.59,3,5,44.43
+3641,2024-02-12,Clothing,North,Debit Card,45.33,2,0,90.66
+1733,2024-02-12,Groceries,West,Credit Card,19.01,1,0,19.01
+2355,2024-02-13,Toys,East,UPI,19.27,1,0,19.27
+2799,2024-02-13,Furniture,South,Credit Card,211.59,5,15,899.26
+3166,2024-02-13,Electronics,East,Cash,175.92,4,0,703.68
+2717,2024-02-13,Electronics,North,UPI,199.6,4,10,718.56
+3595,2024-02-13,Beauty,South,Debit Card,36.73,5,5,174.47
+3992,2024-02-14,Clothing,East,Credit Card,29.19,4,5,110.92
+2509,2024-02-14,Clothing,North,Credit Card,40.49,2,0,80.98
+2215,2024-02-14,Electronics,West,UPI,206.17,1,5,195.86
+2155,2024-02-14,Clothing,North,Debit Card,31.81,3,5,90.66
+3831,2024-02-14,Electronics,North,UPI,320.07,1,5,304.07
+2652,2024-02-15,Furniture,West,UPI,384.41,5,10,1729.85
+1489,2024-02-15,Clothing,North,Debit Card,49.65,4,20,158.88
+1129,2024-02-15,Groceries,East,Debit Card,16.95,3,0,50.85
+2262,2024-02-15,Groceries,South,Debit Card,17.89,3,10,48.3
+1391,2024-02-16,Groceries,North,Credit Card,11.22,1,20,8.98
+3709,2024-02-16,Clothing,North,Credit Card,33.66,1,10,30.29
+2785,2024-02-16,Electronics,West,Credit Card,241.46,1,0,241.46
+1460,2024-02-16,Groceries,North,Credit Card,18.76,4,5,71.29
+1196,2024-02-16,Groceries,South,UPI,17.6,4,10,63.36
+1799,2024-02-17,Furniture,South,Credit Card,381.61,2,0,763.22
+2891,2024-02-17,Beauty,North,Credit Card,31.18,2,0,62.36
+3429,2024-02-17,Beauty,West,Debit Card,23.58,1,0,23.58
+1307,2024-02-18,Beauty,West,Credit Card,36.96,5,0,184.8
+2356,2024-02-18,Electronics,South,UPI,179.85,2,10,323.73
+3296,2024-02-18,Toys,East,Debit Card,25.47,2,10,45.85
+3305,2024-02-18,Clothing,West,Cash,37.53,2,5,71.31
+1080,2024-02-19,Beauty,South,Debit Card,37.22,1,20,29.78
+2023,2024-02-19,Furniture,North,UPI,307.14,2,0,614.28
+1030,2024-02-19,Beauty,East,Credit Card,24.15,1,5,22.94
+3289,2024-02-19,Clothing,South,Credit Card,33.09,1,0,33.09
+3810,2024-02-19,Clothing,East,Debit Card,49.13,2,0,98.26
+1175,2024-02-20,Beauty,East,Cash,27.31,1,5,25.94
+1548,2024-02-20,Furniture,West,Credit Card,340.22,1,5,323.21
+3380,2024-02-20,Electronics,West,Debit Card,200.78,1,0,200.78
+3485,2024-02-21,Groceries,South,Debit Card,11.53,2,5,21.91
+2247,2024-02-21,Clothing,North,Credit Card,48.9,1,5,46.46
+2442,2024-02-21,Groceries,North,Credit Card,17.78,3,20,42.67
+1907,2024-02-22,Toys,South,UPI,23.76,3,20,57.02
+3617,2024-02-22,Electronics,South,Credit Card,206.66,3,0,619.98
+2394,2024-02-22,Groceries,South,Cash,18.01,2,5,34.22
+2768,2024-02-23,Groceries,North,UPI,16.8,4,0,67.2
+1401,2024-02-23,Clothing,East,UPI,42.3,1,10,38.07
+3928,2024-02-23,Electronics,South,Credit Card,183.53,1,10,165.18
+2849,2024-02-23,Clothing,South,Debit Card,37.14,4,5,141.13
+2282,2024-02-24,Groceries,East,Debit Card,13.12,1,0,13.12
+2128,2024-02-24,Groceries,West,Credit Card,11.52,4,15,39.17
+2295,2024-02-24,Electronics,North,UPI,308.4,1,5,292.98
+3681,2024-02-24,Groceries,South,Credit Card,18.52,5,10,83.34
+2940,2024-02-24,Toys,South,Credit Card,18.57,2,5,35.28
+2378,2024-02-24,Groceries,South,Credit Card,12.13,1,0,12.13
+3317,2024-02-24,Groceries,North,Credit Card,13.84,2,20,22.14
+3638,2024-02-24,Clothing,West,UPI,32.37,4,10,116.53
+2832,2024-02-24,Furniture,North,Debit Card,264.04,2,0,528.08
+2831,2024-02-24,Furniture,West,UPI,369.09,4,5,1402.54
+3942,2024-02-26,Beauty,West,Credit Card,24.59,3,5,70.08
+1983,2024-02-26,Clothing,South,UPI,38.83,2,5,73.78
+2113,2024-02-26,Furniture,North,UPI,213.18,5,10,959.31
+3768,2024-02-26,Groceries,North,Credit Card,10.93,2,0,21.86
+1789,2024-02-26,Furniture,North,UPI,377.19,1,10,339.47
+1295,2024-02-26,Clothing,South,UPI,50.93,1,10,45.84
+3907,2024-02-27,Groceries,North,Credit Card,15.26,2,0,30.52
+3834,2024-02-27,Electronics,West,Debit Card,232.17,1,0,232.17
+3255,2024-02-27,Beauty,South,UPI,22.07,3,0,66.21
+2329,2024-02-27,Groceries,North,Credit Card,10.74,5,5,51.02
+2939,2024-02-27,Clothing,South,Debit Card,44.79,1,0,44.79
+2926,2024-02-27,Groceries,West,Credit Card,14.57,2,0,29.14
+3851,2024-02-27,Toys,East,Credit Card,18.02,2,15,30.63
+2667,2024-02-27,Clothing,East,Cash,42.6,3,0,127.8
+1893,2024-02-27,Beauty,South,Debit Card,30.6,4,0,122.4
+2690,2024-02-28,Electronics,South,Credit Card,308.6,3,0,925.8
+1230,2024-02-28,Groceries,West,Cash,14.58,3,15,37.18
+1377,2024-02-28,Clothing,West,Debit Card,31.3,3,15,79.82
+3608,2024-02-29,Clothing,East,Credit Card,50.54,1,15,42.96
+1296,2024-02-29,Furniture,West,Credit Card,260.29,2,0,520.58
+3067,2024-02-29,Toys,North,Debit Card,28.56,5,5,135.66
+1537,2024-02-29,Beauty,South,UPI,27.21,3,5,77.55
+2596,2024-03-01,Clothing,South,UPI,42.08,4,0,168.32
+2924,2024-03-02,Toys,East,Cash,20.5,2,0,41.0
+1470,2024-03-02,Furniture,East,Cash,347.44,5,5,1650.34
+2575,2024-03-02,Furniture,East,Cash,257.35,5,10,1158.08
+3607,2024-03-03,Electronics,South,Debit Card,309.9,4,5,1177.62
+3045,2024-03-03,Beauty,North,Debit Card,34.74,4,10,125.06
+1238,2024-03-03,Groceries,East,Credit Card,13.27,2,0,26.54
+1599,2024-03-03,Furniture,West,Debit Card,364.76,2,0,729.52
+3883,2024-03-03,Groceries,North,Credit Card,12.02,2,0,24.04
+3844,2024-03-03,Electronics,East,Credit Card,261.68,1,20,209.34
+2322,2024-03-04,Electronics,West,Credit Card,240.44,4,0,961.76
+1550,2024-03-04,Groceries,East,Credit Card,13.99,2,20,22.38
+3229,2024-03-04,Groceries,South,Credit Card,10.66,2,15,18.12
+2870,2024-03-05,Electronics,South,UPI,209.25,4,0,837.0
+2494,2024-03-05,Beauty,West,Credit Card,24.87,5,20,99.48
+2525,2024-03-05,Clothing,South,Debit Card,47.1,2,10,84.78
+3510,2024-03-05,Furniture,West,UPI,235.21,3,15,599.79
+3649,2024-03-05,Groceries,East,Debit Card,12.99,2,10,23.38
+3785,2024-03-05,Furniture,West,UPI,326.78,3,20,784.27
+3074,2024-03-06,Clothing,East,Debit Card,35.96,2,0,71.92
+2787,2024-03-06,Clothing,North,Cash,46.29,2,0,92.58
+1407,2024-03-06,Electronics,North,Debit Card,226.06,4,20,723.39
+2607,2024-03-06,Groceries,North,UPI,13.98,3,15,35.65
+1374,2024-03-07,Electronics,East,Credit Card,293.37,5,5,1393.51
+1988,2024-03-07,Groceries,East,Credit Card,19.19,4,20,61.41
+3782,2024-03-07,Clothing,East,UPI,44.4,2,15,75.48
+2326,2024-03-08,Electronics,West,Credit Card,268.74,2,20,429.98
+1898,2024-03-08,Toys,South,Credit Card,17.64,4,5,67.03
+3030,2024-03-09,Clothing,West,Credit Card,42.75,1,10,38.48
+1871,2024-03-09,Furniture,South,Cash,251.47,2,5,477.79
+1627,2024-03-09,Beauty,East,Credit Card,26.38,1,5,25.06
+1851,2024-03-10,Groceries,South,UPI,13.65,5,15,58.01
+3086,2024-03-10,Groceries,East,Cash,11.92,5,0,59.6
+2344,2024-03-10,Clothing,West,UPI,35.87,4,0,143.48
+2641,2024-03-10,Groceries,West,Debit Card,13.78,2,5,26.18
+1094,2024-03-10,Beauty,West,Debit Card,29.12,4,0,116.48
+2315,2024-03-11,Clothing,North,Credit Card,29.3,3,0,87.9
+2193,2024-03-11,Furniture,West,Cash,370.24,3,5,1055.18
+3505,2024-03-11,Beauty,East,Credit Card,32.63,2,0,65.26
+3833,2024-03-11,Clothing,West,UPI,44.29,1,5,42.08
+1994,2024-03-12,Groceries,South,UPI,16.11,5,15,68.47
+2271,2024-03-12,Electronics,North,UPI,245.93,4,10,885.35
+1110,2024-03-12,Electronics,South,Debit Card,248.17,3,0,744.51
+3186,2024-03-12,Toys,West,Debit Card,30.03,3,15,76.58
+3784,2024-03-13,Groceries,South,Cash,19.26,2,5,36.59
+1584,2024-03-13,Groceries,West,Credit Card,15.85,4,0,63.4
+2333,2024-03-13,Furniture,East,UPI,251.12,4,10,904.03
+3957,2024-03-13,Beauty,West,UPI,25.86,4,10,93.1
+1844,2024-03-13,Furniture,South,Debit Card,272.46,4,20,871.87
+1091,2024-03-13,Toys,East,Credit Card,29.75,4,5,113.05
+3271,2024-03-13,Electronics,North,Credit Card,301.77,2,5,573.36
+2804,2024-03-14,Groceries,East,Credit Card,17.0,4,10,61.2
+2683,2024-03-14,Groceries,South,Debit Card,11.01,1,20,8.81
+1703,2024-03-14,Clothing,South,Credit Card,50.38,2,5,95.72
+2820,2024-03-14,Electronics,South,UPI,219.09,2,10,394.36
+2722,2024-03-15,Beauty,West,Debit Card,25.02,1,0,25.02
+3365,2024-03-15,Electronics,East,Credit Card,222.28,1,0,222.28
+1336,2024-03-16,Clothing,South,Debit Card,36.34,2,10,65.41
+3657,2024-03-16,Clothing,East,UPI,44.51,5,5,211.42
+3621,2024-03-16,Groceries,East,Credit Card,14.81,1,5,14.07
+3195,2024-03-16,Groceries,West,UPI,12.35,1,0,12.35
+2562,2024-03-17,Groceries,East,Credit Card,18.19,1,0,18.19
+1929,2024-03-17,Electronics,North,UPI,321.17,2,0,642.34
+2864,2024-03-17,Toys,West,Credit Card,22.58,2,5,42.9
+3676,2024-03-17,Groceries,West,Cash,10.96,1,10,9.86
+1786,2024-03-17,Electronics,West,Debit Card,223.13,1,20,178.5
+2715,2024-03-17,Electronics,East,Credit Card,262.64,1,15,223.24
+1720,2024-03-17,Beauty,South,Credit Card,34.0,3,5,96.9
+1146,2024-03-18,Groceries,West,Credit Card,17.7,3,15,45.14
+2268,2024-03-18,Beauty,North,Credit Card,38.82,5,0,194.1
+3764,2024-03-18,Groceries,East,Credit Card,10.89,1,10,9.8
+2524,2024-03-18,Furniture,East,Cash,254.03,5,10,1143.14
+3181,2024-03-19,Electronics,North,UPI,297.55,2,10,535.59
+3801,2024-03-19,Groceries,North,Credit Card,15.47,3,5,44.09
+3012,2024-03-19,Groceries,South,Credit Card,15.67,5,0,78.35
+3765,2024-03-19,Toys,North,UPI,25.33,3,0,75.99
+2219,2024-03-19,Beauty,East,UPI,29.64,1,0,29.64
+1636,2024-03-20,Clothing,West,Cash,34.23,2,5,65.04
+2306,2024-03-20,Electronics,East,Debit Card,232.17,2,5,441.12
+3818,2024-03-20,Beauty,North,UPI,21.68,4,0,86.72
+1629,2024-03-21,Groceries,West,Credit Card,14.94,2,0,29.88
+2904,2024-03-21,Toys,South,Credit Card,18.98,1,0,18.98
+2011,2024-03-21,Toys,East,Debit Card,26.32,5,10,118.44
+3788,2024-03-21,Electronics,South,Debit Card,231.6,4,0,926.4
+1842,2024-03-22,Electronics,West,Debit Card,254.3,3,0,762.9
+2188,2024-03-22,Toys,West,Debit Card,30.69,2,0,61.38
+2377,2024-03-22,Clothing,East,Cash,51.48,2,0,102.96
+1347,2024-03-22,Groceries,West,Debit Card,18.68,1,0,18.68
+1125,2024-03-23,Electronics,East,UPI,255.02,3,10,688.55
+2100,2024-03-23,Toys,North,Debit Card,21.38,4,5,81.24
+1704,2024-03-23,Clothing,West,Credit Card,42.73,1,20,34.18
+3423,2024-03-24,Groceries,North,UPI,13.51,5,0,67.55
+1090,2024-03-24,Furniture,West,Credit Card,258.36,2,5,490.88
+2857,2024-03-24,Beauty,South,UPI,34.96,3,0,104.88
+2847,2024-03-25,Groceries,West,Debit Card,19.19,2,0,38.38
+1469,2024-03-25,Beauty,West,Credit Card,29.58,4,0,118.32
+1174,2024-03-25,Electronics,South,Cash,175.04,5,5,831.44
+1603,2024-03-26,Clothing,North,Debit Card,49.68,5,5,235.98
+3259,2024-03-26,Clothing,North,Debit Card,47.47,1,0,47.47
+1805,2024-03-27,Toys,West,Credit Card,27.87,2,0,55.74
+2806,2024-03-27,Clothing,North,UPI,40.58,5,0,202.9
+1441,2024-03-27,Furniture,South,Credit Card,295.57,3,10,798.04
+1438,2024-03-27,Toys,East,Cash,23.84,4,10,85.82
+1500,2024-03-28,Furniture,South,Credit Card,383.07,3,20,919.37
+3551,2024-03-28,Furniture,North,Debit Card,272.74,2,15,463.66
+1363,2024-03-29,Beauty,West,Cash,22.31,3,10,60.24
+3896,2024-03-29,Groceries,South,Debit Card,17.45,4,10,62.82
+3905,2024-03-29,Groceries,East,UPI,19.12,1,10,17.21
+3451,2024-03-29,Groceries,North,UPI,15.3,2,5,29.07
+1158,2024-03-30,Groceries,North,Debit Card,13.95,2,5,26.5
+2085,2024-03-30,Electronics,North,Credit Card,301.8,2,0,603.6
+1262,2024-03-30,Groceries,South,Credit Card,16.19,1,5,15.38
+1379,2024-03-30,Electronics,West,Debit Card,248.15,4,20,794.08
+1290,2024-03-30,Furniture,South,Cash,254.74,3,5,726.01
+1850,2024-03-30,Groceries,North,Credit Card,11.41,5,0,57.05
+3513,2024-03-30,Beauty,East,Credit Card,33.28,2,5,63.23
+3862,2024-03-30,Electronics,North,UPI,296.42,3,0,889.26
+1076,2024-03-31,Electronics,North,UPI,277.16,4,20,886.91
+3808,2024-03-31,Clothing,South,Cash,34.97,2,10,62.95
+1432,2024-03-31,Groceries,West,UPI,12.68,4,0,50.72
+1831,2024-04-01,Clothing,North,UPI,48.14,4,10,173.3
+2444,2024-04-01,Groceries,South,Credit Card,18.84,1,10,16.96
+3610,2024-04-01,Clothing,West,UPI,36.66,5,0,183.3
+1650,2024-04-02,Clothing,South,UPI,38.28,4,5,145.46
+3978,2024-04-02,Groceries,West,Debit Card,14.27,1,0,14.27
+1949,2024-04-02,Toys,West,Credit Card,20.62,3,10,55.67
+2650,2024-04-03,Furniture,South,Debit Card,358.01,5,0,1790.05
+1859,2024-04-03,Beauty,North,Credit Card,26.69,2,5,50.71
+1462,2024-04-03,Electronics,North,Cash,254.45,5,20,1017.8
+1829,2024-04-03,Groceries,West,Debit Card,18.58,4,5,70.6
+1572,2024-04-03,Clothing,East,Debit Card,28.33,4,10,101.99
+1660,2024-04-03,Electronics,North,Cash,220.69,1,0,220.69
+3835,2024-04-03,Beauty,East,Credit Card,38.6,2,10,69.48
+1264,2024-04-03,Beauty,West,UPI,31.86,2,20,50.98
+1365,2024-04-04,Clothing,North,UPI,43.96,2,10,79.13
+3313,2024-04-04,Electronics,North,UPI,221.39,1,10,199.25
+3046,2024-04-04,Electronics,South,Debit Card,266.6,2,0,533.2
+3494,2024-04-04,Clothing,West,Debit Card,37.64,3,0,112.92
+1274,2024-04-04,Toys,South,Credit Card,19.26,2,0,38.52
+1912,2024-04-05,Beauty,South,Credit Card,32.6,4,0,130.4
+3464,2024-04-05,Groceries,South,Debit Card,13.28,1,0,13.28
+1087,2024-04-05,Electronics,North,Debit Card,216.01,4,15,734.43
+2099,2024-04-06,Electronics,West,Cash,262.24,1,5,249.13
+3261,2024-04-06,Groceries,South,Debit Card,17.83,1,0,17.83
+2233,2024-04-06,Beauty,North,Credit Card,33.99,5,0,169.95
+2439,2024-04-06,Beauty,West,UPI,30.21,5,0,151.05
+3149,2024-04-07,Groceries,South,Credit Card,12.91,1,0,12.91
+3291,2024-04-07,Electronics,South,UPI,292.79,5,10,1317.56
+1647,2024-04-07,Clothing,West,Debit Card,28.7,4,5,109.06
+2978,2024-04-07,Toys,West,Debit Card,22.85,1,20,18.28
+3753,2024-04-07,Groceries,West,Credit Card,14.52,5,0,72.6
+3878,2024-04-08,Groceries,West,Debit Card,13.76,3,0,41.28
+3601,2024-04-08,Toys,West,Debit Card,28.09,2,10,50.56
+1776,2024-04-08,Toys,West,Credit Card,29.81,2,5,56.64
+3478,2024-04-08,Furniture,East,Credit Card,347.4,1,5,330.03
+2552,2024-04-08,Beauty,North,UPI,21.32,3,20,51.17
+3383,2024-04-09,Beauty,North,Credit Card,34.82,2,0,69.64
+1418,2024-04-09,Beauty,South,Debit Card,28.98,4,15,98.53
+3372,2024-04-09,Groceries,East,Debit Card,15.16,3,15,38.66
+2685,2024-04-09,Furniture,East,Credit Card,276.96,1,20,221.57
+2453,2024-04-09,Clothing,East,Debit Card,39.31,3,5,112.03
+1371,2024-04-09,Clothing,West,Debit Card,34.81,3,0,104.43
+3687,2024-04-09,Clothing,West,Cash,47.44,3,0,142.32
+3109,2024-04-10,Clothing,West,Cash,37.47,1,0,37.47
+2340,2024-04-10,Clothing,North,Credit Card,47.07,3,0,141.21
+1748,2024-04-10,Electronics,East,Credit Card,228.22,2,0,456.44
+3849,2024-04-10,Beauty,East,Debit Card,32.61,3,0,97.83
+1434,2024-04-10,Groceries,East,Credit Card,11.7,2,10,21.06
+3142,2024-04-11,Groceries,East,UPI,15.38,5,20,61.52
+2447,2024-04-11,Groceries,East,UPI,18.88,2,0,37.76
+1767,2024-04-11,Groceries,South,UPI,18.68,4,10,67.25
+1769,2024-04-11,Toys,West,Debit Card,19.14,2,0,38.28
+2110,2024-04-11,Clothing,West,UPI,35.34,4,0,141.36
+3852,2024-04-12,Electronics,West,Debit Card,310.32,1,10,279.29
+1351,2024-04-12,Groceries,South,Credit Card,18.21,3,15,46.44
+3112,2024-04-12,Electronics,East,UPI,223.19,1,0,223.19
+2898,2024-04-12,Groceries,South,UPI,16.87,2,0,33.74
+3706,2024-04-12,Furniture,West,Credit Card,337.13,4,5,1281.09
+1069,2024-04-13,Toys,East,UPI,19.2,5,5,91.2
+3240,2024-04-13,Clothing,North,Debit Card,39.8,1,0,39.8
+3236,2024-04-13,Groceries,West,Credit Card,11.77,5,5,55.91
+1320,2024-04-13,Electronics,East,Credit Card,267.94,4,0,1071.76
+1037,2024-04-14,Clothing,South,Debit Card,51.49,3,15,131.3
+2615,2024-04-14,Toys,East,Debit Card,27.79,3,0,83.37
+3123,2024-04-15,Groceries,South,Cash,18.88,3,0,56.64
+2923,2024-04-15,Electronics,West,UPI,281.88,2,10,507.38
+1670,2024-04-15,Toys,East,UPI,21.4,4,15,72.76
+1269,2024-04-15,Groceries,West,Debit Card,11.3,5,0,56.5
+3515,2024-04-16,Groceries,South,Credit Card,11.4,4,0,45.6
+3413,2024-04-16,Electronics,South,Debit Card,278.73,5,20,1114.92
+2231,2024-04-16,Groceries,West,Credit Card,16.65,3,5,47.45
+1012,2024-04-16,Electronics,East,UPI,284.35,1,10,255.92
+2203,2024-04-16,Beauty,East,Credit Card,30.16,1,10,27.14
+1623,2024-04-16,Clothing,West,Credit Card,31.96,4,0,127.84
+2225,2024-04-17,Groceries,West,Debit Card,17.97,1,5,17.07
+1034,2024-04-17,Furniture,North,Credit Card,264.97,2,10,476.95
+2743,2024-04-17,Furniture,North,Credit Card,210.18,4,20,672.58
+3602,2024-04-17,Groceries,West,Debit Card,17.12,2,5,32.53
+3815,2024-04-18,Clothing,West,Credit Card,47.12,2,10,84.82
+3497,2024-04-18,Groceries,North,Debit Card,11.81,5,5,56.1
+3064,2024-04-18,Electronics,East,UPI,268.74,2,5,510.61
+3876,2024-04-18,Toys,South,Debit Card,30.04,4,10,108.14
+1914,2024-04-18,Groceries,East,UPI,13.15,2,20,21.04
+3712,2024-04-18,Toys,South,UPI,31.42,5,0,157.1
+3894,2024-04-18,Clothing,South,Credit Card,48.05,2,15,81.68
+3360,2024-04-18,Groceries,West,UPI,18.36,2,0,36.72
+1510,2024-04-18,Groceries,North,Credit Card,14.08,3,10,38.02
+2037,2024-04-19,Beauty,North,UPI,23.76,2,0,47.52
+2463,2024-04-19,Clothing,East,Credit Card,35.86,1,5,34.07
+2443,2024-04-19,Groceries,East,Debit Card,13.91,5,5,66.07
+2984,2024-04-19,Furniture,East,Debit Card,221.58,1,0,221.58
+1357,2024-04-20,Beauty,West,Cash,22.99,4,0,91.96
+2844,2024-04-21,Groceries,North,UPI,19.39,2,5,36.84
+2143,2024-04-21,Groceries,South,Cash,16.16,2,0,32.32
+1008,2024-04-21,Beauty,South,Debit Card,28.11,4,5,106.82
+1142,2024-04-21,Groceries,West,Debit Card,13.15,3,5,37.48
+3484,2024-04-21,Clothing,North,Credit Card,45.17,2,0,90.34
+1783,2024-04-21,Electronics,West,Debit Card,195.76,3,0,587.28
+1165,2024-04-22,Electronics,West,Debit Card,188.74,3,20,452.98
+1876,2024-04-22,Clothing,West,UPI,44.54,2,15,75.72
+3366,2024-04-22,Toys,West,Debit Card,32.04,5,15,136.17
+2523,2024-04-22,Furniture,North,Cash,370.74,3,5,1056.61
+1884,2024-04-23,Groceries,West,Debit Card,10.74,4,5,40.81
+3866,2024-04-23,Beauty,North,UPI,28.53,4,10,102.71
+3547,2024-04-23,Clothing,North,Cash,50.47,5,20,201.88
+1900,2024-04-23,Furniture,East,Debit Card,233.65,3,0,700.95
+3897,2024-04-24,Furniture,West,UPI,365.77,5,5,1737.41
+3161,2024-04-24,Groceries,West,Debit Card,11.59,1,15,9.85
+1756,2024-04-25,Clothing,West,UPI,37.23,1,5,35.37
+2303,2024-04-25,Electronics,West,Debit Card,275.58,4,0,1102.32
+2749,2024-04-25,Furniture,North,Debit Card,224.82,1,15,191.1
+1616,2024-04-25,Clothing,North,UPI,48.04,2,0,96.08
+2845,2024-04-25,Beauty,North,Debit Card,22.95,1,0,22.95
+2257,2024-04-25,Clothing,North,UPI,34.23,5,0,171.15
+2146,2024-04-26,Beauty,North,Debit Card,24.25,2,0,48.5
+2456,2024-04-26,Furniture,North,UPI,362.38,1,0,362.38
+2253,2024-04-26,Clothing,North,Debit Card,35.85,2,5,68.12
+3594,2024-04-26,Toys,South,Cash,26.37,2,5,50.1
+3193,2024-04-26,Beauty,North,Debit Card,33.11,3,0,99.33
+3524,2024-04-26,Electronics,East,UPI,237.74,3,10,641.9
+3016,2024-04-27,Clothing,East,Credit Card,38.57,5,5,183.21
+3822,2024-04-27,Clothing,West,UPI,39.46,4,0,157.84
+3540,2024-04-27,Clothing,North,UPI,51.73,5,20,206.92
+2853,2024-04-27,Electronics,East,UPI,178.62,2,10,321.52
+1315,2024-04-27,Groceries,South,UPI,13.3,5,10,59.85
+2553,2024-04-28,Electronics,North,Debit Card,301.98,5,0,1509.9
+1975,2024-04-28,Groceries,East,Cash,11.89,4,0,47.56
+2866,2024-04-28,Toys,South,Debit Card,22.39,3,0,67.17
+3408,2024-04-28,Electronics,South,Debit Card,216.07,3,15,550.98
+3431,2024-04-28,Clothing,West,Debit Card,48.62,2,15,82.65
+2900,2024-04-28,Groceries,East,Debit Card,10.6,4,0,42.4
+3460,2024-04-29,Beauty,East,Debit Card,38.67,5,5,183.68
+1350,2024-04-29,Groceries,East,UPI,12.26,2,0,24.52
+2226,2024-04-30,Groceries,East,UPI,15.51,1,0,15.51
+1938,2024-04-30,Electronics,East,UPI,178.75,4,5,679.25
+1827,2024-05-01,Clothing,West,Debit Card,43.88,3,0,131.64
+1764,2024-05-01,Electronics,North,Credit Card,292.28,1,0,292.28
+1649,2024-05-01,Clothing,West,Credit Card,39.15,2,0,78.3
+2730,2024-05-02,Clothing,South,Debit Card,47.65,4,10,171.54
+3761,2024-05-02,Electronics,South,Credit Card,223.69,1,15,190.14
+3387,2024-05-02,Electronics,South,Credit Card,182.33,2,0,364.66
+3223,2024-05-02,Electronics,North,Debit Card,286.58,5,20,1146.32
+1408,2024-05-03,Groceries,South,Credit Card,12.72,3,0,38.16
+3295,2024-05-03,Electronics,North,UPI,248.52,5,5,1180.47
+2753,2024-05-03,Clothing,West,UPI,45.26,5,10,203.67
+3217,2024-05-03,Clothing,North,Debit Card,48.12,2,0,96.24
+1013,2024-05-04,Clothing,North,Cash,48.4,4,0,193.6
+3445,2024-05-04,Beauty,North,Credit Card,34.77,4,0,139.08
+3558,2024-05-04,Furniture,West,Credit Card,240.07,2,0,480.14
+1560,2024-05-04,Groceries,South,UPI,13.26,5,10,59.67
+3767,2024-05-04,Groceries,North,Credit Card,12.19,2,5,23.16
+1596,2024-05-04,Toys,South,Credit Card,22.96,5,0,114.8
+3824,2024-05-04,Electronics,East,UPI,298.01,1,20,238.41
+2312,2024-05-05,Electronics,South,Credit Card,177.18,4,5,673.28
+2314,2024-05-05,Furniture,West,UPI,306.39,5,10,1378.76
+2735,2024-05-06,Electronics,South,Credit Card,234.99,1,20,187.99
+2931,2024-05-06,Electronics,East,UPI,216.41,1,0,216.41
+1768,2024-05-06,Beauty,East,Credit Card,32.84,4,0,131.36
+3351,2024-05-06,Groceries,East,Debit Card,19.27,1,5,18.31
+1205,2024-05-06,Groceries,West,Credit Card,12.33,5,10,55.48
+2389,2024-05-06,Electronics,West,Credit Card,279.43,1,5,265.46
+1002,2024-05-06,Beauty,South,Credit Card,24.3,4,10,87.48
+3968,2024-05-07,Groceries,West,UPI,17.84,1,15,15.16
+2901,2024-05-07,Groceries,South,UPI,11.64,2,10,20.95
+1617,2024-05-07,Toys,South,Credit Card,21.74,3,0,65.22
+1679,2024-05-07,Electronics,East,UPI,264.14,2,10,475.45
+2761,2024-05-07,Clothing,South,Debit Card,41.82,3,10,112.91
+1287,2024-05-08,Electronics,West,UPI,267.71,4,20,856.67
+1795,2024-05-08,Clothing,South,Credit Card,44.95,1,0,44.95
+2668,2024-05-08,Furniture,West,UPI,291.07,1,5,276.52
+1342,2024-05-08,Groceries,North,Debit Card,11.77,1,10,10.59
+3910,2024-05-08,Clothing,North,Credit Card,35.5,5,5,168.62
+1589,2024-05-08,Clothing,South,Debit Card,32.03,3,5,91.29
+2234,2024-05-08,Groceries,West,UPI,17.81,1,15,15.14
+1692,2024-05-09,Groceries,North,Credit Card,14.12,3,0,42.36
+2620,2024-05-09,Toys,North,Debit Card,27.58,3,0,82.74
+1637,2024-05-09,Electronics,East,Credit Card,278.8,5,10,1254.6
+3356,2024-05-09,Electronics,West,UPI,278.58,1,0,278.58
+2934,2024-05-09,Clothing,South,Credit Card,46.83,5,20,187.32
+2186,2024-05-10,Beauty,West,UPI,37.53,2,10,67.55
+3154,2024-05-10,Electronics,South,Credit Card,300.83,3,5,857.37
+2266,2024-05-10,Clothing,South,Credit Card,30.88,1,5,29.34
+3467,2024-05-10,Groceries,West,Debit Card,13.11,5,0,65.55
+1640,2024-05-10,Groceries,South,Debit Card,12.14,5,5,57.67
+1891,2024-05-11,Beauty,North,UPI,37.88,2,20,60.61
+1293,2024-05-11,Groceries,East,Debit Card,12.89,5,5,61.23
+1023,2024-05-11,Clothing,West,Credit Card,39.93,1,0,39.93
+1173,2024-05-11,Groceries,South,Credit Card,16.13,5,10,72.58
+2807,2024-05-12,Groceries,South,Credit Card,15.6,5,10,70.2
+3280,2024-05-12,Beauty,South,Credit Card,32.2,1,15,27.37
+3572,2024-05-12,Clothing,North,Credit Card,49.13,5,10,221.08
+2214,2024-05-12,Furniture,North,Credit Card,346.51,1,5,329.18
+2006,2024-05-12,Electronics,South,UPI,228.41,2,10,411.14
+2886,2024-05-12,Groceries,South,Credit Card,19.09,4,10,68.72
+2342,2024-05-13,Groceries,South,UPI,12.94,1,15,11.0
+3872,2024-05-13,Electronics,South,Debit Card,291.42,2,5,553.7
+2080,2024-05-13,Groceries,East,Credit Card,14.92,2,5,28.35
+1152,2024-05-14,Beauty,West,Credit Card,36.63,3,15,93.41
+1148,2024-05-14,Furniture,North,Debit Card,268.32,2,0,536.64
+1770,2024-05-14,Groceries,North,Credit Card,18.23,3,10,49.22
+2094,2024-05-14,Electronics,South,Debit Card,238.04,4,5,904.55
+3348,2024-05-14,Clothing,West,Credit Card,41.51,1,15,35.28
+3837,2024-05-14,Clothing,North,Credit Card,48.49,4,10,174.56
+3923,2024-05-14,Toys,North,Credit Card,22.53,5,5,107.02
+3334,2024-05-15,Beauty,West,Credit Card,30.96,1,0,30.96
+1807,2024-05-15,Groceries,East,Debit Card,14.22,2,0,28.44
+2993,2024-05-15,Toys,West,UPI,22.51,5,0,112.55
+2497,2024-05-16,Clothing,East,UPI,43.71,5,5,207.62
+2308,2024-05-16,Beauty,East,UPI,24.73,1,5,23.49
+2601,2024-05-16,Electronics,East,Debit Card,228.34,5,5,1084.62
+1940,2024-05-16,Electronics,West,Credit Card,235.17,1,15,199.89
+2343,2024-05-16,Electronics,North,UPI,311.75,5,10,1402.88
+2318,2024-05-16,Groceries,East,UPI,14.91,5,15,63.37
+3396,2024-05-17,Beauty,North,UPI,34.69,2,15,58.97
+2069,2024-05-17,Clothing,North,Credit Card,49.26,1,10,44.33
+2299,2024-05-17,Furniture,North,UPI,371.51,5,20,1486.04
+1877,2024-05-17,Groceries,West,Debit Card,14.25,4,0,57.0
+1906,2024-05-17,Groceries,South,Credit Card,15.87,2,0,31.74
+2643,2024-05-17,Clothing,West,UPI,48.62,2,5,92.38
+1655,2024-05-18,Toys,South,Credit Card,23.23,3,5,66.21
+1490,2024-05-18,Toys,South,Debit Card,27.42,3,5,78.15
+1036,2024-05-18,Groceries,East,UPI,13.27,4,5,50.43
+3724,2024-05-18,Electronics,North,UPI,235.92,2,5,448.25
+1455,2024-05-18,Groceries,South,Credit Card,18.6,5,0,93.0
+2025,2024-05-18,Beauty,West,UPI,35.1,2,0,70.2
+3124,2024-05-18,Beauty,North,UPI,33.0,5,10,148.5
+3481,2024-05-18,Groceries,South,Debit Card,11.18,3,0,33.54
+1328,2024-05-19,Groceries,South,Credit Card,10.74,1,5,10.2
+1396,2024-05-19,Electronics,North,UPI,239.49,3,0,718.47
+2647,2024-05-19,Groceries,North,UPI,19.3,1,10,17.37
+2122,2024-05-19,Groceries,West,Credit Card,15.57,1,0,15.57
+2505,2024-05-19,Groceries,East,Credit Card,17.35,1,0,17.35
+3974,2024-05-20,Groceries,South,Cash,12.63,1,5,12.0
+2879,2024-05-21,Beauty,North,Credit Card,35.78,3,10,96.61
+1096,2024-05-22,Electronics,North,Cash,248.89,5,0,1244.45
+2154,2024-05-22,Groceries,North,UPI,13.94,1,10,12.55
+1515,2024-05-22,Electronics,West,Cash,190.89,2,10,343.6
+1717,2024-05-22,Beauty,East,Credit Card,28.79,4,10,103.64
+3246,2024-05-22,Clothing,South,Debit Card,28.64,1,15,24.34
+2965,2024-05-22,Electronics,North,UPI,319.68,2,0,639.36
+1695,2024-05-22,Clothing,West,Credit Card,35.56,3,15,90.68
+2916,2024-05-22,Electronics,West,Debit Card,258.65,3,5,737.15
+1932,2024-05-23,Groceries,North,UPI,14.67,5,20,58.68
+3817,2024-05-23,Electronics,East,Credit Card,321.72,1,20,257.38
+2581,2024-05-23,Toys,West,Debit Card,27.85,1,0,27.85
+2865,2024-05-23,Groceries,South,Credit Card,12.07,3,0,36.21
+1641,2024-05-23,Clothing,North,Credit Card,32.9,4,0,131.6
+3890,2024-05-24,Clothing,West,UPI,43.22,2,10,77.8
+2721,2024-05-25,Groceries,West,Cash,13.03,5,0,65.15
+1942,2024-05-25,Beauty,North,Credit Card,34.23,3,15,87.29
+3685,2024-05-25,Groceries,South,UPI,10.92,3,0,32.76
+1610,2024-05-25,Groceries,East,Cash,13.88,2,0,27.76
+1027,2024-05-25,Electronics,North,Credit Card,251.23,5,15,1067.73
+1225,2024-05-26,Groceries,East,Cash,14.3,2,20,22.88
+2077,2024-05-26,Electronics,West,Debit Card,214.21,1,10,192.79
+1046,2024-05-26,Clothing,South,UPI,36.11,4,5,137.22
+2818,2024-05-26,Electronics,East,Credit Card,252.16,1,5,239.55
+2030,2024-05-26,Clothing,East,Debit Card,40.65,3,15,103.66
+2776,2024-05-27,Groceries,West,Debit Card,13.12,1,5,12.46
+2716,2024-05-27,Toys,West,Debit Card,23.12,1,10,20.81
+1714,2024-05-27,Electronics,West,Credit Card,285.15,3,10,769.9
+3600,2024-05-27,Groceries,East,Credit Card,13.57,2,0,27.14
+1960,2024-05-28,Electronics,East,UPI,297.57,4,10,1071.25
+1150,2024-05-28,Beauty,North,Credit Card,25.67,2,0,51.34
+3265,2024-05-28,Electronics,South,Cash,198.95,3,0,596.85
+1924,2024-05-28,Groceries,North,Credit Card,18.7,4,15,63.58
+3511,2024-05-28,Groceries,North,Credit Card,13.77,5,0,68.85
+3633,2024-05-29,Groceries,South,UPI,11.69,5,10,52.6
+3893,2024-05-29,Beauty,South,Credit Card,21.54,5,0,107.7
+1487,2024-05-29,Beauty,South,UPI,38.4,3,10,103.68
+2995,2024-05-29,Toys,North,Credit Card,28.07,2,0,56.14
+3667,2024-05-29,Groceries,North,UPI,18.64,1,20,14.91
+3912,2024-05-29,Beauty,West,Debit Card,26.96,1,0,26.96
+1656,2024-05-29,Beauty,West,UPI,33.38,1,0,33.38
+2302,2024-05-29,Beauty,North,Credit Card,37.86,1,0,37.86
+2805,2024-05-30,Electronics,West,Credit Card,297.49,2,5,565.23
+2449,2024-05-30,Groceries,East,Credit Card,13.43,2,5,25.52
+1840,2024-05-30,Electronics,South,Debit Card,267.58,4,5,1016.8
+3220,2024-05-30,Clothing,South,Credit Card,32.74,1,15,27.83
+2569,2024-05-30,Groceries,West,Debit Card,12.12,3,5,34.54
+3577,2024-05-30,Furniture,West,UPI,276.4,1,15,234.94
+1672,2024-05-31,Electronics,South,Debit Card,187.3,4,0,749.2
+1285,2024-05-31,Toys,South,Credit Card,24.77,2,0,49.54
+1917,2024-05-31,Groceries,South,UPI,15.62,2,10,28.12
+3962,2024-06-01,Electronics,South,Credit Card,254.47,3,5,725.24
+3224,2024-06-01,Clothing,East,Debit Card,29.33,1,10,26.4
+3984,2024-06-01,Clothing,West,Debit Card,47.41,4,20,151.71
+3022,2024-06-01,Toys,North,Cash,22.41,3,0,67.23
+3664,2024-06-01,Groceries,North,UPI,18.33,1,20,14.66
+2882,2024-06-02,Toys,South,Credit Card,27.91,5,15,118.62
+3554,2024-06-02,Furniture,South,Credit Card,370.65,2,20,593.04
+2567,2024-06-02,Beauty,East,UPI,27.1,5,20,108.4
+1926,2024-06-02,Electronics,North,Credit Card,233.0,4,10,838.8
+2096,2024-06-03,Groceries,North,UPI,18.71,4,5,71.1
+2925,2024-06-03,Toys,North,Debit Card,30.27,4,10,108.97
+3096,2024-06-03,Electronics,East,Debit Card,199.27,3,0,597.81
+1098,2024-06-03,Electronics,West,Credit Card,309.52,3,5,882.13
+1227,2024-06-03,Groceries,South,Credit Card,12.64,2,0,25.28
+1967,2024-06-03,Groceries,West,UPI,19.4,5,20,77.6
+2259,2024-06-04,Clothing,North,Credit Card,42.18,2,10,75.92
+1759,2024-06-04,Clothing,South,Cash,28.48,3,5,81.17
+2486,2024-06-04,Groceries,West,Debit Card,11.18,4,0,44.72
+2029,2024-06-04,Clothing,East,Credit Card,31.41,1,5,29.84
+1208,2024-06-04,Clothing,North,Credit Card,43.64,5,0,218.2
+2130,2024-06-05,Electronics,South,Debit Card,257.85,4,0,1031.4
+1127,2024-06-05,Groceries,South,Credit Card,17.89,4,5,67.98
+2589,2024-06-05,Groceries,South,Debit Card,14.06,2,5,26.71
+1843,2024-06-05,Toys,West,Credit Card,18.77,4,5,71.33
+1057,2024-06-05,Beauty,West,Credit Card,27.74,2,20,44.38
+1882,2024-06-05,Furniture,West,UPI,303.88,1,10,273.49
+1868,2024-06-05,Clothing,West,Cash,29.13,4,20,93.22
+2341,2024-06-05,Groceries,East,Cash,12.91,2,15,21.95
+2733,2024-06-05,Clothing,North,Credit Card,28.46,5,20,113.84
+1725,2024-06-06,Toys,South,Credit Card,25.05,2,15,42.58
+3616,2024-06-06,Groceries,West,UPI,16.87,1,5,16.03
+3338,2024-06-06,Electronics,West,Debit Card,278.62,5,0,1393.1
+3692,2024-06-06,Beauty,North,Credit Card,24.35,5,0,121.75
+3855,2024-06-06,Groceries,East,UPI,13.98,1,0,13.98
+1999,2024-06-06,Electronics,South,UPI,177.16,2,10,318.89
+1354,2024-06-07,Furniture,East,Cash,285.2,5,10,1283.4
+1834,2024-06-07,Toys,South,Debit Card,23.4,3,0,70.2
+2691,2024-06-08,Electronics,South,UPI,265.11,4,5,1007.42
+1936,2024-06-08,Groceries,East,Debit Card,18.32,3,15,46.72
+1018,2024-06-08,Electronics,East,UPI,307.07,2,15,522.02
+1853,2024-06-08,Furniture,West,UPI,333.33,3,0,999.99
+2967,2024-06-08,Groceries,West,UPI,16.91,5,15,71.87
+2384,2024-06-08,Beauty,North,Cash,33.48,4,0,133.92
+1104,2024-06-09,Electronics,East,UPI,309.28,3,5,881.45
+3875,2024-06-09,Clothing,South,Debit Card,46.78,3,0,140.34
+2481,2024-06-09,Toys,West,Debit Card,27.24,2,20,43.58
+3926,2024-06-09,Electronics,West,Credit Card,306.79,4,15,1043.09
+3007,2024-06-09,Furniture,West,Debit Card,335.26,2,5,636.99
+2461,2024-06-10,Electronics,East,Credit Card,267.62,4,0,1070.48
+2423,2024-06-10,Toys,East,Debit Card,29.41,5,5,139.7
+2429,2024-06-10,Clothing,West,UPI,47.88,5,5,227.43
+2412,2024-06-10,Groceries,East,UPI,12.33,5,20,49.32
+2848,2024-06-10,Groceries,West,Debit Card,17.19,5,15,73.06
+3152,2024-06-10,Clothing,East,Credit Card,49.81,5,15,211.69
+3052,2024-06-10,Clothing,South,Cash,34.58,4,0,138.32
+1204,2024-06-10,Furniture,East,Credit Card,327.3,4,5,1243.74
+2346,2024-06-11,Groceries,South,Credit Card,11.67,1,10,10.5
+1745,2024-06-11,Groceries,East,Debit Card,11.7,4,10,42.12
+3118,2024-06-11,Clothing,West,Credit Card,32.85,3,15,83.77
+2792,2024-06-12,Electronics,South,UPI,181.67,5,10,817.51
+3135,2024-06-12,Furniture,North,UPI,238.54,3,0,715.62
+1837,2024-06-12,Groceries,West,Credit Card,15.54,2,10,27.97
+1597,2024-06-13,Furniture,West,UPI,245.86,5,20,983.44
+2091,2024-06-13,Furniture,East,Credit Card,303.93,4,0,1215.72
+1662,2024-06-13,Beauty,East,Debit Card,21.2,4,0,84.8
+2976,2024-06-13,Clothing,West,Credit Card,42.25,1,20,33.8
+2626,2024-06-13,Furniture,East,Credit Card,266.12,4,5,1011.26
+1075,2024-06-14,Electronics,East,Credit Card,235.78,2,10,424.4
+3976,2024-06-14,Electronics,West,Debit Card,270.95,2,5,514.8
+3786,2024-06-14,Clothing,South,Debit Card,44.61,3,0,133.83
+2747,2024-06-14,Groceries,South,UPI,18.06,1,0,18.06
+2012,2024-06-14,Clothing,East,UPI,40.67,1,0,40.67
+2816,2024-06-14,Groceries,North,UPI,11.22,5,0,56.1
+3546,2024-06-15,Groceries,East,Cash,12.6,1,5,11.97
+3620,2024-06-15,Clothing,South,UPI,44.97,3,10,121.42
+1919,2024-06-15,Clothing,South,Debit Card,41.3,1,5,39.24
+1224,2024-06-15,Groceries,South,UPI,15.71,4,0,62.84
+2952,2024-06-15,Clothing,East,Credit Card,30.82,3,20,73.97
+3273,2024-06-16,Beauty,East,UPI,36.26,2,0,72.52
+2518,2024-06-16,Clothing,West,Credit Card,39.71,5,15,168.77
+3733,2024-06-16,Electronics,West,Debit Card,321.09,4,5,1220.14
+2000,2024-06-16,Clothing,West,Debit Card,39.03,5,0,195.15
+3034,2024-06-17,Groceries,West,UPI,18.72,5,0,93.6
+3164,2024-06-17,Beauty,West,Credit Card,38.68,1,10,34.81
+1100,2024-06-17,Electronics,North,Debit Card,228.4,2,0,456.8
+2117,2024-06-17,Groceries,North,UPI,12.9,3,10,34.83
+1534,2024-06-18,Clothing,North,Debit Card,47.89,1,15,40.71
+3282,2024-06-18,Clothing,West,Cash,34.98,2,15,59.47
+2133,2024-06-18,Clothing,East,Credit Card,30.37,3,10,82.0
+2474,2024-06-19,Beauty,West,Cash,33.65,2,5,63.93
+1484,2024-06-19,Furniture,East,Debit Card,293.39,5,0,1466.95
+3538,2024-06-19,Beauty,West,Credit Card,27.28,5,5,129.58
+2539,2024-06-19,Groceries,South,UPI,11.65,2,5,22.14
+2373,2024-06-20,Clothing,East,UPI,38.16,4,0,152.64
+1944,2024-06-20,Toys,East,Cash,26.93,4,0,107.72
+2001,2024-06-20,Groceries,West,Credit Card,13.41,3,10,36.21
+1739,2024-06-20,Electronics,South,UPI,276.63,5,5,1313.99
+2197,2024-06-21,Beauty,South,UPI,24.79,2,0,49.58
+1241,2024-06-21,Beauty,West,UPI,23.04,1,10,20.74
+1200,2024-06-21,Electronics,South,Cash,238.93,5,15,1015.45
+3254,2024-06-21,Beauty,West,Debit Card,25.38,2,10,45.68
+1202,2024-06-22,Beauty,South,Credit Card,28.78,5,20,115.12
+1254,2024-06-22,Beauty,West,Debit Card,26.6,4,10,95.76
+2639,2024-06-22,Clothing,North,UPI,42.3,3,5,120.56
+1267,2024-06-22,Groceries,West,UPI,16.36,4,0,65.44
+2495,2024-06-23,Groceries,North,Credit Card,17.92,2,5,34.05
+2912,2024-06-23,Clothing,South,Debit Card,31.42,4,0,125.68
+3479,2024-06-23,Furniture,North,Credit Card,358.03,4,20,1145.7
+1709,2024-06-23,Groceries,North,Debit Card,11.06,3,0,33.18
+2293,2024-06-23,Groceries,West,UPI,11.98,2,15,20.37
+2653,2024-06-23,Beauty,North,Credit Card,27.71,3,5,78.97
+1301,2024-06-23,Clothing,South,Credit Card,43.85,2,0,87.7
+2364,2024-06-23,Toys,West,Credit Card,27.39,1,0,27.39
+1458,2024-06-23,Toys,North,Credit Card,20.44,2,15,34.75
+2448,2024-06-24,Electronics,East,Credit Card,184.54,2,0,369.08
+1311,2024-06-24,Furniture,West,UPI,248.43,3,0,745.29
+2468,2024-06-24,Groceries,West,Credit Card,11.55,5,0,57.75
+3403,2024-06-24,Clothing,West,Credit Card,41.08,5,10,184.86
+3571,2024-06-25,Furniture,West,UPI,239.47,4,0,957.88
+2280,2024-06-25,Clothing,North,Credit Card,45.44,2,15,77.25
+3799,2024-06-25,Electronics,South,Credit Card,186.52,2,20,298.43
+3870,2024-06-25,Groceries,South,Debit Card,11.2,3,10,30.24
+2223,2024-06-26,Electronics,South,Debit Card,258.05,3,20,619.32
+3668,2024-06-26,Furniture,North,Cash,249.97,2,0,499.94
+3869,2024-06-26,Beauty,South,Credit Card,25.73,4,5,97.77
+3037,2024-06-26,Clothing,South,Cash,51.6,1,5,49.02
+2913,2024-06-27,Clothing,South,Cash,44.4,5,10,199.8
+1535,2024-06-27,Toys,North,Credit Card,22.82,2,0,45.64
+1308,2024-06-27,Clothing,East,UPI,50.05,2,10,90.09
+3716,2024-06-27,Clothing,South,Credit Card,43.91,1,10,39.52
+3779,2024-06-27,Groceries,South,Credit Card,10.76,1,5,10.22
+3033,2024-06-28,Toys,North,Debit Card,26.4,2,0,52.8
+2540,2024-06-28,Clothing,West,UPI,50.26,4,5,190.99
+3556,2024-06-28,Beauty,South,Debit Card,36.03,3,0,108.09
+1839,2024-06-29,Electronics,South,Credit Card,293.78,3,5,837.27
+2052,2024-06-29,Groceries,West,UPI,18.5,4,10,66.6
+3522,2024-06-30,Clothing,North,Credit Card,34.4,2,0,68.8
+3244,2024-06-30,Electronics,East,UPI,223.28,1,0,223.28
+2369,2024-06-30,Beauty,North,Debit Card,32.95,1,0,32.95
+1838,2024-06-30,Clothing,East,UPI,50.32,4,0,201.28
+2696,2024-06-30,Beauty,North,Debit Card,35.59,2,5,67.62
+2405,2024-06-30,Groceries,West,Cash,18.49,3,10,49.92
+2104,2024-07-01,Clothing,South,UPI,41.34,3,15,105.42
+3070,2024-07-01,Clothing,West,Credit Card,30.43,3,15,77.6
+3105,2024-07-01,Clothing,North,Debit Card,42.38,5,10,190.71
+3970,2024-07-01,Electronics,South,Debit Card,231.43,3,5,659.58
+1771,2024-07-01,Electronics,West,Credit Card,303.0,1,0,303.0
+2772,2024-07-01,Beauty,South,Credit Card,27.44,2,10,49.39
+3570,2024-07-01,Groceries,South,Debit Card,13.4,3,10,36.18
+2825,2024-07-01,Electronics,South,Credit Card,223.57,2,20,357.71
+2404,2024-07-02,Clothing,East,Credit Card,40.56,4,20,129.79
+3698,2024-07-02,Clothing,South,Cash,44.1,2,5,83.79
+3416,2024-07-02,Clothing,South,Debit Card,33.65,2,0,67.3
+2648,2024-07-02,Electronics,North,Credit Card,290.27,2,5,551.51
+1752,2024-07-03,Electronics,East,Debit Card,316.22,5,5,1502.04
+1671,2024-07-03,Clothing,East,UPI,31.39,4,0,125.56
+1126,2024-07-03,Toys,North,Credit Card,28.66,4,5,108.91
+1118,2024-07-03,Groceries,South,Credit Card,18.16,4,20,58.11
+3771,2024-07-03,Groceries,East,Debit Card,12.55,2,0,25.1
+2546,2024-07-03,Electronics,North,Credit Card,213.22,5,5,1012.8
+1718,2024-07-04,Beauty,South,Debit Card,30.04,3,10,81.11
+2005,2024-07-04,Beauty,West,Credit Card,25.73,4,0,102.92
+2413,2024-07-05,Clothing,East,UPI,50.88,5,5,241.68
+2790,2024-07-05,Groceries,North,UPI,13.78,5,10,62.01
+3710,2024-07-05,Clothing,North,UPI,38.54,4,10,138.74
+3859,2024-07-05,Toys,West,Credit Card,19.03,4,10,68.51
+3615,2024-07-06,Groceries,South,Credit Card,16.64,4,10,59.9
+1228,2024-07-06,Clothing,West,Debit Card,42.23,1,10,38.01
+2276,2024-07-06,Groceries,West,Credit Card,17.3,1,5,16.44
+3702,2024-07-06,Beauty,North,Credit Card,37.04,4,0,148.16
+3171,2024-07-06,Groceries,East,Cash,12.99,4,20,41.57
+1728,2024-07-07,Clothing,East,Credit Card,44.0,5,0,220.0
+3901,2024-07-07,Clothing,East,Credit Card,50.08,5,0,250.4
+3069,2024-07-07,Clothing,East,Credit Card,30.95,3,15,78.92
+2678,2024-07-08,Groceries,West,Debit Card,10.73,3,20,25.75
+3303,2024-07-08,Groceries,West,UPI,10.58,3,0,31.74
+1665,2024-07-08,Toys,North,Credit Card,21.39,5,0,106.95
+3593,2024-07-08,Beauty,West,UPI,35.37,5,5,168.01
+1644,2024-07-09,Electronics,East,UPI,181.61,3,0,544.83
+3315,2024-07-09,Groceries,East,Credit Card,12.78,4,5,48.56
+3173,2024-07-09,Clothing,South,Credit Card,34.11,2,0,68.22
+2577,2024-07-09,Beauty,South,Credit Card,23.72,1,5,22.53
+2237,2024-07-10,Clothing,North,Credit Card,44.51,3,0,133.53
+3528,2024-07-10,Clothing,North,UPI,37.06,3,5,105.62
+3769,2024-07-10,Groceries,West,Credit Card,19.05,5,15,80.96
+2983,2024-07-11,Furniture,East,Cash,382.58,1,5,363.45
+3919,2024-07-11,Groceries,South,Credit Card,16.76,4,5,63.69
+1084,2024-07-11,Electronics,South,Cash,283.86,1,5,269.67
+1976,2024-07-11,Groceries,North,Credit Card,12.4,5,0,62.0
+2164,2024-07-11,Clothing,North,Credit Card,38.31,1,15,32.56
+1482,2024-07-11,Clothing,North,Debit Card,35.09,3,5,100.01
+1463,2024-07-11,Electronics,South,Cash,289.13,2,0,578.26
+1387,2024-07-11,Electronics,West,Debit Card,236.65,5,10,1064.92
+2529,2024-07-12,Groceries,North,Credit Card,15.51,2,20,24.82
+3318,2024-07-12,Electronics,North,UPI,267.79,5,10,1205.06
+2464,2024-07-12,Electronics,South,Debit Card,309.8,2,5,588.62
+2732,2024-07-12,Groceries,South,Debit Card,17.83,4,0,71.32
+2590,2024-07-12,Beauty,East,Credit Card,27.54,5,15,117.04
+2028,2024-07-13,Toys,West,Cash,17.74,5,15,75.4
+2572,2024-07-13,Electronics,East,UPI,196.23,5,0,981.15
+1778,2024-07-13,Toys,West,Cash,23.53,5,20,94.12
+1551,2024-07-13,Clothing,West,UPI,37.35,1,10,33.62
+2349,2024-07-13,Groceries,East,UPI,10.97,4,0,43.88
+2697,2024-07-13,Groceries,West,Credit Card,14.27,1,5,13.56
+2705,2024-07-14,Clothing,West,UPI,49.38,5,10,222.21
+3379,2024-07-14,Furniture,East,Credit Card,360.29,5,15,1531.23
+1261,2024-07-14,Furniture,South,Debit Card,306.36,5,10,1378.62
+2990,2024-07-14,Clothing,East,Debit Card,33.73,3,10,91.07
+1303,2024-07-14,Clothing,West,UPI,43.45,2,5,82.56
+3811,2024-07-14,Groceries,South,Credit Card,12.42,3,0,37.26
+3038,2024-07-15,Electronics,South,Credit Card,224.25,1,5,213.04
+3627,2024-07-16,Beauty,East,Credit Card,26.27,1,0,26.27
+3263,2024-07-16,Groceries,East,UPI,15.83,3,20,37.99
+2163,2024-07-17,Toys,North,UPI,25.13,1,20,20.1
+2249,2024-07-17,Electronics,West,Credit Card,282.47,5,10,1271.12
+3566,2024-07-18,Electronics,South,Cash,239.12,2,15,406.5
+2795,2024-07-18,Electronics,South,Credit Card,236.18,5,0,1180.9
+1504,2024-07-18,Clothing,East,Debit Card,50.44,5,10,226.98
+2719,2024-07-18,Beauty,West,Debit Card,23.78,3,15,60.64
+3629,2024-07-19,Clothing,East,Credit Card,45.23,1,0,45.23
+2723,2024-07-19,Toys,South,Cash,17.93,2,20,28.69
+1696,2024-07-19,Groceries,North,Credit Card,11.09,4,5,42.14
+3658,2024-07-19,Clothing,South,Credit Card,28.59,4,20,91.49
+1579,2024-07-20,Beauty,West,Cash,24.01,5,0,120.05
+3364,2024-07-20,Toys,North,Cash,30.64,5,5,145.54
+1135,2024-07-20,Clothing,East,Debit Card,29.31,1,0,29.31
+2673,2024-07-21,Clothing,North,Cash,42.5,3,0,127.5
+3611,2024-07-21,Clothing,West,UPI,40.41,2,10,72.74
+2813,2024-07-21,Clothing,South,UPI,51.98,4,10,187.13
+3777,2024-07-21,Clothing,West,UPI,37.47,2,10,67.45
+1801,2024-07-22,Electronics,East,UPI,181.41,5,5,861.7
+3802,2024-07-23,Beauty,North,Debit Card,32.66,3,0,97.98
+1048,2024-07-23,Electronics,West,Credit Card,220.49,3,0,661.47
+2988,2024-07-23,Electronics,East,UPI,324.67,4,0,1298.68
+1966,2024-07-23,Electronics,North,Credit Card,214.78,1,20,171.82
+2981,2024-07-23,Groceries,North,Credit Card,11.89,1,5,11.3
+1642,2024-07-23,Furniture,North,UPI,378.68,2,5,719.49
+1580,2024-07-24,Furniture,North,Credit Card,309.84,1,10,278.86
+2906,2024-07-24,Groceries,South,Credit Card,15.85,5,10,71.32
+3795,2024-07-24,Beauty,East,Credit Card,38.47,3,10,103.87
+2466,2024-07-24,Groceries,West,Debit Card,16.84,2,0,33.68
+3829,2024-07-24,Electronics,North,Credit Card,310.54,3,0,931.62
+3325,2024-07-24,Clothing,South,Credit Card,33.06,5,10,148.77
+2574,2024-07-24,Groceries,West,Debit Card,17.96,2,20,28.74
+2421,2024-07-25,Beauty,North,Cash,36.91,3,10,99.66
+3958,2024-07-25,Beauty,South,Debit Card,23.12,1,5,21.96
+1381,2024-07-26,Groceries,South,Cash,12.65,2,20,20.24
+1341,2024-07-26,Clothing,West,UPI,29.62,1,5,28.14
+2418,2024-07-26,Electronics,West,Cash,305.12,1,20,244.1
+3933,2024-07-26,Groceries,South,Credit Card,17.14,1,5,16.28
+1102,2024-07-26,Electronics,West,UPI,287.24,5,20,1148.96
+3517,2024-07-26,Electronics,East,Credit Card,258.86,3,20,621.26
+2391,2024-07-27,Electronics,North,UPI,239.77,2,0,479.54
+1814,2024-07-27,Toys,North,Credit Card,24.57,2,0,49.14
+1547,2024-07-27,Toys,North,UPI,23.62,5,10,106.29
+2600,2024-07-27,Clothing,South,Credit Card,28.34,5,20,113.36
+1113,2024-07-27,Beauty,East,Debit Card,29.58,5,10,133.11
+2971,2024-07-28,Groceries,East,Credit Card,10.77,4,20,34.46
+3426,2024-07-28,Beauty,South,Debit Card,29.97,1,5,28.47
+2852,2024-07-28,Beauty,West,UPI,34.8,1,20,27.84
+3783,2024-07-29,Electronics,South,Credit Card,246.31,3,5,701.98
+1661,2024-07-29,Clothing,North,Debit Card,29.21,3,5,83.25
+3780,2024-07-29,Electronics,South,Credit Card,234.24,5,0,1171.2
+2067,2024-07-29,Beauty,North,Debit Card,38.28,3,5,109.1
+3491,2024-07-29,Electronics,East,UPI,307.57,1,0,307.57
+2909,2024-07-29,Clothing,East,Credit Card,51.03,1,5,48.48
+3024,2024-07-31,Electronics,East,UPI,209.46,4,10,754.06
+1628,2024-07-31,Electronics,South,UPI,304.47,4,0,1217.88
+2682,2024-07-31,Beauty,East,Cash,35.53,4,20,113.7
+2593,2024-08-01,Electronics,West,Credit Card,227.2,4,0,908.8
+1918,2024-08-01,Electronics,East,Debit Card,219.47,1,0,219.47
+3169,2024-08-01,Beauty,South,Credit Card,25.26,3,20,60.62
+2462,2024-08-01,Beauty,East,UPI,24.54,1,0,24.54
+2499,2024-08-02,Groceries,North,Debit Card,12.89,1,5,12.25
+2198,2024-08-02,Groceries,North,Credit Card,14.87,1,20,11.9
+2521,2024-08-03,Groceries,West,Cash,15.25,3,0,45.75
+3450,2024-08-03,Furniture,North,Debit Card,294.9,2,15,501.33
+2814,2024-08-03,Clothing,East,UPI,37.72,4,0,150.88
+3004,2024-08-03,Toys,North,Cash,22.44,2,15,38.15
+1915,2024-08-03,Furniture,East,Credit Card,228.79,5,10,1029.56
+1335,2024-08-04,Electronics,North,UPI,181.98,2,20,291.17
+3603,2024-08-04,Beauty,West,Debit Card,33.65,2,5,63.93
+3674,2024-08-04,Clothing,East,Credit Card,49.49,4,15,168.27
+3589,2024-08-04,Electronics,West,UPI,243.45,3,0,730.35
+1780,2024-08-04,Clothing,South,UPI,34.49,3,10,93.12
+1766,2024-08-04,Clothing,East,Debit Card,43.49,5,0,217.45
+2780,2024-08-05,Electronics,West,Credit Card,237.02,1,0,237.02
+2263,2024-08-05,Furniture,East,Debit Card,271.56,1,15,230.83
+3428,2024-08-05,Clothing,North,Debit Card,32.41,4,15,110.19
+3573,2024-08-06,Electronics,West,Debit Card,318.56,1,5,302.63
+1591,2024-08-06,Groceries,West,Credit Card,12.37,5,0,61.85
+1244,2024-08-07,Electronics,East,UPI,306.78,5,10,1380.51
+3013,2024-08-07,Electronics,North,Debit Card,224.71,2,5,426.95
+2380,2024-08-08,Furniture,West,Debit Card,356.82,4,0,1427.28
+1867,2024-08-08,Electronics,East,UPI,184.57,3,0,553.71
+2944,2024-08-08,Groceries,West,Credit Card,12.77,3,5,36.39
+1033,2024-08-09,Beauty,West,UPI,31.92,3,0,95.76
+1417,2024-08-09,Clothing,West,Debit Card,42.54,1,0,42.54
+1359,2024-08-10,Clothing,South,Credit Card,30.71,2,0,61.42
+2272,2024-08-10,Furniture,West,Cash,244.11,5,0,1220.55
+1071,2024-08-10,Furniture,South,UPI,228.2,5,0,1141.0
+1740,2024-08-10,Electronics,South,UPI,272.12,3,20,653.09
+1730,2024-08-11,Beauty,East,Debit Card,36.1,4,5,137.18
+2087,2024-08-11,Beauty,North,Credit Card,36.03,5,15,153.13
+1673,2024-08-11,Beauty,South,Debit Card,23.11,2,10,41.6
+1525,2024-08-11,Toys,East,UPI,28.64,3,5,81.62
+3031,2024-08-11,Groceries,South,UPI,14.86,4,15,50.52
+1857,2024-08-11,Beauty,West,Credit Card,33.3,2,15,56.61
+3248,2024-08-12,Groceries,North,Cash,15.28,3,0,45.84
+3488,2024-08-12,Groceries,North,Cash,14.62,4,5,55.56
+2694,2024-08-12,Beauty,South,Debit Card,36.44,4,5,138.47
+3352,2024-08-12,Clothing,South,Credit Card,35.28,3,10,95.26
+1830,2024-08-12,Clothing,South,UPI,40.26,4,0,161.04
+1291,2024-08-13,Groceries,East,Credit Card,15.32,1,0,15.32
+1206,2024-08-13,Groceries,South,UPI,16.14,4,0,64.56
+3019,2024-08-13,Toys,West,UPI,24.06,2,0,48.12
+2504,2024-08-13,Clothing,North,Debit Card,43.12,1,5,40.96
+1501,2024-08-14,Electronics,South,UPI,276.57,4,0,1106.28
+3945,2024-08-14,Clothing,North,UPI,30.05,3,0,90.15
+2014,2024-08-14,Furniture,East,Debit Card,309.31,4,0,1237.24
+3830,2024-08-14,Toys,West,Credit Card,20.7,5,0,103.5
+2713,2024-08-15,Furniture,East,Debit Card,338.42,3,15,862.97
+3210,2024-08-15,Clothing,East,UPI,38.59,3,0,115.77
+3935,2024-08-15,Groceries,North,Debit Card,15.58,2,10,28.04
+3986,2024-08-15,Electronics,East,Credit Card,248.41,2,10,447.14
+3056,2024-08-16,Furniture,North,UPI,387.41,2,0,774.82
+1533,2024-08-17,Electronics,North,Credit Card,313.68,3,5,893.99
+3614,2024-08-17,Groceries,East,UPI,17.35,5,20,69.4
+1503,2024-08-17,Groceries,West,UPI,10.97,1,0,10.97
+3856,2024-08-18,Groceries,North,Credit Card,10.95,3,20,26.28
+3729,2024-08-18,Toys,South,Cash,20.59,5,0,102.95
+2655,2024-08-18,Clothing,East,Cash,30.33,3,5,86.44
+1333,2024-08-18,Furniture,West,Credit Card,260.89,2,0,521.78
+1513,2024-08-18,Electronics,South,Credit Card,177.27,3,0,531.81
+2636,2024-08-18,Groceries,North,Cash,13.45,3,20,32.28
+1958,2024-08-19,Groceries,West,Debit Card,17.99,1,0,17.99
+3754,2024-08-19,Clothing,West,Debit Card,41.31,5,5,196.22
+3619,2024-08-19,Toys,West,Credit Card,30.73,5,10,138.28
+3520,2024-08-20,Beauty,South,UPI,37.1,5,0,185.5
+1573,2024-08-20,Electronics,South,Cash,280.92,4,0,1123.68
+1549,2024-08-20,Toys,East,Credit Card,21.78,5,0,108.9
+3734,2024-08-20,Furniture,South,Debit Card,291.69,3,15,743.81
+3867,2024-08-20,Groceries,South,UPI,18.4,2,0,36.8
+2737,2024-08-20,Electronics,West,Credit Card,294.06,4,20,940.99
+3708,2024-08-20,Groceries,West,Credit Card,18.18,5,0,90.9
+2622,2024-08-20,Beauty,South,Debit Card,23.64,2,5,44.92
+1946,2024-08-21,Toys,South,UPI,30.26,4,10,108.94
+3233,2024-08-21,Groceries,West,UPI,10.99,3,5,31.32
+1691,2024-08-21,Groceries,East,Credit Card,17.82,1,15,15.15
+3308,2024-08-22,Furniture,West,Cash,386.47,2,0,772.94
+2182,2024-08-22,Groceries,South,Credit Card,11.27,4,5,42.83
+2320,2024-08-22,Clothing,East,Debit Card,39.81,3,10,107.49
+2222,2024-08-23,Groceries,East,Credit Card,12.24,2,10,22.03
+2490,2024-08-23,Electronics,North,UPI,250.34,3,5,713.47
+1683,2024-08-23,Beauty,West,Credit Card,21.5,2,0,43.0
+3400,2024-08-23,Electronics,West,Cash,179.74,4,10,647.06
+3405,2024-08-24,Clothing,North,Credit Card,36.27,4,0,145.08
+2190,2024-08-24,Groceries,South,Credit Card,14.88,2,20,23.81
+3319,2024-08-24,Clothing,South,Debit Card,44.6,2,0,89.2
+2724,2024-08-24,Groceries,West,Credit Card,15.46,2,10,27.83
+2873,2024-08-24,Groceries,West,Debit Card,14.31,5,15,60.82
+1384,2024-08-24,Groceries,North,Debit Card,15.11,3,0,45.33
+2455,2024-08-25,Beauty,South,Credit Card,34.02,2,5,64.64
+1147,2024-08-26,Clothing,South,UPI,51.73,3,20,124.15
+3964,2024-08-27,Groceries,South,Debit Card,14.03,3,0,42.09
+1378,2024-08-27,Electronics,North,UPI,263.75,5,10,1186.88
+2956,2024-08-27,Toys,West,Credit Card,30.47,3,0,91.41
+3274,2024-08-27,Furniture,North,Credit Card,291.73,3,0,875.19
+3543,2024-08-27,Groceries,South,UPI,13.76,2,15,23.39
+3103,2024-08-28,Clothing,North,UPI,51.67,1,0,51.67
+1611,2024-08-28,Clothing,East,UPI,33.44,1,5,31.77
+1659,2024-08-28,Electronics,North,Credit Card,198.94,2,0,397.88
+2480,2024-08-28,Groceries,South,UPI,17.56,4,0,70.24
+1524,2024-08-28,Beauty,South,UPI,27.9,4,20,89.28
+3584,2024-08-29,Beauty,North,Credit Card,31.61,2,0,63.22
+3126,2024-08-29,Toys,North,Credit Card,18.32,5,10,82.44
+1721,2024-08-29,Beauty,South,UPI,29.66,5,10,133.47
+2998,2024-08-29,Clothing,West,UPI,38.35,2,5,72.87
+3367,2024-08-30,Groceries,North,Debit Card,14.65,3,0,43.95
+1058,2024-08-30,Beauty,North,UPI,32.09,2,0,64.18
+3655,2024-08-30,Beauty,East,Credit Card,27.63,3,0,82.89
+3344,2024-08-31,Groceries,East,Credit Card,15.56,5,15,66.13
+3884,2024-08-31,Clothing,North,Debit Card,46.65,2,5,88.64
+1980,2024-08-31,Clothing,East,Debit Card,32.27,5,5,153.28
+3071,2024-08-31,Toys,North,Debit Card,28.01,5,0,140.05
+2319,2024-08-31,Clothing,East,UPI,39.49,1,20,31.59
+2817,2024-09-01,Toys,South,Debit Card,25.47,1,0,25.47
+1456,2024-09-01,Groceries,North,UPI,14.76,2,5,28.04
+1155,2024-09-01,Clothing,East,UPI,40.71,2,5,77.35
+1869,2024-09-01,Toys,East,UPI,30.26,3,20,72.62
+3766,2024-09-02,Beauty,North,UPI,34.93,3,5,99.55
+1744,2024-09-02,Electronics,East,Debit Card,276.36,4,20,884.35
+1344,2024-09-02,Electronics,East,Debit Card,225.97,5,0,1129.85
+2478,2024-09-03,Furniture,East,Debit Card,388.6,5,0,1943.0
+1645,2024-09-03,Furniture,South,UPI,356.64,5,5,1694.04
+2500,2024-09-03,Groceries,North,UPI,13.5,3,10,36.45
+1067,2024-09-03,Electronics,North,UPI,228.24,4,20,730.37
+2277,2024-09-03,Groceries,West,Debit Card,11.15,5,15,47.39
+3613,2024-09-04,Toys,East,Credit Card,21.66,2,0,43.32
+1015,2024-09-04,Beauty,East,UPI,31.1,3,5,88.64
+1134,2024-09-04,Beauty,South,Credit Card,36.07,1,15,30.66
+3359,2024-09-04,Groceries,East,Debit Card,15.81,3,0,47.43
+3793,2024-09-04,Beauty,East,Debit Card,30.11,5,5,143.02
+1413,2024-09-04,Groceries,East,Credit Card,15.84,2,10,28.51
+2568,2024-09-04,Furniture,North,UPI,278.05,1,10,250.24
+2874,2024-09-05,Clothing,East,Debit Card,35.16,1,0,35.16
+1941,2024-09-05,Electronics,South,Credit Card,324.75,1,0,324.75
+2745,2024-09-05,Electronics,North,Debit Card,244.15,5,20,976.6
+2363,2024-09-06,Electronics,East,UPI,240.43,3,10,649.16
+3827,2024-09-06,Groceries,South,UPI,16.67,4,0,66.68
+3044,2024-09-06,Clothing,South,UPI,42.3,4,5,160.74
+3299,2024-09-06,Clothing,East,UPI,50.31,5,10,226.4
+2232,2024-09-07,Toys,North,Debit Card,27.81,3,0,83.43
+3562,2024-09-07,Electronics,South,UPI,217.02,5,0,1085.1
+3329,2024-09-07,Groceries,West,UPI,19.18,3,10,51.79
+1856,2024-09-07,Groceries,South,UPI,18.66,4,20,59.71
+1863,2024-09-07,Groceries,North,Credit Card,10.58,2,15,17.99
+1164,2024-09-07,Groceries,East,Credit Card,11.2,4,10,40.32
+1124,2024-09-07,Clothing,East,Credit Card,50.56,3,0,151.68
+2994,2024-09-07,Furniture,South,UPI,213.55,3,15,544.55
+2126,2024-09-08,Electronics,South,Cash,218.03,1,5,207.13
+2172,2024-09-08,Clothing,West,UPI,38.9,3,15,99.2
+2309,2024-09-08,Groceries,South,UPI,11.69,5,10,52.6
+2666,2024-09-08,Groceries,West,Debit Card,14.01,3,0,42.03
+2125,2024-09-08,Electronics,West,Credit Card,187.97,4,5,714.29
+2644,2024-09-09,Furniture,West,UPI,356.74,1,0,356.74
+2975,2024-09-09,Beauty,South,Debit Card,22.8,5,10,102.6
+3796,2024-09-09,Groceries,South,Credit Card,14.0,1,0,14.0
+2386,2024-09-09,Clothing,West,Credit Card,30.99,1,0,30.99
+1668,2024-09-09,Clothing,North,UPI,31.69,4,10,114.08
+2837,2024-09-10,Groceries,North,UPI,14.06,2,15,23.9
+3797,2024-09-10,Clothing,South,Debit Card,36.71,1,5,34.87
+2045,2024-09-10,Clothing,West,UPI,36.4,1,10,32.76
+3077,2024-09-11,Toys,West,Debit Card,22.87,1,5,21.73
+1904,2024-09-11,Electronics,South,UPI,252.11,2,5,479.01
+3888,2024-09-11,Clothing,South,Credit Card,34.32,2,0,68.64
+2676,2024-09-12,Beauty,South,Credit Card,37.09,1,10,33.38
+1265,2024-09-12,Electronics,West,UPI,264.36,1,0,264.36
+2680,2024-09-12,Electronics,South,Debit Card,222.51,1,10,200.26
+2171,2024-09-12,Electronics,West,Cash,232.52,4,0,930.08
+1761,2024-09-12,Furniture,East,Credit Card,324.93,1,0,324.93
+3841,2024-09-12,Groceries,South,Credit Card,13.06,2,5,24.81
+1373,2024-09-13,Clothing,West,Credit Card,29.9,5,15,127.08
+3588,2024-09-13,Groceries,West,Credit Card,14.03,3,20,33.67
+2354,2024-09-13,Groceries,East,UPI,13.31,3,0,39.93
+1565,2024-09-13,Clothing,West,UPI,29.52,5,15,125.46
+2270,2024-09-14,Clothing,North,UPI,46.52,1,0,46.52
+3395,2024-09-15,Groceries,South,Credit Card,14.67,3,10,39.61
+2537,2024-09-15,Groceries,North,Credit Card,15.01,3,0,45.03
+3406,2024-09-15,Clothing,East,Credit Card,48.61,1,0,48.61
+3941,2024-09-15,Furniture,South,UPI,244.65,2,20,391.44
+2238,2024-09-16,Electronics,South,UPI,241.58,4,0,966.32
+2206,2024-09-16,Beauty,South,Debit Card,22.32,4,0,89.28
+2167,2024-09-16,Clothing,East,Debit Card,37.04,3,15,94.45
+3027,2024-09-16,Groceries,East,Credit Card,16.56,3,0,49.68
+1403,2024-09-16,Electronics,North,Credit Card,321.62,3,20,771.89
+3623,2024-09-17,Clothing,South,Credit Card,46.02,2,5,87.44
+1965,2024-09-17,Groceries,West,Credit Card,15.72,2,0,31.44
+1272,2024-09-18,Electronics,North,UPI,290.29,1,15,246.75
+2834,2024-09-18,Groceries,North,Credit Card,15.87,3,10,42.85
+3101,2024-09-18,Groceries,South,Debit Card,11.64,1,5,11.06
+3994,2024-09-18,Electronics,North,UPI,255.86,1,0,255.86
+3014,2024-09-18,Clothing,North,Debit Card,49.01,2,5,93.12
+3146,2024-09-19,Clothing,North,Credit Card,42.04,3,10,113.51
+3701,2024-09-19,Beauty,South,UPI,25.74,3,10,69.5
+1346,2024-09-19,Beauty,East,Cash,31.08,4,10,111.89
+2239,2024-09-19,Groceries,West,Debit Card,17.11,2,10,30.8
+1289,2024-09-19,Groceries,West,Credit Card,13.81,4,5,52.48
+3122,2024-09-20,Toys,South,Credit Card,22.41,3,0,67.23
+1329,2024-09-21,Clothing,North,Cash,46.78,3,0,140.34
+1231,2024-09-21,Electronics,South,Debit Card,275.41,1,5,261.64
+2056,2024-09-21,Clothing,North,Credit Card,45.87,1,0,45.87
+1666,2024-09-21,Clothing,West,Credit Card,34.71,2,10,62.48
+3778,2024-09-21,Furniture,East,Credit Card,389.85,4,10,1403.46
+3197,2024-09-22,Groceries,East,UPI,17.61,5,10,79.24
+3581,2024-09-22,Furniture,South,Credit Card,242.64,4,0,970.56
+2470,2024-09-23,Electronics,East,Debit Card,198.67,5,10,894.01
+1888,2024-09-23,Groceries,East,Credit Card,13.01,1,20,10.41
+3215,2024-09-24,Groceries,North,UPI,17.72,5,5,84.17
+2072,2024-09-24,Groceries,West,UPI,16.49,1,20,13.19
+3999,2024-09-24,Beauty,North,Credit Card,27.16,1,5,25.8
+3963,2024-09-25,Beauty,East,Credit Card,26.13,3,0,78.39
+1541,2024-09-25,Clothing,West,Debit Card,30.84,2,10,55.51
+1923,2024-09-26,Furniture,South,Credit Card,228.58,3,5,651.45
+3763,2024-09-26,Clothing,West,Debit Card,44.0,1,0,44.0
+3151,2024-09-26,Electronics,South,UPI,234.28,4,0,937.12
+2731,2024-09-27,Electronics,East,Cash,250.48,4,20,801.54
+2545,2024-09-27,Furniture,East,Credit Card,348.75,3,10,941.62
+2347,2024-09-28,Clothing,North,Credit Card,42.63,2,0,85.26
+3370,2024-09-28,Furniture,South,Credit Card,382.57,1,15,325.18
+2252,2024-09-28,Furniture,West,Debit Card,384.87,1,0,384.87
+2986,2024-09-28,Groceries,East,Cash,19.46,4,5,73.95
+1495,2024-09-29,Clothing,South,UPI,32.69,5,0,163.45
+3899,2024-09-29,Toys,East,UPI,25.59,2,10,46.06
+2345,2024-09-29,Clothing,North,Cash,28.36,3,0,85.08
+3073,2024-09-29,Groceries,West,Credit Card,11.07,5,5,52.58
+3336,2024-09-30,Clothing,East,UPI,47.2,2,15,80.24
+1607,2024-09-30,Groceries,North,UPI,17.25,4,5,65.55
+2183,2024-10-01,Furniture,North,Credit Card,265.73,5,15,1129.35
+2213,2024-10-01,Clothing,North,Credit Card,30.96,2,5,58.82
+3813,2024-10-01,Electronics,East,Credit Card,213.13,4,20,682.02
+2409,2024-10-01,Furniture,West,Debit Card,258.61,5,0,1293.05
+1029,2024-10-01,Groceries,West,Credit Card,13.57,1,0,13.57
+3035,2024-10-01,Beauty,East,Credit Card,35.27,5,10,158.72
+1246,2024-10-02,Electronics,South,UPI,224.26,1,0,224.26
+2828,2024-10-02,Groceries,South,Debit Card,17.98,2,0,35.96
+3134,2024-10-02,Clothing,East,UPI,38.44,1,5,36.52
+3940,2024-10-03,Beauty,East,UPI,21.21,3,0,63.63
+2826,2024-10-03,Furniture,South,Debit Card,373.06,3,20,895.34
+3823,2024-10-03,Beauty,East,Credit Card,38.51,2,20,61.62
+2241,2024-10-04,Groceries,East,Credit Card,13.02,5,20,52.08
+2039,2024-10-05,Electronics,West,Debit Card,261.78,4,0,1047.12
+1520,2024-10-05,Groceries,North,Debit Card,19.47,4,10,70.09
+2954,2024-10-05,Beauty,East,Credit Card,24.54,3,0,73.62
+3806,2024-10-05,Clothing,East,Debit Card,44.13,4,0,176.52
+1245,2024-10-05,Furniture,South,Cash,368.02,3,15,938.45
+2839,2024-10-05,Beauty,West,UPI,21.61,4,0,86.44
+1088,2024-10-06,Beauty,North,Debit Card,34.07,2,15,57.92
+2431,2024-10-06,Groceries,North,Cash,14.5,4,0,58.0
+1532,2024-10-06,Toys,West,UPI,30.73,5,15,130.6
+3762,2024-10-07,Clothing,North,Cash,45.54,1,0,45.54
+1757,2024-10-07,Groceries,South,UPI,11.23,2,10,20.21
+2664,2024-10-07,Beauty,West,Debit Card,31.18,5,5,148.11
+3155,2024-10-07,Groceries,East,UPI,16.9,5,20,67.6
+1366,2024-10-07,Furniture,East,Credit Card,280.16,4,0,1120.64
+1019,2024-10-07,Groceries,West,Credit Card,18.53,3,0,55.59
+3966,2024-10-07,Electronics,South,Cash,243.79,2,0,487.58
+2756,2024-10-07,Beauty,West,Debit Card,28.43,2,15,48.33
+3509,2024-10-08,Clothing,East,Debit Card,43.13,4,0,172.52
+1454,2024-10-08,Beauty,East,Credit Card,37.17,1,10,33.45
+2885,2024-10-08,Furniture,North,Credit Card,230.95,4,5,877.61
+1005,2024-10-08,Electronics,East,Credit Card,316.33,2,0,632.66
+3227,2024-10-08,Toys,East,Credit Card,21.36,5,5,101.46
+2638,2024-10-08,Groceries,West,Credit Card,12.84,2,0,25.68
+3864,2024-10-09,Electronics,South,Credit Card,204.58,5,0,1022.9
+3005,2024-10-10,Clothing,North,Credit Card,48.08,2,20,76.93
+1818,2024-10-10,Clothing,North,Credit Card,51.18,2,10,92.12
+1989,2024-10-12,Clothing,West,UPI,44.16,5,15,187.68
+3087,2024-10-12,Groceries,North,Credit Card,18.35,4,15,62.39
+3422,2024-10-12,Furniture,North,Cash,220.8,1,10,198.72
+1479,2024-10-12,Groceries,North,Debit Card,17.33,3,0,51.99
+3432,2024-10-12,Beauty,South,UPI,33.19,4,20,106.21
+3245,2024-10-13,Toys,North,Credit Card,25.41,3,5,72.42
+3297,2024-10-13,Clothing,East,Cash,37.73,4,10,135.83
+2445,2024-10-13,Furniture,West,Debit Card,251.0,2,0,502.0
+3906,2024-10-13,Electronics,West,Credit Card,292.12,4,5,1110.06
+3636,2024-10-13,Clothing,South,UPI,37.17,1,0,37.17
+3256,2024-10-14,Groceries,North,Debit Card,13.22,5,15,56.19
+2388,2024-10-14,Beauty,East,Debit Card,26.38,1,10,23.74
+2725,2024-10-14,Electronics,South,Credit Card,197.04,1,0,197.04
+1885,2024-10-14,Toys,North,Debit Card,29.38,4,5,111.64
+3469,2024-10-14,Groceries,West,Credit Card,17.28,4,5,65.66
+3326,2024-10-14,Electronics,West,Credit Card,203.47,3,10,549.37
+3971,2024-10-14,Groceries,West,Debit Card,12.33,1,5,11.71
+2487,2024-10-14,Clothing,West,UPI,42.56,3,15,108.53
+3200,2024-10-15,Beauty,East,Credit Card,27.58,4,15,93.77
+1582,2024-10-15,Electronics,South,UPI,266.45,3,5,759.38
+2425,2024-10-16,Electronics,North,Debit Card,261.55,2,0,523.1
+2920,2024-10-16,Clothing,South,Debit Card,30.62,1,5,29.09
+2758,2024-10-16,Clothing,North,Debit Card,38.27,1,0,38.27
+3125,2024-10-18,Groceries,South,Credit Card,17.25,4,0,69.0
+3102,2024-10-18,Groceries,West,UPI,18.51,3,0,55.53
+3389,2024-10-18,Groceries,West,Credit Card,15.84,2,0,31.68
+3157,2024-10-18,Groceries,West,UPI,15.48,3,10,41.8
+2093,2024-10-18,Clothing,North,Debit Card,44.24,4,0,176.96
+2079,2024-10-18,Electronics,South,UPI,284.13,3,5,809.77
+3634,2024-10-18,Clothing,South,Credit Card,44.79,4,20,143.33
+3145,2024-10-19,Clothing,West,Cash,46.75,3,5,133.24
+1736,2024-10-19,Furniture,East,UPI,325.53,3,10,878.93
+2709,2024-10-19,Groceries,North,Credit Card,15.41,5,5,73.2
+3651,2024-10-19,Groceries,North,Credit Card,18.91,2,0,37.82
+1390,2024-10-19,Electronics,South,UPI,274.4,5,0,1372.0
+2544,2024-10-19,Groceries,North,Debit Card,12.29,1,15,10.45
+1039,2024-10-20,Groceries,West,UPI,12.09,4,5,45.94
+3066,2024-10-21,Furniture,North,UPI,379.33,1,10,341.4
+3781,2024-10-21,Furniture,South,Debit Card,339.16,4,10,1220.98
+1690,2024-10-22,Groceries,South,Debit Card,10.88,4,0,43.52
+1167,2024-10-22,Toys,North,UPI,30.24,1,20,24.19
+1309,2024-10-22,Beauty,South,UPI,34.98,4,0,139.92
+1819,2024-10-22,Groceries,North,Debit Card,15.31,2,10,27.56
+1540,2024-10-23,Groceries,South,Credit Card,11.99,2,15,20.38
+2097,2024-10-23,Groceries,East,UPI,13.08,5,10,58.86
+2228,2024-10-23,Furniture,East,UPI,291.69,4,0,1166.76
+3131,2024-10-24,Clothing,West,UPI,49.53,4,0,198.12
+1632,2024-10-24,Furniture,West,Debit Card,268.82,1,0,268.82
+3689,2024-10-24,Beauty,West,Cash,29.13,3,5,83.02
+1753,2024-10-25,Electronics,West,Debit Card,236.1,5,0,1180.5
+2855,2024-10-25,Beauty,West,Cash,38.1,4,20,121.92
+2335,2024-10-26,Furniture,South,Credit Card,388.39,1,5,368.97
+1250,2024-10-26,Clothing,South,Debit Card,33.91,4,10,122.08
+1576,2024-10-26,Clothing,East,UPI,37.1,2,0,74.2
+3454,2024-10-26,Groceries,South,Debit Card,15.5,2,0,31.0
+1214,2024-10-27,Clothing,South,Cash,32.82,2,15,55.79
+1706,2024-10-27,Toys,West,Debit Card,31.17,5,0,155.85
+1825,2024-10-27,Clothing,West,UPI,42.43,4,15,144.26
+2330,2024-10-27,Clothing,South,UPI,31.88,3,0,95.64
+1404,2024-10-27,Electronics,South,Cash,237.12,3,0,711.36
+2109,2024-10-27,Electronics,South,Credit Card,219.43,2,0,438.86
+2543,2024-10-28,Furniture,West,Credit Card,361.39,4,5,1373.28
+3327,2024-10-28,Beauty,North,UPI,22.35,1,10,20.12
+2450,2024-10-29,Clothing,East,Credit Card,47.4,3,15,120.87
+3095,2024-10-29,Furniture,South,UPI,220.71,1,5,209.67
+3719,2024-10-29,Toys,East,Credit Card,20.41,5,0,102.05
+2433,2024-10-29,Clothing,East,Credit Card,30.54,1,15,25.96
+2658,2024-10-29,Groceries,North,UPI,18.54,4,5,70.45
+3653,2024-10-29,Groceries,North,Debit Card,11.45,4,10,41.22
+3854,2024-10-30,Electronics,North,Credit Card,293.32,3,0,879.96
+3489,2024-10-30,Groceries,South,Debit Card,18.84,3,20,45.22
+2327,2024-10-30,Clothing,East,Credit Card,42.47,3,15,108.3
+3203,2024-10-31,Furniture,South,UPI,331.53,1,15,281.8
+1051,2024-10-31,Electronics,West,Credit Card,240.85,2,0,481.7
+2867,2024-10-31,Beauty,East,UPI,31.94,4,0,127.76
+3323,2024-11-01,Groceries,South,UPI,12.39,2,20,27.75
+3441,2024-11-01,Clothing,West,Debit Card,36.91,4,5,196.36
+2304,2024-11-01,Furniture,South,Debit Card,361.99,2,0,1013.57
+1556,2024-11-01,Toys,North,Credit Card,18.23,4,10,91.88
+1078,2024-11-02,Groceries,East,UPI,15.25,3,20,51.24
+2078,2024-11-02,Toys,South,UPI,25.71,2,10,64.79
+1099,2024-11-02,Electronics,South,Credit Card,298.27,2,0,835.16
+2991,2024-11-02,Electronics,East,Debit Card,231.89,5,10,1460.91
+2189,2024-11-03,Electronics,North,Debit Card,200.85,2,0,562.38
+3504,2024-11-03,Furniture,East,Debit Card,242.63,2,10,611.43
+1149,2024-11-03,Clothing,East,Credit Card,49.03,5,5,326.05
+3113,2024-11-04,Electronics,South,Debit Card,304.5,2,10,767.34
+3917,2024-11-04,Electronics,West,UPI,214.35,4,10,1080.32
+1687,2024-11-04,Beauty,West,Credit Card,36.33,5,0,254.31
+2035,2024-11-04,Groceries,South,Credit Card,19.03,4,5,101.24
+3477,2024-11-05,Clothing,North,Credit Card,44.57,2,0,124.8
+1568,2024-11-05,Toys,West,Credit Card,27.5,1,15,32.72
+1360,2024-11-05,Electronics,North,UPI,203.69,3,10,769.95
+2337,2024-11-05,Groceries,West,UPI,14.76,2,10,37.2
+2953,2024-11-05,Groceries,South,Debit Card,16.45,2,0,46.06
+1064,2024-11-06,Electronics,North,Debit Card,261.39,3,5,1042.95
+1954,2024-11-06,Electronics,North,Credit Card,203.25,4,0,1138.2
+3137,2024-11-06,Electronics,North,Cash,201.79,4,5,1073.52
+1079,2024-11-06,Groceries,West,Credit Card,12.0,1,10,15.12
+2941,2024-11-06,Groceries,West,Cash,18.7,3,10,70.69
+2152,2024-11-07,Electronics,West,Credit Card,218.78,3,10,826.99
+3500,2024-11-08,Beauty,South,Credit Card,21.92,2,0,61.38
+1564,2024-11-08,Furniture,North,Credit Card,258.51,4,5,1375.27
+2830,2024-11-08,Furniture,South,Credit Card,280.09,3,0,1176.38
+1394,2024-11-08,Toys,South,Credit Card,17.68,4,0,99.01
+2065,2024-11-09,Clothing,South,Debit Card,43.57,4,10,219.59
+3671,2024-11-09,Electronics,West,Credit Card,241.17,1,10,303.87
+3398,2024-11-10,Clothing,East,Credit Card,42.33,3,20,142.23
+2602,2024-11-10,Clothing,South,Debit Card,34.31,2,0,96.07
+1803,2024-11-10,Clothing,West,UPI,50.44,3,0,211.85
+2407,2024-11-10,Electronics,North,Credit Card,305.73,5,0,2140.11
+3347,2024-11-10,Clothing,East,Credit Card,50.35,2,15,119.83
+1466,2024-11-11,Electronics,East,Debit Card,236.0,3,20,792.96
+1957,2024-11-11,Clothing,South,UPI,44.38,5,0,310.66
+3307,2024-11-11,Beauty,North,Debit Card,23.08,3,15,82.4
+1191,2024-11-11,Clothing,North,UPI,44.32,3,10,167.53
+3740,2024-11-12,Furniture,West,UPI,280.71,4,0,1571.98
+2081,2024-11-13,Groceries,North,Credit Card,11.09,1,0,15.53
+2588,2024-11-13,Groceries,East,Credit Card,17.9,5,0,125.3
+1724,2024-11-13,Groceries,South,Credit Card,14.48,3,0,60.82
+1022,2024-11-14,Clothing,East,Credit Card,40.45,1,5,53.8
+2881,2024-11-14,Furniture,East,Credit Card,264.01,3,10,997.96
+2841,2024-11-14,Electronics,North,Cash,266.28,4,20,1192.93
+2599,2024-11-14,Clothing,South,UPI,31.78,2,0,88.98
+3731,2024-11-14,Groceries,East,Debit Card,17.11,4,0,95.82
+1427,2024-11-15,Furniture,North,Cash,304.06,2,0,851.37
+2393,2024-11-15,Electronics,East,Credit Card,306.97,4,15,1461.18
+1700,2024-11-15,Toys,North,Credit Card,21.77,4,5,115.82
+1414,2024-11-15,Groceries,South,Credit Card,17.61,4,0,98.62
+3091,2024-11-15,Clothing,West,UPI,43.97,4,0,246.23
+3792,2024-11-15,Toys,East,Debit Card,28.67,5,10,180.62
+2752,2024-11-15,Groceries,East,Credit Card,10.84,3,0,45.53
+2467,2024-11-16,Toys,West,Debit Card,29.68,4,0,166.21
+1772,2024-11-16,Groceries,South,Credit Card,13.25,4,15,63.07
+3868,2024-11-16,Electronics,West,Credit Card,287.73,3,0,1208.47
+1043,2024-11-16,Electronics,West,UPI,228.8,3,0,960.96
+3839,2024-11-17,Electronics,South,Credit Card,196.15,3,15,700.26
+1451,2024-11-17,Clothing,West,Cash,31.01,5,0,217.07
+1170,2024-11-18,Electronics,East,Cash,246.13,4,15,1171.58
+3170,2024-11-18,Electronics,East,Credit Card,302.0,5,0,2114.0
+1684,2024-11-18,Electronics,West,UPI,275.93,4,0,1545.21
+1353,2024-11-18,Electronics,West,UPI,320.16,3,15,1142.97
+3221,2024-11-18,Furniture,North,UPI,376.99,2,10,950.01
+3407,2024-11-18,Groceries,East,UPI,13.56,2,15,32.27
+2608,2024-11-18,Beauty,East,Cash,38.22,5,10,240.79
+1383,2024-11-19,Groceries,South,UPI,10.95,3,15,39.09
+1140,2024-11-19,Groceries,South,Credit Card,19.47,1,0,27.26
+2175,2024-11-19,Toys,North,Debit Card,30.67,5,0,214.69
+2400,2024-11-19,Clothing,West,UPI,44.87,5,5,298.39
+1981,2024-11-19,Groceries,South,UPI,10.76,3,5,42.93
+2202,2024-11-19,Beauty,South,Debit Card,28.9,3,0,121.38
+3288,2024-11-19,Furniture,West,Debit Card,240.47,5,20,1346.63
+2479,2024-11-19,Groceries,East,Credit Card,18.78,5,0,131.46
+3672,2024-11-20,Furniture,South,Credit Card,256.03,2,0,716.88
+2334,2024-11-20,Electronics,South,UPI,213.93,1,10,269.55
+3918,2024-11-20,Groceries,East,Debit Card,18.89,2,0,52.89
+2777,2024-11-20,Beauty,East,Cash,35.89,1,5,47.73
+1777,2024-11-20,Groceries,North,Debit Card,15.94,3,10,60.25
+2869,2024-11-20,Clothing,South,Credit Card,37.35,1,10,47.06
+1060,2024-11-21,Toys,West,Debit Card,31.92,2,0,89.38
+1731,2024-11-21,Electronics,North,Debit Card,253.07,3,15,903.46
+2893,2024-11-21,Beauty,East,Debit Card,36.16,5,15,215.15
+1526,2024-11-21,Toys,North,Cash,26.27,1,0,36.78
+2651,2024-11-21,Furniture,South,Credit Card,242.47,5,0,1697.29
+3415,2024-11-22,Furniture,North,Debit Card,217.19,1,0,304.07
+1109,2024-11-22,Groceries,South,Credit Card,14.98,5,20,83.89
+2535,2024-11-22,Toys,North,UPI,18.9,4,5,100.55
+1613,2024-11-24,Beauty,West,Credit Card,29.08,1,0,40.71
+1527,2024-11-24,Beauty,South,UPI,29.18,5,15,173.62
+3278,2024-11-24,Groceries,South,Credit Card,15.17,4,5,80.7
+2631,2024-11-25,Electronics,North,Cash,202.06,2,15,480.9
+3825,2024-11-25,Beauty,East,UPI,33.86,4,20,151.69
+3527,2024-11-25,Clothing,South,UPI,35.57,5,0,248.99
+1128,2024-11-26,Groceries,West,Credit Card,12.56,4,10,63.3
+3973,2024-11-26,Clothing,West,UPI,43.03,1,15,51.21
+1622,2024-11-26,Groceries,North,Credit Card,19.43,1,20,21.76
+1788,2024-11-27,Electronics,East,Cash,301.58,2,0,844.42
+1798,2024-11-27,Clothing,East,Debit Card,38.53,3,20,129.46
+2736,2024-11-27,Electronics,East,UPI,234.31,2,0,656.07
+2645,2024-11-27,Groceries,East,Cash,15.25,4,5,81.13
+3563,2024-11-27,Clothing,East,UPI,47.92,4,10,241.52
+2114,2024-11-28,Groceries,South,Debit Card,15.39,4,10,77.57
+2656,2024-11-28,Beauty,South,Cash,27.61,2,0,77.31
+3746,2024-11-28,Electronics,East,Credit Card,224.25,3,5,894.76
+1937,2024-11-28,Groceries,South,UPI,18.39,1,5,24.46
+3946,2024-11-28,Groceries,North,UPI,11.57,2,20,25.92
+3684,2024-11-29,Electronics,East,UPI,271.82,1,0,380.55
+1743,2024-11-29,Clothing,West,UPI,48.79,1,20,54.64
+3080,2024-11-29,Clothing,East,Credit Card,44.36,4,5,236.0
+1569,2024-11-29,Groceries,East,Cash,19.47,2,15,46.34
+1605,2024-11-29,Clothing,East,UPI,47.1,4,10,237.38
+1609,2024-11-29,Groceries,North,Debit Card,17.35,2,10,43.72
+1804,2024-11-29,Beauty,West,UPI,30.07,2,0,84.2
+2734,2024-11-30,Groceries,East,UPI,15.38,2,5,40.91
+1486,2024-11-30,Groceries,North,UPI,12.31,5,0,86.17
+2127,2024-11-30,Electronics,East,Cash,256.6,2,20,574.78
+1195,2024-11-30,Electronics,North,UPI,191.05,2,5,508.19
+2106,2024-11-30,Furniture,East,UPI,299.03,3,0,1255.93
+2519,2024-11-30,Beauty,West,Cash,27.81,4,0,155.74
+1897,2024-11-30,Toys,South,UPI,22.57,4,0,126.39
+2742,2024-12-01,Furniture,South,UPI,271.86,3,0,1141.81
+2493,2024-12-01,Furniture,North,Credit Card,293.23,4,0,1642.09
+3900,2024-12-01,Electronics,North,Credit Card,245.74,4,5,1307.34
+3886,2024-12-01,Electronics,East,Credit Card,290.56,1,0,406.78
+2041,2024-12-01,Clothing,South,Debit Card,45.77,3,10,173.01
+2942,2024-12-02,Clothing,West,UPI,46.43,2,5,123.5
+2858,2024-12-02,Beauty,East,Credit Card,26.58,2,10,66.98
+3039,2024-12-02,Clothing,North,Debit Card,36.05,1,0,50.47
+1367,2024-12-02,Clothing,South,UPI,39.5,1,0,55.3
+1083,2024-12-04,Groceries,East,Debit Card,13.29,4,10,66.98
+1054,2024-12-04,Groceries,South,UPI,10.93,2,0,30.6
+2396,2024-12-04,Toys,West,Credit Card,24.3,5,10,153.09
+1331,2024-12-04,Groceries,South,UPI,10.95,2,20,24.53
+3216,2024-12-05,Clothing,South,Cash,47.77,2,0,133.76
+3003,2024-12-05,Toys,East,Credit Card,19.41,2,15,46.2
+2517,2024-12-05,Groceries,North,Credit Card,14.09,5,15,83.84
+3496,2024-12-05,Beauty,North,Credit Card,23.93,2,15,56.95
+2894,2024-12-05,Electronics,West,Credit Card,264.64,4,0,1481.98
+2511,2024-12-06,Groceries,North,Credit Card,14.08,4,20,63.08
+2123,2024-12-06,Electronics,South,Credit Card,260.53,1,15,310.03
+2138,2024-12-06,Groceries,West,UPI,14.15,2,0,39.62
+2784,2024-12-06,Clothing,West,UPI,47.43,4,0,265.61
+2145,2024-12-06,Groceries,West,Credit Card,14.35,5,0,100.45
+2092,2024-12-07,Toys,South,Credit Card,25.81,5,0,180.67
+2432,2024-12-07,Beauty,South,UPI,24.11,5,0,168.77
+1483,2024-12-07,Electronics,East,UPI,224.83,2,10,566.57
+1294,2024-12-08,Beauty,West,UPI,29.57,1,10,37.26
+1794,2024-12-08,Beauty,West,Credit Card,31.12,2,5,82.78
+2142,2024-12-08,Clothing,West,Debit Card,44.56,3,0,187.15
+1600,2024-12-08,Groceries,West,Credit Card,12.27,1,15,14.6
+3330,2024-12-09,Groceries,West,UPI,13.54,4,10,68.24
+1577,2024-12-09,Groceries,North,Cash,19.33,4,15,92.01
+3663,2024-12-10,Groceries,East,Cash,13.14,5,15,78.18
+1643,2024-12-10,Furniture,South,Cash,311.19,5,0,2178.33
+3114,2024-12-10,Electronics,West,UPI,211.87,5,0,1483.09
+2300,2024-12-10,Electronics,North,UPI,218.02,3,15,778.33
+3292,2024-12-11,Electronics,South,Debit Card,242.42,5,10,1527.25
+1247,2024-12-11,Groceries,East,Debit Card,14.54,1,5,19.34
+3745,2024-12-12,Electronics,East,UPI,287.4,2,0,804.72
+1847,2024-12-12,Clothing,South,UPI,33.68,1,5,44.79
+3678,2024-12-12,Electronics,South,Debit Card,258.9,2,0,724.92
+2760,2024-12-13,Beauty,East,UPI,32.22,1,0,45.11
+1393,2024-12-13,Groceries,West,Credit Card,16.24,5,20,90.94
+1901,2024-12-13,Clothing,East,Debit Card,41.21,4,10,207.7
+3093,2024-12-13,Groceries,East,UPI,16.02,2,10,40.37
+3167,2024-12-14,Groceries,South,Credit Card,11.49,4,20,51.48
+2026,2024-12-14,Groceries,East,Credit Card,16.55,3,0,69.51
+3669,2024-12-14,Clothing,North,UPI,44.17,5,5,293.73
+1657,2024-12-14,Groceries,East,Debit Card,14.97,1,0,20.96
+1562,2024-12-16,Furniture,East,Credit Card,223.85,2,0,626.78
+2856,2024-12-16,Clothing,West,Credit Card,49.33,5,15,293.51
+1435,2024-12-16,Groceries,North,Credit Card,15.1,2,10,38.05
+2115,2024-12-16,Furniture,South,Credit Card,296.81,2,10,747.96
+2675,2024-12-16,Furniture,South,Credit Card,300.84,3,15,1074.0
+2248,2024-12-17,Beauty,West,Credit Card,36.69,3,0,154.1
+3944,2024-12-17,Toys,West,Credit Card,28.17,5,0,197.19
+2135,2024-12-17,Clothing,North,Credit Card,29.31,3,10,110.79
+3972,2024-12-17,Groceries,North,Credit Card,19.2,2,15,45.7
+2161,2024-12-18,Beauty,North,UPI,29.47,4,0,165.03
+3438,2024-12-19,Electronics,North,Credit Card,251.94,5,0,1763.58
+2699,2024-12-19,Beauty,East,UPI,28.69,2,10,72.3
+2739,2024-12-19,Groceries,South,Credit Card,14.53,4,10,73.23
+1978,2024-12-19,Electronics,East,Credit Card,178.0,2,5,473.48
+3028,2024-12-19,Groceries,East,Debit Card,11.89,2,10,29.96
+1259,2024-12-20,Groceries,East,UPI,12.97,3,15,46.3
+1421,2024-12-20,Toys,South,UPI,28.34,2,0,79.35
+2286,2024-12-20,Clothing,West,UPI,30.4,3,5,121.3
+1035,2024-12-20,Beauty,West,UPI,25.27,5,0,176.89
+3401,2024-12-21,Groceries,North,Debit Card,12.37,3,0,51.95
+1677,2024-12-21,Beauty,West,Credit Card,32.74,5,10,206.26
+3647,2024-12-21,Toys,East,Credit Card,20.21,5,0,141.47
+3241,2024-12-22,Furniture,East,Debit Card,211.45,5,15,1258.13
+2692,2024-12-22,Clothing,North,Debit Card,30.96,4,0,173.38
+3939,2024-12-22,Clothing,North,Debit Card,36.28,5,0,253.96
+3660,2024-12-22,Electronics,West,Debit Card,255.67,4,20,1145.4
+2960,2024-12-23,Groceries,South,Cash,17.83,1,0,24.96
+3309,2024-12-23,Furniture,North,UPI,292.12,3,0,1226.9
+3874,2024-12-23,Furniture,West,UPI,383.79,2,5,1020.88
+1221,2024-12-23,Clothing,West,Debit Card,39.84,4,0,223.1
+2563,2024-12-23,Groceries,North,Credit Card,13.06,3,15,46.62
+3339,2024-12-23,Clothing,West,Debit Card,40.32,1,5,53.63
+3349,2024-12-23,Clothing,South,Credit Card,45.38,5,0,317.66
+3020,2024-12-24,Toys,West,Credit Card,29.8,1,0,41.72
+3591,2024-12-24,Furniture,East,Debit Card,380.01,2,0,1064.03
+1820,2024-12-24,Beauty,South,Credit Card,37.02,5,0,259.14
+1362,2024-12-24,Furniture,South,Credit Card,333.54,4,10,1681.04
+3332,2024-12-25,Clothing,West,Debit Card,44.58,3,15,159.15
+3858,2024-12-25,Clothing,South,Cash,41.71,4,20,186.86
+1986,2024-12-25,Groceries,North,Credit Card,10.96,4,5,58.31
+1223,2024-12-25,Furniture,North,UPI,323.18,4,0,1809.81
+3412,2024-12-25,Beauty,North,Cash,31.53,1,10,39.73
+2187,2024-12-25,Groceries,West,Credit Card,13.44,2,10,33.87
+3032,2024-12-26,Groceries,South,Debit Card,17.91,1,10,22.57
+1492,2024-12-26,Clothing,West,Cash,43.17,3,10,163.18
+1742,2024-12-26,Electronics,South,Credit Card,296.57,4,5,1577.75
+1538,2024-12-26,Clothing,East,UPI,32.3,4,0,180.88
+3628,2024-12-26,Beauty,South,UPI,32.08,5,5,213.33
+1620,2024-12-26,Clothing,East,Credit Card,38.93,2,10,98.1
+1436,2024-12-26,Furniture,East,Debit Card,294.05,5,20,1646.68
+3598,2024-12-27,Clothing,North,Debit Card,29.82,2,0,83.5
+1047,2024-12-27,Furniture,East,Debit Card,307.68,5,15,1830.7
+3048,2024-12-27,Groceries,South,Cash,12.43,4,0,69.61
+1943,2024-12-27,Furniture,South,Credit Card,273.45,3,10,1033.64
+1472,2024-12-28,Toys,West,UPI,28.43,3,0,119.41
+1875,2024-12-28,Groceries,South,Debit Card,17.68,3,5,70.54
+2316,2024-12-28,Beauty,East,Debit Card,34.17,3,20,114.81
+1998,2024-12-28,Beauty,East,UPI,21.31,4,5,113.37
+2103,2024-12-28,Electronics,North,UPI,291.92,1,15,347.38
+3804,2024-12-28,Electronics,West,Debit Card,186.73,4,0,1045.69
+1499,2024-12-28,Furniture,East,UPI,306.17,3,5,1221.62
+1955,2024-12-29,Groceries,East,UPI,11.77,3,10,44.49
+3948,2024-12-29,Electronics,South,Debit Card,184.45,2,20,413.17
+3272,2024-12-30,Groceries,West,UPI,19.48,1,0,27.27
+2368,2024-12-30,Clothing,West,UPI,41.98,3,10,158.68
+1101,2024-12-30,Furniture,North,Credit Card,296.61,3,20,996.61
+2211,2024-12-30,Furniture,North,UPI,268.64,1,10,338.49
+1910,2024-12-31,Groceries,North,Debit Card,19.29,3,5,76.97
